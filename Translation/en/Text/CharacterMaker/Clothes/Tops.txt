@@ -2,4 +2,10 @@
 // Clothes -> Tops
 //************************************************************
 
-
+ブレザー（パーカー）=Blazer with Hoodie
+デニムジャケット=Denim Jacket
+アイドルワンピース=Idol Onepiece
+ディーラートップス=Dealer Tops
+トレーナー=Sweat Shirt
+着崩しセーター=Loose Sweater
+ハイレグセーラー=High-leg Sailor
