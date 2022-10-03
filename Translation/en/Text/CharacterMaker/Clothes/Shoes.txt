@@ -2,4 +2,9 @@
 // Clothes -> Shoes
 //************************************************************
 
-
+襟付きパンプス=Collared Pumps
+アイドルローファー=Idol Loafers
+ベルトエアシューズ=Belt Air Shoes
+ダッドスニーカー=Dad Sneakers
+スクエアパンプス=Square Pumps
+厚底ローファ=Chunk Loafers
