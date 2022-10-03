@@ -1,5 +1,9 @@
 //************************************************************
 // Clothes -> Bottom
 //************************************************************
-
-
+オフィススカート=Office Skirt
+看護師ボトム=Nurse Bottom
+スクールスカート=School Skirt
+ディーラースカート=Dealer Skirt
+ぺチパンツ=Pettipants
+フリル透けスカート=Transparent Frill Skirt
