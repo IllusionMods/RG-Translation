@@ -50,7 +50,7 @@ Hシーン設定=H Scene Settings
 被写界深度=Depth of field
 
 フォグ=Fog
-ボリュームフォグ=Fog Volume
+ボリュームフォグ=Volumetric fog
 マイクロシャドウ=Micro Shadows
 大域照明=Global Illumination
 グロー=Bloom
@@ -59,9 +59,9 @@ Hシーン設定=H Scene Settings
 ビネット=Vignette
 色収差=Chromatic Aberration
 アンチエイリアス=Anti-Aliasing
-鏡映り込み=Morror Reflections
+鏡映り込み=Mirror Reflections
 影の解像度=Shadow Resolution
-遮蔽=Obstructions
+遮蔽=Hide Obstructions
 
 //------------------------------------------------------------
 // Audio Settings
