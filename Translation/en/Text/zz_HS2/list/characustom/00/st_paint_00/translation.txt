@@ -1,0 +1,42 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+なし=None
+ハート=Heart
+星=Star
+三日月=Crescent Moon
+水滴=Water Drop
+絆創膏=Bandage
+十字=Cross
+五十字=5-Line Cross
+蝶=Butterfly
+クモ=Spider
+クモの巣=Spiderweb
+禁止=Forbidden
+陰陽=Yin-Yang
+バラ=Rose
+キスマーク=Kiss
+瞳=Eye 1
+瞳２=Eye 2
+汚れ=Dirty
+四角=Square
+ピラミッド=Pyramid
+円=Circle
+ぼかし円=Blurred Circle
+ひっかき線=Claw Marks
+バースト=Starburst
+ドットサークル=Dot Circle
+三角１=Triangle 1
+三角２=Triangle 2
+六芒星=Hexagram
+イバラ=Thorns
+炎月=Flame Moon
+手形=Handprint
+猫=Cat
+ヒカリ=Sunburst
+ソヨギ１=Tribal 1
+ソヨギ２=Tribal 2
+花１=Flower 1
+花２=Flower 2
+一棒線=Single Line
+二棒線=Double Line

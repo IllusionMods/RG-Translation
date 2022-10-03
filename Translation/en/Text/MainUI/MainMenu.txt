@@ -1,0 +1,60 @@
+//***********************************************************************
+// Main Menu
+//***********************************************************************
+
+//------------------------------------------------------------
+// Load Game
+//------------------------------------------------------------
+オートセーブデータ一覧=Auto Save Game List
+セーブデータ一覧=Save Game List
+ロード=Load
+セーブ=Save
+プレイ時間：0時間=Play Time: 0 Hour
+プレイ時間：1時間=Play Time: 1 Hour
+r:プレイ時間：([0-9]+)時間=Play Time: $1 Hours
+
+ロードしますか？=Load This Game?
+※警告文=※Warning
+※現在プレイ中のゲームの進行状況は失われます。=※The progress of the game currently being played will be lost.
+
+//------------------------------------------------------------
+// Free H
+//------------------------------------------------------------
+フリーエッチ=Free Sex
+マップ選択=Select Map
+マップ名=Map Name
+マップを選択してください=Select a Map
+
+プレイキャラクター=Playable Characters
+キャラ選択=Select Character
+女キャラ　１人目=1st Female Character
+女キャラ１人目=1st Female Character
+女キャラ　２人目=2nd Female Character
+女キャラ２人目=2nd Female Character
+
+男キャラ　１人目=1st Male Character
+男キャラ１人目=1st Male Character
+男キャラ　２人目=2nd Male Character
+男キャラ２人目=2nd Male Character
+
+性質=Nature
+慣れ=Experienced
+
+新規作成=Create New
+
+開始=Start
+
+//------------------------------------------------------------
+// Dialogue Boxes
+//------------------------------------------------------------
+ゲームを終了しますか？=Exit The Game?
+はい=Yes
+いいえ=No
+
+//------------------------------------------------------------
+// Card Conversion Screen
+//------------------------------------------------------------
+「AI*少女」「ハニーセレクト２リビドー」のデータを「ルームガール」のデータに変換します。=Converting data from "AI*GIRL" and "Honey Select 2 Libido" to "Room Girl" data.
+※ファイル数が多いと時間がかかる可能性があります。=※It may take some time if the number of files is large.
+※インストールフォルダ/UserData/chara/ に入っていた以前のデータは/UserData/chara/old/ に移動します。=※Old files in "InstallationFolder"/userdata/chara/ will be moved to /userData/chara/old/
+※インストールフォルダ/UserData/coordinate/ に入っていた以前のデータは/UserData/coordinate/old/ に移動します。=※Old files in "InstallationFolder"/UserData/coordinate/ will be moved to /UserData/coordinate/old/

@@ -1,0 +1,11 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+なし=None
+太もみあげ=Thick Sideburns
+ロングもみあげ=Long Sideburns
+細もみあげ=Fine Sideburns
+カール=Curl
+ポニーおくれ毛=Pony Combing Hair
+三つ編み=Braided
+細三つ編み=Thin Braid

@@ -1,0 +1,9 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+なし=None
+軍手=Cotton Gloves
+革手袋=Leather Gloves
+革手袋左手=Left Leather Glove
+ロングレングス=Long Lenght Gloves
+フィンガーグローブ=Finger Gloves

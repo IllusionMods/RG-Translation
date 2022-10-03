@@ -1,0 +1,46 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+ヘアピン=Hairpin
+髪留め=Barette
+宝石の髪飾り=Jewelry Ornament
+翼の髪飾り=Wing Ornament
+花のコサージュ=Flower Corsage
+ポニークリップ=Pony Clip
+リボン=Ribbon
+カチューシャ=Headband
+ヘッドホン=Headphones
+サンバイザー=Sun Visor
+うさ耳リボン=Bunny Ear Ribbon
+猫耳=Cat Ear
+ヘルメット=Helmet
+麦わら帽子=Straw Hat
+王冠=Crown
+シルクハット=Silk Hat
+ハイビスカス=Hibiscus
+花=Flower
+貝殻=Seashell
+キノコ=Mushroom
+うなぎ=Eel
+カニ=Crab
+スイカ=Watermelon
+スイカヘッド=Watermelon Head
+基本図形：キューブ=Shape: Cube
+基本図形：スフィア=Shape: Sphere
+基本図形：シリンダー=Shape: Cylinder
+基本図形：カプセル=Shape: Capsule
+基本図形：コーン=Shape: Cone
+基本図形：ピラミッド=Shape: Pyramid
+基本図形：クリスタル=Shape: Crystal
+基本図形：リング=Shape: Ring
+基本図形：スター=Shape: Star
+基本図形：ハート=Shape: Heart
+お団子髪=Bun Hair
+あほ毛=Hair Strand
+はねあほ毛=Double Hair Strand
+三つ編み=Braided
+三つ編みカチューシャ=Braid Headband
+エクステ=Extensions
+カールエクステ=Curl Extension
+おくれ毛=Loose Tuft
+細おくれ毛=Thin Thuft

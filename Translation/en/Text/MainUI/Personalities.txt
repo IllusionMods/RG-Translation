@@ -1,0 +1,52 @@
+//***********************************************************************
+// Personalities
+//***********************************************************************
+
+//Split Regex
+（タイプA）=(Type A)
+（タイプB)=(Type B)
+（タイプB）=(Type B)
+
+sr:"^OL(.+)$"=Office Lady $1
+OL=Office Lady
+
+sr:"^看護師(.+)$"=Nurse $1
+看護師=Nurse
+
+sr:"^学生(.+)$"=Student $1
+学生=Student
+
+sr:"^アイドル(.+)$"=Idol $1
+アイドル=Idol
+
+sr:"^ディーラー(.+)$"=Dealer $1
+ディーラー=Dealer
+
+sr:"^無職(.+)$"=NEET $1
+無職=NEET
+
+//Male Personalities
+上司=Boss
+同僚=Colleague
+清掃員=Cleaning Staff
+取引先=Business Partner
+悪友1人目=1st Bad Friend
+悪友2人目=2nd Bad Friend
+医師=Doctor
+通院患者=Passage Patient
+入院患者=Hospitalized Patient
+講師=Teacher
+用務員=Servant
+マネージャー=Manager
+オーナー=Owner
+ファン=Fan
+支配人=Manager
+客=Customer
+家族=Family
+
+
+
+
+
+
+

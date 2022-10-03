@@ -1,0 +1,870 @@
+//***********************************************************************
+//***********************************************************************
+// Note: Some text is intentionally cut short or have thier context
+//       removed to fit the UI.
+//           Eyebrow Height -> Height // this is inside the Eyebrow menu
+//           Left Shoulder -> L Shoulder
+//***********************************************************************
+//***********************************************************************
+
+//************************************************************
+// General
+//************************************************************
+はい=Yes
+いいえ=No
+戻る=Back
+終了=Close
+チ=Sex
+なし=None
+マップ=Map
+上=Upward
+少=Small
+日=Day
+カラー=Color
+標準=Normal
+声質=Voice
+
+// Top Text
+コーデ編集中…=Clothes...
+「外着」="Outerwear"
+「家着」="Housewear"
+「風呂」="Bath"
+
+//------------------------------------------------------------
+// use # to search for instances of the following "\\Sample#"
+// Some commented lines have translations also in Generic.txt
+//------------------------------------------------------------
+サンプル=Sample
+タイプ=Type
+調整=Adjust
+名前=Name
+コーデ=Outfit
+瞳の設定=Iris Settings
+キャラ設定=Character Setting
+ハート=Heart
+肌=Skin
+顔=Face
+耳=Ears
+眼鏡=Glasses
+眉=Eyebrows
+目=Eye
+鼻=Nose
+口=Mouth
+顎=Jaw
+首=Neck
+肩=Shoulder
+胸=Breasts
+腰=Waist
+腕=Arms
+脚=Legs
+体=Body
+手=Hands
+左手=L Hand
+右手=R Hand
+
+//------------------------------------------------------------
+// Placement (Paint and Accessories) Arrangement and Parent Tabs
+//------------------------------------------------------------
+//Paint and Accessories
+左肩=L Shoulder
+右肩=R Shoulder
+
+//accessories
+ポニー=Ponytail
+ツイン左=L Twintail
+ツイン右=R Twintail
+ヘアピン左=L Hairpin
+ヘアピン右=R Hairpin
+帽子=Hat
+額=Forehead
+頭中心=Center of Head
+//Face#
+左耳=L Ear
+右耳=R Ear
+//Glasses#
+//Nose#
+//Mouth#
+//Neck#
+胸上=Throat
+胸上中央=Center of Chest
+左胸=L Breast
+右胸=R Breast
+背中中央=Center Back
+背中左=L Back
+背中右=R Back
+//Waist#
+腰前=Front Waist
+腰後ろ=Back Waist
+腰右=R Hip
+腰左=L Hip
+左太もも=L Thigh
+右太もも=R Thigh
+左ひざ=L Knee
+右ひざ=R Knee
+左足首=L Ankle
+右足首=R Ankle
+かかと左=L Heel
+かかと右=R Heel
+//L Shoulder#
+//R Shoulder#
+左肘=L Elbow
+右肘=R Elbow
+左上腕=L up arm
+右上腕=R up arm
+左手首=L Wrist
+右手首=R Wrist
+//L Hand#
+//R Hand#
+左人差指=L Index
+右人差指=R Index
+左中指=L Middle
+右中指=R Middle
+左薬指=L Ring
+右薬指=R Ring
+下腹部①=Crotch①
+下腹部②=Crotch②
+下腹部③=Crotch③
+
+//------------------------------------------------------------
+// Tabs
+//------------------------------------------------------------
+//pattern also used in Color fields
+種類=Type
+//カラー=Color
+親=Position
+配置=Arrange
+その他=Other
+
+//------------------------------------------------------------
+// Pattern fields
+//------------------------------------------------------------
+初期カラー=Reset color
+
+//------------------------------------------------------------
+// Color fields
+//------------------------------------------------------------
+//Color
+ツヤ=Shine
+質感=Texture
+カラーサンプル=Color Sample
+柄設定=Pattern Setting
+柄=Pattern Type
+
+//------------------------------------------------------------
+// Misc fields
+//------------------------------------------------------------
+破れ具合=Degree of Tear
+オプションパーツ01を表示=Display Option Part 01
+オプションパーツ02を表示=Display Option Part 02
+
+//------------------------------------------------------------
+// Adjust/Arrange/Parent and other positioning fields
+//------------------------------------------------------------
+//eye
+幅=Width
+高さ=Height
+X位置=X Axis
+Y位置=Y Axis
+傾き=Angle
+
+位置X=Position X
+位置Y=Position Y
+
+位置=Move
+回転=Rotate
+拡縮=Scale
+
+移動量=Move Unit
+回転量=Rotate Unit
+拡縮量=Scale Unit
+
+操作軸=Show Axis
+移動=Move
+速度=Speed
+大きさ=Size
+
+揺らさない=Rigid
+
+//Hair
+操作軸設定=Axis Settings
+全ての操作軸=Show Axis
+移動X=Move X
+移動Y=Move Y
+移動Z=Move Z
+回転X=Rotate X
+回転Y=Rotate Y
+回転Z=Rotate Z
+
+全て初期化=Reset All
+
+//*********************************************************************************
+// Main Menues (Left side)
+//************************************************************************************
+//------------------------------------------------------------
+// Shared
+//------------------------------------------------------------
+全体=Overall
+ペイント01=Paint 01
+ペイント02=Paint 02
+
+//------------------------------------------------------------
+// Face
+//------------------------------------------------------------
+フェイス=Face
+
+顔周り=Face Settings
+顔のタイプ=Facial Type
+//Jaw#
+頬=Cheeks
+//Eyebrows#
+//Eye#
+//Nose#
+//Mouth#
+//Ears#
+ホクロの設定=Moles
+//Male editor:
+ヒゲのタイプ=Mustache type
+
+目周り=Eye Settings
+左右の設定を合わせる=Set both left and right eyes
+左目=Left Eye
+右目=Right Eye
+//Eye Settings#
+目のハイライト=Eye Highlights
+眉のタイプ=Eyebrow Type
+まつ毛のタイプ=Eyelash Type
+
+化粧=Makeup
+アイシャドウ=Eye Shadow
+チーク=Cheeks
+リップ=Lips
+
+//------------------------------------------------------------
+// Body
+//------------------------------------------------------------
+ボディ=Body
+
+体型=Body Shape
+//Breasts#
+上半身=Upper Body
+下半身=Lower Body
+//Arm#
+//Leg#
+
+//Skin#
+
+肌の種類=Skin Type
+日焼け跡=Suntan
+乳首=Nipples
+アンダーヘア=Pubic Hair
+爪の色=Nail Color
+
+特殊=Special
+ふたなり=Futanari
+
+//------------------------------------------------------------
+// Hair
+//------------------------------------------------------------
+ヘアー=Hair
+
+前髪と後ろ髪の色を統一=Match back and bangs color
+根本と毛先の色を自動設定=Auto Set root and tip colors
+髪の調整をまとめて行う=Match Hair Axis Settings
+
+後ろ髪=Back Hair
+後ろ髪の設定=Back Hair Settings
+
+前髪=Bangs
+前髪の設定=Bangs Settings
+
+横髪=Side Hair
+横髪の設定=Side Hair Settings
+
+エクステ=Hair Extensions
+エクステの設定=Hair Extensions Settings
+
+髪型の一括登録=Batch registration of hairstyle
+今の髪型を全てのコーデに適応=Apply the current hairstyle to all outfits
+<color\=#005EA7FF>現在の髪型を\n「外着」「家着」「風呂」\nコーデ全てに適応します。</color>=<color\=#005EA7FF>Apply the current hairstyle to "Outerwear", "Housewear" and "Bath" outfits.</color>
+
+描画設定=Render Settings
+
+//------------------------------------------------------------
+// Clothing
+//------------------------------------------------------------
+//Clothing#
+
+衣装=Outfit
+トップス=Tops
+ボトムス=Bottom
+インナー上=Inner Top
+インナー下=Inner Bottom
+手袋=Gloves
+パンスト=Pantyhose
+靴下=Socks
+靴=Shoes
+
+編集中のコーデ=Costume Card Being Edited
+外着=Outerwear
+家着=Housewear
+風呂=Bath
+
+衣装カード=Costume Card
+保存・削除=Save / Delete
+読込み=Load
+
+//------------------------------------------------------------
+// Accessory
+//------------------------------------------------------------
+アクセサリー=Accessories
+スロット=Slot
+コピー=Copy
+一括編集=Batch Editing
+コピーする=Make a Copy
+アクセサリー全解除=Remove All Accessories
+設定された全てのアクセサリーを外しますが\nよろしいですか？=Do you really want to remove all accessories?
+
+頭=Head
+//Ears#
+//Glasses#
+//Face#
+//Neck#
+//Shoulder#
+//Breasts#
+//Waist#
+背中=Back
+//Arm#
+//Hands#
+//Leg#
+下腹部=Crotch
+
+//------------------------------------------------------------
+// Options
+//------------------------------------------------------------
+オプション=Options
+
+//Character Setting#
+名前・誕生日・性質=Name, Birthday, Nature
+//Type
+特徴=Trait
+性癖=Sex Trait
+
+キャラカード=Character Card
+保存・消去=Save / Delete
+// Load
+融合=Fusion
+
+システム=System
+状態設定ウィンドウ=Display "Settings" Window
+ウィンドウ配置の初期化=Reset Windows Positions
+スライダーをホイールで操作=Use Mouse Wheel in Sliders
+
+キャラクターの初期化=Reset Character
+現在の変更が全て初期化されます。=All current changes will be reset to their default values.
+
+コンフィグ=Config
+注視点の表示=Display Focal Point
+BGM音量=BGM Volume
+SE音量=SFX Volume
+
+//************************************************************
+// Sub Menues (Right side)
+//************************************************************
+
+//------------------------------------------------------------
+// Face -> Face Type
+//------------------------------------------------------------
+
+輪郭=Contour
+//Skin#
+シワ=Wrinkles
+
+//Type#
+//Sample#
+
+強さ=Intensity
+
+//------------------------------------------------------------
+// Face -> Overall
+//------------------------------------------------------------
+顔全体横幅=Head Width
+顔上部前後=Upper Depth
+顔上部上下=Upper Height
+顔下部前後=Lower Depth
+顔下部横幅=Lower Width
+
+//------------------------------------------------------------
+// Face -> Jaw
+//------------------------------------------------------------
+顎横幅=Jaw Width
+顎上下=Jaw Height
+顎前後=Jaw Depth
+顎角度=Jaw Angle
+顎下部上下=Neck Droop
+顎先幅=Chin Size
+顎先上下=Chin Height
+顎先前後=Chin Depth
+
+//------------------------------------------------------------
+// Face -> Cheeks
+//------------------------------------------------------------
+頬下部上下=Lower Height
+頬下部前後=Lower Depth
+頬下部幅=Lower Width
+頬上部上下=Upper Height
+頬上部前後=Upper Depth
+頬上部幅=Upper Width
+
+//------------------------------------------------------------
+// Face -> Eyebrows
+//------------------------------------------------------------
+眉の幅=Width
+眉の高さ=Height
+眉の位置X=Position X
+眉の位置Y=Position Y
+眉の傾き=Angle
+
+//------------------------------------------------------------
+// Face -> Eye
+//------------------------------------------------------------
+目の縦幅=Eye Height
+目横位置=Eye Spacing
+目前後=Eye Depth
+目の横幅=Eye Width
+目上下=Eye Vertical
+目の角度Z軸=Eye Angle Z
+目の角度Y軸=Eye Angle Y
+目尻上下位置=Outer Height
+目尻左右位置=Outer Dist
+目頭上下位置=Inner Height
+目頭左右位置=Inner Dist
+まぶた形状１=Eyelid Shape 1
+まぶた形状２=Eyelid Shape 2
+
+//------------------------------------------------------------
+// Face -> Nose
+//------------------------------------------------------------
+全体上下=Height
+全体前後=Depth
+全体角度X軸=Angle
+全体横幅=Width
+鼻筋高さ=Bridge Height
+鼻筋横幅=Bridge Width
+鼻筋形状=Bridge Shape
+小鼻横幅=Nostril Width
+小鼻上下=Nostril Height
+小鼻前後=Nostril Length
+小鼻角度X軸=Nostril Inner Width
+小鼻角度Z軸=Nostril Outer Width
+鼻先高さ=Nose Tip Length
+鼻先角度X軸=Nose Tip Height
+鼻先サイズ=Nose Tip Size
+
+//------------------------------------------------------------
+// Face -> Mouth
+//------------------------------------------------------------
+口上下=Mouth Height
+口横幅=Mouth Width
+口縦幅=Lip Thickness
+口前後位置=Depth
+口形状上=Upper Lip Thickness
+口形状下=Lower Lip Thickness
+口形状口角=Corner Shape
+
+//------------------------------------------------------------
+// Face -> Ears
+//------------------------------------------------------------
+耳サイズ=Ear Size
+耳角度Y軸=Ear Angle
+耳角度Z軸=Ear Rotation
+耳上部形状=Up Ear Shape
+耳下部形状=Low Ear Shape
+
+//------------------------------------------------------------
+// Face -> Moles
+//------------------------------------------------------------
+
+//Arrangement
+ホクロの幅=Mole Width
+ホクロの高さ=Mole Height
+ホクロの位置X=Mole Position X
+ホクロの位置Y=Mole Position Y
+
+//------------------------------------------------------------
+// Face -> Left/Right Eye
+//------------------------------------------------------------
+白目=Whites
+瞳の種類=Iris Type
+//Eye Settings#
+瞳孔種類=Pupil Type
+瞳孔設定=Pupil Settings
+
+発光=Glow
+
+//------------------------------------------------------------
+// Face -> Eye Settings
+//------------------------------------------------------------
+設定=Settings
+高さ調整=Adjust Height
+影の範囲=Shadow Range
+
+//------------------------------------------------------------
+// Body -> Overall
+//------------------------------------------------------------
+身長=Height
+頭サイズ=Head Size
+
+//------------------------------------------------------------
+// Body -> Breast
+//------------------------------------------------------------
+胸サイズ=Size
+胸上下位置=Height
+胸の左右開き=Direction
+胸の左右位置=Spacing
+胸上下角度=Angle
+胸の尖り=Length
+胸の柔らかさ=Softness
+胸の重さ=Weight
+乳輪の膨らみ=Areola Depth
+乳輪の大きさ=Areola Size
+乳首太さ=Nipple Width
+乳首立ち=Nipple Depth
+
+//------------------------------------------------------------
+// Body -> Upper Body
+//------------------------------------------------------------
+首周り幅=Neck Width
+首周り奥=Neck Thickness
+胴体肩周り奥=Shoulder Thickness
+胴体肩周り幅=Shoulder Width
+胴体上幅=Chest Width
+胴体上奥=Chest Thickness
+胴体下幅=Waist Width
+胴体下奥=Waist Thickness
+
+//------------------------------------------------------------
+// Body -> Lower Body
+//------------------------------------------------------------
+ウエスト位置=Waist Height
+腰上幅=Pelvis Width
+腰上奥=Pelvis Thickness
+腰下幅=Hips Width
+腰下奥=Hips Thickness
+尻=Butt
+尻角度=Butt Angle
+
+//------------------------------------------------------------
+// Body -> Arm
+//------------------------------------------------------------
+//Shoulder#
+上腕=Upper Arms
+前腕=Forearm
+
+//------------------------------------------------------------
+// Body -> Legs
+//------------------------------------------------------------
+太もも上=Thighs
+太もも下=Legs
+ふくらはぎ=Calves
+足首=Ankles
+
+//------------------------------------------------------------
+// Body -> Skin Type
+//------------------------------------------------------------
+// Male editor:
+
+肉感=Build
+肉感の強さ=Definition
+
+髪設定=Color
+滑らかさ=Smoothness
+基本カラー=Basic Color
+根本カラー=Root Color
+毛先カラー=Tips Color
+ツヤカラー=Shine Color
+
+装飾設定=Accessories Settings
+
+
+//------------------------------------------------------------
+// Clothing -> Copy Costume Card
+//------------------------------------------------------------
+コーデ情報コピー=Copy Costume Card
+コピー元のコーデ=Source Costume
+コピー先のコーデ=Destination Costume
+髪型=Hairstyle
+全選択=Select All
+全解除=Unselect All
+
+//------------------------------------------------------------
+// Clothing -> Costume Card
+//------------------------------------------------------------
+服読込み=Load Clothing
+装飾読込み=Load\nAccessories
+全て読込み=Load All
+コーディネート名=Clothing Set Name
+コーディネート名を入力=Enter the name of the Clothing Set
+//Return
+決定=Accept
+
+//------------------------------------------------------------
+// Accessories - Make a copy
+//------------------------------------------------------------
+コピー元を選択=Source
+コピー先を選択=Destination
+左右の親を変更=Change Left and Right Parent
+スロットにコピー=Copy Slot
+コピー元から調整値をコピー=Copy adjustment values from the source
+調整①=Adjustment ①
+調整②=Adjustment ②
+調整①を上下反転=Flip ① Upside Down
+調整②を上下反転=Flip ② Upside Down
+調整①を左右反転=Flip ① Horizontally
+調整②を左右反転=Flip ② Horizontally
+
+
+//------------------------------------------------------------
+// Accessories - Extra
+//------------------------------------------------------------
+髪の毛の色を取得=Get hair color
+初期親=Default Position
+初期化=Reset All
+
+//------------------------------------------------------------
+// Options -> Name / Birthday / Nature
+//------------------------------------------------------------
+ランダム=Random
+
+誕生日=Birthday
+月=Month
+日=Day
+
+性質の選択=Select Nature
+まじめ=Serious
+あそび=Playful
+ユニーク=Unique
+
+//------------------------------------------------------------
+// Options -> Type
+//------------------------------------------------------------
+タイプの選択=Select Type
+声質の変更=Change Voice Tone
+声質=Voice Pitch
+
+//------------------------------------------------------------
+// Options -> Trait
+//------------------------------------------------------------
+特徴選択=Select Trait
+最大３つまで選択できます。=You can select up to three.
+
+ポジティブ=Positive
+不満をため込みにくい体質になる。=It becomes difficult to accumulate dissatisfaction.
+おしゃべり=Chatty
+人と話すことが多くなる。=Talk with people more often.
+口説き上手=Smooth Talker
+デートの告白で成功しやすくなる。=Dating confession is easier to succeed.
+ギャンブラー=Gambler
+カジノでスロット成功率が少し上がる。=Slot success rate increases slightly in the casino.
+疲れ知らず=Never Tired
+行動後に疲れがたまりにくくなる。=Less fatigue after the action.
+遊び人=Playful
+ユニークな行動が好きになる。=Like unique behavior.
+警戒心が強い=Cautious
+告白は苦手だが、\n診療所でのスタミナが回復しやすくなる。=Not good at confessions,\nbut it makes it easier to recover stamina at the clinic.
+お腹が弱い=Weak Bladder
+トイレに行きやすくなる。=Easier to go to the bathroom.
+快眠=Quality Sleep
+寝るとスタミナが回復しやすくなる。=Help restore stamina when sleeping
+人間観察好き=Likes People
+他のキャラに興味を示しやすくなる。=It is easier to show interest in other characters.
+天才肌=Genius
+成績のステータスが上がりやすくなる。=It is easier to raise the status of your grades.
+多趣味=Multi-Hobby
+趣味のステータスが上がりやすくなる。=Hobbies status is easier to increase.
+友好的=Friendly
+社交のステータスが上がりやすくなる。=Social status is easier to increase.
+ロマンチスト=Romantic
+恋愛のステータスが上がりやすくなる。=Love status is easier to increase.
+フェロモン=Pheromone
+色気のステータスが上がりやすくなる。=Sex Appeal status is easier to increase.
+友人思い=Friendliness
+友人と会話すると社交のステータスが上昇しやすくなる。=Talking with friends help increase social status.
+
+//------------------------------------------------------------
+// Options -> Sex Trait
+//------------------------------------------------------------
+性癖選択=Select Sex Trait
+
+キス好き=Kissing Lover
+キスをする体位が好みになり、エッチになれやすくなる。=Like kissing positions, making it easier to become aroused.
+奉仕好き=Likes Service
+奉仕をする体位が好みになり、エッチになれやすくなる。=Like service positions, making it easier to become aroused.
+胸好き=Breast Lover
+胸を攻められる体位が好みになり、\nエッチになれやすくなる。=Prefer positions where the breasts are used, making it easier to become aroused.
+股間好き=Crotch Lover
+股間を攻められる体位が好みになり、\nエッチになれやすくなる。=Prefer positions where the crotch is stimulated, making it easier to become aroused.
+アナル好き=Anal Lover
+アナル挿入される体位が好みになり、\nエッチになれやすくなる。=Prefer anal penetration, making it easier to become aroused.
+性欲旺盛=Horny
+エッチした後でも再びエッチを誘ってきやすくなる。=Even after having sex, it is easier to ask for sex again.
+敏感=Sensitive
+感じやすくなり、絶頂しやすくなる。=It is easier to feel good and cum.
+エッチ好き=Sex Lover
+エッチをするたびに色気のステータスが上がっていく。=Each time you have sex, the status of sex appeal rises.
+中出し好き=Lover of vaginal cum shot
+中出しされるのが好みになり、エッチになれやすくなる。=Prefer to be ejaculated inside, making it easier to become aroused.
+外出し好き=Likes To Go Out
+外出しされるのが好みになり、エッチになれやすくなる。=Prefer to be ejaculated outside, making it easier to become aroused.
+
+//------------------------------------------------------------
+// Options -> Save / Delete
+//------------------------------------------------------------
+消去=Delete
+新規保存=Save New
+上書き保存=Save
+
+//------------------------------------------------------------
+// Options -> Load
+//------------------------------------------------------------
+サンプルキャラ=Sample Character
+//Face#
+体=Body
+髪=Hair
+//Clothing#
+//Character Setting#
+
+//------------------------------------------------------------
+// Options -> Search
+//------------------------------------------------------------
+ソート=Sort
+//Name#
+日付=Date
+
+//------------------------------------------------------------
+// Options -> Fusion
+//------------------------------------------------------------
+キャラカードA=Character Card A
+キャラカードB=Character Card B
+キャラカードを融合=Fuse Cards
+
+変更の確定=Finalizing Changes
+変更を確定する=Apply Changes
+変更せずに戻る=Return Without Changes
+
+
+//************************************************************
+// Prompts
+//************************************************************
+終了しますか？=Exit character maker?
+キャラメイクを終了しますか？=Quit the character maker?
+
+確定=Confirm
+キャンセル=Cancel
+
+//************************************************************
+// Editing girls when you click in "edit"
+//************************************************************
+保存して終了=Save and Exit
+保存しないで終了=Exit\nWithout Saving
+編集に戻る=Return to Editor
+撮影=Take Photo
+撮影し直す=Reshoot
+
+//Dialogue
+キャラ編集を終了しますか？=Quit editing this character?
+
+//************************************************************
+// Settings Box
+//************************************************************
+状態設定=Settings
+
+//general
+視線=Gaze
+//Neck#
+カメラ=Cam
+正面=Front
+ポーズ=Pose
+//Eye#
+//Eyebrows#
+//Mouth#
+ポーズ再生=Play/Pause
+
+//Clothing
+服の状態=Clothing State
+服状態=Clothes
+自動=Auto
+着衣=Clothed
+下着=Under
+全裸=Naked
+装飾=Accessory
+表示=Show
+非表示=Hide
+
+//Lights
+ライト向きX=Direct X
+ライト向きY=Direct Y
+ライト強さ=Strength
+
+//Background
+背景=Background
+単色=Solid
+画像=Image
+
+//************************************************************
+// Color Picker in Chara Maker, Chara Finder and Sex Scenes
+//************************************************************
+ピッカー=Picker
+スライダー=Slider
+プリセット=Preset
+色相=Hue
+明度=Brig.
+彩度=Sat.
+透明度=Alpha
+赤=Red
+緑=Green
+青=Blue
+
+左クリックで適用、右クリックで削除=Left-click to set, right-click to remove
+現在のカラーを登録=Register the current color
+左クリックで適用=Left-click to set
+左クリックで現在のカラーを登録=Left click to register current color
+適用=Apply
+削除=Delete
+
+//************************************************************
+// Shooting Menu (save card)
+//************************************************************
+撮影メニュー=Shooting Menu
+
+目の開き=Eye_Open
+口の開き=Mouth_Open
+//L Hand#
+//R Hand#
+
+ライト設定を初期化=Reset Light Settings
+
+背面フレーム=Background
+前面フレーム=Foreground
+
+保存=Save
+
+//Prompts
+本当に削除しますか？=Are you sure you want to delete this?
+本当に削除しますか？\n<color%3D#DE4529FF>このキャラにはパラメータが含まれています。</color>=<color%3D#DE4529FF>Character status will also be deleted.</color>\nDo you wish to continue?
+本当に上書きしますか？=Overwrite file?
+本当に上書きしますか？\n<color%3D#DE4529FF>上書きするとパラメータは初期化されます。</color>=<color%3D#DE4529FF>Overwriting will reset the character status to default settings.</color>\nDo you wish to continue?
+
+//************************************************************
+// Unsorted
+//************************************************************
+ホクロのタイプ=Mole type
+肌のタイプ=Skin type
+メッシュ=Mesh
+肌の色に合わせる=Match to Skin Color
+メッシュ設定=Mesh Settings
+
+スロットにコピー=Copy to the slot
+使用する=Use it
+コーデ情報をコピー=Copy coordinates
+
+あいうえお=AIUEO

@@ -1,0 +1,13 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+二つ分けロング=Long Parted
+テンショウ=Tenshou Era
+あほ毛ミディアム=Short With Strands
+ツインロングおさげ=Long Twintails
+重ねぱっつんミディアム=Layered Medium
+マッシュヘア=Mash Hair
+ボリュームカールポニー=Volumous Long Curly Pony
+リングツインテール=Ring Tail
+オールバックポニー=Upper Back Pony
+オールバックツインテール=Uppper Back Twintails

@@ -1,0 +1,31 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+セクシーセキュリティー=Sexy Security Dress
+警備員トップス=Guard Tops
+チャイナドレス=China Dress
+ダンサートップ=Dancer Top
+ヒーラーの衣=Healer's Clothing
+コンシェルジュスーツF=Open Concierge Suit
+メイドワンピース=Maid Dress
+ナーススーツ=Nurse Dress
+バスタオル=Bath Towel
+ライダースーツ=Rider Leather Suit
+騎士の鎧=Knight Armor
+ニットベスト=Knit Vest
+ベビードール=Babydoll
+ゴスロリトップス=Gothic Lolita Top
+ウエスタンベスト=Western Open Vest
+チアガールトップス=Cheerleader Top
+エルフの衣=Elf clothes Top
+キャンペーンジャケット=HS2 Campaign Open Jacket
+パジャマトップス=Pajamas Top
+つなぎ=All in One Denim
+ジャージトップス=Jersey Top
+白衣ブラウス=White Coat Blouse
+道着（上衣）=Kimono (Coat)
+テニスウェア=Tennis Top
+ユニフォームトップス=Sport Uniform Top
+ウエイトレスドレス=Waitress Dress
+セクシーナース=Sexy Nurse
+ランナートップス=Runner Tops

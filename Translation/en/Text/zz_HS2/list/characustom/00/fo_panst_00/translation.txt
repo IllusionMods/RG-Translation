@@ -1,0 +1,18 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+なし=None
+ストッキング=Stockings
+ストッキングTカバー=Stockings T
+ストッキングHカバー=Stockings H
+レースストッキング=Lace Stockings
+網タイツ細目=Fine Fishnet
+網タイツ中目=Medium Fishnet
+網タイツ大目=Large Fishnet
+穴あきストッキング=Open Stockings
+スパッツA=Spats A
+スパッツB=Spats B
+ショートスパッツ=Short Spats
+シンプルガーター=Simple Garters
+レースガーター=Lace Garter
+ベルトガーター=Belt garter

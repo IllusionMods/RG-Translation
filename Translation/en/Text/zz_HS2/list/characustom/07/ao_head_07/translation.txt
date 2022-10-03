@@ -1,0 +1,46 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+頭で跳ねる魚=Head Fish
+頭乗りヒヨコ=Head Chick
+蝶々=Butterfly
+頭乗り猫=Head Cat
+キュービーヘッド=Cubie Head
+羊の角=Sheep Horns
+牛の角=Cow Horns
+一角=Unicorn Horn
+メカ装甲１=Mecha Armor 1
+メカ装甲２=Mecha Armor 2
+メカ装甲３=Mecha Armor 3
+メカ装甲４=Mecha Armor 4
+メカポッド=Mechapod
+メカシールド=Mecha Shield
+メカゴーグル=Mecha Goggles
+メカバイザー=Mecha Visor
+メカボール=Mecha Ball
+メカポール=Mechapole
+メカビームポール=Mecha Light Saber
+メカデルタ=Mecha Delta
+メカボックス=Mecha Box
+メカサークル=Mecha Circle
+メカウィング=Mecha Wing
+メカブースター=Mecha Booster
+メカチューブ=Mecha Tube
+メカシザー=Mecha Scissor
+メカドリル=Mecha Drill
+メカアンテナ=Mecha Antenna
+メカウイングⅡ=Mecha Wing 2
+メカバイザーⅡ=Mecha Visor 2
+メカトライニードル=Mecha Tri-Needle
+メカライオン=Mecha Lion
+メカホイール=Mecha Wheel
+メカレシーバー=Mecha Receiver
+メカヘアー=Mecha Hair
+メカウィングリング=Mecha Wing Ring
+メカループ=Mecha Loop
+艦艇の模型=War Fleet Model
+魚雷発射管の模型=Torpedo Tube Model
+2連装砲台の模型=Two-Barrel Model
+ナイトバイザー=Knight Visor
+溶解粘液D=Slime D
+溶解粘液E=Slime E

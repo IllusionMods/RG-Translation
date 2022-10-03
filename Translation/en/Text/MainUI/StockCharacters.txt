@@ -1,0 +1,48 @@
+//***********************************************************************
+// Name of Stock Characters
+//***********************************************************************
+
+//Female
+平山 静加=Shizuka Hirayama
+白峰　莉子=Riko Shiramine
+常盤　セーナ=Tokiwa Sena
+飯生　芽依=Mei Iio
+永尾　美咲=Misaki Nagao
+前鳥　結菜=Yuna Maedori
+小御門　葵=Aoi Komikado
+
+//Male
+並木 和希=Kazuki Namiki
+立川 拓海=Takumi Tachikawa
+川瀬 修平=Shuhei Kawase
+林 琉斗=Hayashi Ryudo
+落合 快=Ochiai Kai
+山川 瑛大=Eita Yamakawa
+竹内 龍之介=Ryunosuke Takeuchi
+坂本 雅也=Masaya Sakamoto
+寺島 唯人=Yuto Terashima
+桑原 蒼介=Sosuke Kuwahara
+藤川 優大=Yudai Fujikawa
+金田 翔=Sho Kaneda
+早川 颯真=Soma Hayakawa
+谷口 空=Taniguchi Kouki
+久保田 哲=Tetsu Kubota
+リック・ウォン=Rick Wong
+大和田 健司=Kenji Owada
+島 匠=Takumi Shima
+藤村 陽介=Yosuke Fujimura
+秋葉 耀=Akiba Akira
+立花 蓮=Tachibana Haruki
+山中 学=Yamanaka Taka
+前原 竜馬=Ryoma Maehara
+狩野 啓=Kei Kano
+金沢 陽仁=Yohito Kanazawa
+渋谷 音也=Otoya Shibuya
+大山 琉生=Ryosei Oyama
+菅野 魁=Kanno Kai
+七海 健一=Kenichi Nanami
+シュウ・オルコット=Shu Orcott
+ベル・ブラック=Bell Black
+三河 三平=Mikawa Sanpei
+竹内 鋼太郎=Kotaro Takeuchi
+村瀬 大輔=Daisuke Murase

@@ -1,0 +1,11 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+ダンサーショーツ=Dancer Shorts
+コンシェルジュレースF=Concierge Lace
+ボロ布パンツ=Patchwork Pants
+ソングショーツ=Highleg Bikini
+オープンショーツ=Open Panties
+ウエスタンカウ=Western Panties
+キャンペーンダブルS=HS2 Campaign Double Bikini
+サイクルウェアボトム=Cycling Bottom

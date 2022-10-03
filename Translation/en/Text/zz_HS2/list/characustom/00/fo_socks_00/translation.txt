@@ -1,0 +1,13 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+なし=None
+ソックス=Socks
+ハイソックス=High Socks
+ニーソックス=Kneesocks
+スニーカーソックス=Sneaker Socks
+ルーズソックス=Loose Socks
+サイハイ=High Tights
+シースルーサイハイ=See Through High Tights
+フットガーターニーソ=Garter Socks
+パンプスカバー=Low-Cut Socks

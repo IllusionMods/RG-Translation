@@ -1,0 +1,11 @@
+//***********************************************************************
+// Name of Stock Clothing Cards (Coordinates)
+//***********************************************************************
+
+sr:"外着　(.+)$"=$1 Outerwear
+sr:"家着　(.+)$"=$1 Housewear
+
+外着　OL=Office Lady Outwear 
+家着　OL=Office Lady Housewear
+
+ハイレグセーラーセット=High-leg Sailor Set

@@ -1,0 +1,16 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+レースビスチェ=Lace Bustier
+コンシェルジュビスチェF=Concierge Bustier
+ボロ布ブラ=Torn Cloth Bra
+ブラキャミソール=Corset Bra
+チェインスーツ=Chain suit
+オープンブラ=Open bra
+ハイレグ=High Leg Leotard
+レオタード=Leotard
+ウエスタンカウ=Western Bra
+エルフのレオタード=Elf leotard
+キャンペーンバンドゥ=HS2 Campaign Bandeau Bra
+ミディアムサポート=Medium support
+サイクルウェアトップ=Cycling Top

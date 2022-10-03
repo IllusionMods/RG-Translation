@@ -1,0 +1,25 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+スクエア=Square Glasses
+オーバル=Oval Glasses
+ウェリントン=Wellington Glasses
+ボストン=Boston Glasses
+ブロウ=Blow
+アンダーリム=Under Rim Glasses
+鼻掛け眼鏡=Retro Glasses
+メタルラウンド=Round Glasses
+メタルオーバル=Oval Glasses
+メタルアンダーリム=Under Rim Glasses
+スポーツ=Sports
+水泳ゴーグル=Swimming Goggles
+ゴーグル=Goggles
+ライトゴーグル=Light Goggles
+布目隠し=Cloth Blindfold
+アイマスクA=Eye Mask A
+アイマスクB=Eye Mask B
+パピヨン=Butterfly
+医療用眼帯右用=Right Medical Eye Patch
+医療用眼帯左用=Left Medical Eye Patch
+眼帯右用=Left Eye Patch
+眼帯左用=Right Eye Patch

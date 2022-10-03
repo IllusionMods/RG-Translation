@@ -1,0 +1,23 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+シンプル指輪=Simple Ring
+ツインリング=Twin Ring
+宝石の指輪A=Gemstone Ring A
+宝石の指輪B=Gemstone Ring B
+スカルヘッド=Skull Ring
+チアポンポン=Cheerleader Pompom
+レザーバングル=Leather Bangle
+イルカとカラーストーン=Dolphin and Colored Stone
+腕時計=Watches
+丸型腕時計=Round Watch
+メタルブレスレット=Metal Bracelet
+シュシュ=Scrunchie
+ストーンブレスレット=Stone Bracelet
+リストバンドA=Wristband A
+リストバンドB=Wristband B
+光輪=Halo
+スマートウォッチ=Smart Watch
+スポーツブレスレット=Sports Bracelet
+ツイストリング=Twist Ring
+薬瓶の腕輪=Medicine Bottle Bangles

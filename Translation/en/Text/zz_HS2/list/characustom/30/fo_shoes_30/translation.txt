@@ -1,0 +1,17 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+ハードブーツ=Leather Boots
+チャイナシューズ=China Shoes
+ダンサーシューズ=Dancer Shoes
+ヒーラーシューズ=Healer Shoes
+コンシェルジュブーツF=Concierge Boots
+メリージェーン=Mary Jane Shoes
+ナースシューズ=Nurse Shoes
+スキニーブーツ=Skinny Boots
+騎士の脚鎧=Knight's Leg Armor
+ゴスロリパンプス=Gothic Pumps
+ウエスタンブーツ=Cowboy Boots
+エルフのブーツ=Elf Boots
+キャンペーンブーツ=HS2 Campaign Boots
+ウエイトレスシューズ=Waitress Shoes

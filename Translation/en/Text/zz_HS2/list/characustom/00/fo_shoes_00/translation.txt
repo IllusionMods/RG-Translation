@@ -1,0 +1,17 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+なし=None
+ビーチサンダル=Flip Flops
+ボーンサンダル=Sandals
+ローファー=Loafers
+パンプス=Pumps
+ベルトパンプス=Belt Pumps
+ランニングシューズ=Running Shoes
+スニーカー=Sneakers
+メッシュシューズ=Mesh shoes
+カフシューズ=High sneakers
+トレッキング=Trekking shoes
+マリンシューズ=Rubber Sneakers
+上履き=Slippers
+レザーブーツ＆チャップス=Leather boots & chaps

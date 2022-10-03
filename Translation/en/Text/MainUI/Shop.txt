@@ -1,0 +1,89 @@
+//***********************************************************************
+// Shop Menu
+//***********************************************************************
+
+//------------------------------------------------------------
+// General
+//------------------------------------------------------------
+アダルトショップへ=To the Adult Shop
+アイテムショップへ=To the Item shop
+この商品を購入しますか？=Would you like to buy this product?
+
+//------------------------------------------------------------
+// Item Shop
+//------------------------------------------------------------
+集中力UP=Focus UP
+購入した時間帯から次の時間帯までの間、まじめ系の行動成功率と成績の成長値が上がります。=From the time of purchase to the next time of day,\nthe success rate of serious-type actions and the growth value of grades are increased.
+
+趣味の充実=Hobbies\nEnhancement 
+購入した時間帯から次の時間帯までの間、あそび系の行動成功率と趣味の成長値が上がります。=From the time of purchase to the next time of day,\nthe success rate of playful actions and the growth value of hobbies are increased.
+
+フェロモン開放=Pheromone\nLiberation
+購入した時間帯から次の時間帯までの間、ユニーク系の行動成功率と色気の成長値が上がります。=From the time of purchase to the next time of day,\nthe success rate of unique-type actions and the growth value of sex appeal are increased.
+
+サプライズプラン=Surprise Plan
+購入すると次のデートに誘う行動の一回のみデート成功率が上がります。=If you purchase,\nthe date success rate will increase only once when asking someone out on the next date.
+
+高速ラーニング=High Speed\nLearning
+購入した時間帯から次の時間帯までの間、ステータスの成長値が２倍になります。=From the time of purchase to the next time of day,\nthe growth value of the status is doubled.
+
+休養月間=Rest Month
+購入した時間帯から次の時間帯までの間、スタミナが回復した場合に効果量がアップします。=From the time of purchase to the next time of day,\nstamina recovering is increased
+
+イメチェン=Image Change
+次の日になるまで行動による性質の変動値が2倍になり、性質が変動しやすくなります。=The value of the nature change by the action is doubled\nuntil the next day and the nature is more likely to change.
+
+特別ボーナス=Special Bonus
+キャラクター全体の所持金が300アップします。　=The character's total amount of money is increased by 300.　
+
+一発逆転=Turning\nTables
+次の日になるまでスロットの成功率が低下する代わりに入手できる金額が増えます。=The success rate of the slot machine is reduced until the next day,\nbut the amount of money available is increased.
+
+
+親交を深める=Deepen\nFriendship
+次の日になるまで興味がランクダウンしないようになります。=The interest will not be down until the next day.
+
+サービスクーポン=Service Coupon
+次の日になるまでカフェとレストランの利用料金が無料になります。=Until the next day, the cafe and restaurant will be free.
+
+ストレス発散=Stress Release
+購入するとキャラクター全体の不満を0に戻すことが出来ます。=The purchase will return the entire character's dissatisfaction to 0.
+
+//------------------------------------------------------------
+// Adult Shop
+//------------------------------------------------------------
+エッチ成功率UP=Sex Rate UP
+次の一回のみ、エッチをお願いしてできる確率がすこし上がります。=The next time you ask for sex,\nyour chances of getting it will increase a little.
+
+利尿剤=Diuretic
+次のエッチ中のみ、女の子が絶頂したら必ず失禁するようになります。=Only during the next sex, the girl will always become incontinent when she climaxes.
+
+脱力剤=Weakening\nAgent
+次のエッチ中のみ、女の子が一回絶頂すると必ず脱力状態になります。=Only during the next sex,\nif a girl culminates once, it will always be at state of weakness.
+
+敏感薬=Sensitive\nDrug
+次のエッチ中のみ、女の子が絶頂するたびに必ず潮をふくようになります。=Only during the next sex,\nthe girl will always squirt every time she climaxes.
+
+精力増強剤=Energy Booster
+次のエッチ後一回のみ、エッチ後に再度エッチに誘われやすくなります。=Only once after the next sex,\nyou are more likely to be invited to have sex again after sex.
+
+//Present
+次のエッチ後一回のみ、エッチ後にエッチしたキャラクター全員の興味が1つ上がります。=Only once after the next sex,\nthe interest of all the characters who have sex with each other is increased by one.
+
+エロスへの興味=Interest in Eros
+次のエッチ後一回のみ、エッチ慣れの経験値が2倍になります。=Only once after the next sex, the experience of sex familiarity is doubled.
+
+ホテルクーポン=Hotel Coupon
+次のホテル利用料金を一回だけ無料になります。=One time free of charge for the next hotel stay.
+
+夜遊び=Nightlife
+次のエッチ後一回のみ、入手経験値がすこし増えます。=Only once after the next sex,\nthe experience value you get will be increased a little.
+
+媚薬=Aphrodisiac
+次のエッチ中のみ、女の子の快感ゲージが上がりやすくなります。=Only during the next sex,\nthe girl's pleasure gauge is easily raised.
+
+絶倫薬=Unequaled medicine
+次のエッチ中のみ、男の快感ゲージが上がりやすくなります。=Only during the next sex,\nthe man's pleasure gauge is easily raised.
+
+臨時収入=Extraordinary\nIncome
+次のエッチ後一回のみ、女の子の所持金が500増えます。=Only once after the next sex,\nthe girl's money will be increased by 500.

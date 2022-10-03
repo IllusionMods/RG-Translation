@@ -1,0 +1,24 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+なし=None
+ノーマル=Standard
+リボンレース=Ribbon Lace
+アダルティレース=Adult Lace
+ハーフレース=Half Lace
+フルレース=Full Lace
+マイクロレース=Micro Lace
+スポーツ=Sports
+ストラップレス=Strapless
+バンド=Mini Tube
+ビキニ=Bikini
+リボンビキニ=Ribbon Bikini
+マイクロビキニ=Micro Bikini
+マイクロSビキニ=Micro Bikini 2
+ツイスト=Twist
+ワンピース=One-piece
+旧スクール水着=Old School Swimsuit
+競泳水着=Racing Swimsuit
+ハートシール=Heart Seal
+スターシール=Star Seal
+絆創膏=Bandage Seal

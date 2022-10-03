@@ -1,0 +1,16 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+鳥籠=Bird Cage
+妖精の羽=Fairy Wings
+ネコリュック=Cat Rucksack
+ミニリュック=Mini Rucksack
+商人カバン=Merchant Bag
+小悪魔の翼右用=Right Little Devil Wing
+小悪魔の翼左用=Left Little Devil Wing
+小天使の翼右用=Right Little Angel Wing
+小天使の翼左用=Left Little Angel Wing
+悪魔の翼右用=Right Demon Wing
+悪魔の翼左用=Left Demon Wing
+天使の翼右用=Right Angel Wing
+天使の翼左用=Left Angel Wing

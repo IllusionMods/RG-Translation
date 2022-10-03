@@ -1,0 +1,18 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+なし=None
+ワンピースライン１=Swimsuit 1
+ワンピースライン２=Swimsuit 2
+レーシングライン=Sporty
+スクール水着ライン=School Swimsuit
+ビキニライン=Bikini
+マイクロライン１=Micro Bikini 1
+マイクロライン２=Micro Bikini 2
+チューブトップライン=Tube Top
+ランジェリーライン=Lingerie
+キャミソールライン=Camisole
+スポーツライン=Athletic
+体操着ライン=Workout
+ナチュラルライン1=Natural 1
+ナチュラルライン2=Natural 2

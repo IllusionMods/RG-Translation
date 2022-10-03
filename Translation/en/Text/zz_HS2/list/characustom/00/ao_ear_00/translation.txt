@@ -1,0 +1,10 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+スター=Star Earring
+スターリング=Empty Star Earring
+クリスタル=Crystal Earring
+クリスタルピラー=Crystal Pillar Earring
+三連イヤリング=Triple Triangle Earring
+フラワー=Flower Earring
+パール=Pearl Earring

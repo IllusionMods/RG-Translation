@@ -1,0 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
+//
+コンシェルジュブラS=Concierge Bra Sitri
+セレブ水着=Celebrity Swimsuit
+ガーリーブラ=Girly Bra

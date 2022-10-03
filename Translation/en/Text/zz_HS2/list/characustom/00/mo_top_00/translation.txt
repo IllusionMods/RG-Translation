@@ -1,0 +1,14 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+なし=None
+Tシャツ=T-Shirt
+Yシャツ(A)=Dress Shirt A
+Yシャツ(B)=Dress Shirt B
+ポロシャツ=Polo Shirt
+ジャケット=Jacket
+ベスト=Vest
+作業着=Worker's Jacket
+タンクトップ（A）=Tank Top A
+タンクトップ（B）=Tank Top B
+ロングカーディガン=Long Cardigan

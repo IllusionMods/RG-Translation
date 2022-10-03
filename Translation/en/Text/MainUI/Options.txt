@@ -1,0 +1,153 @@
+//***********************************************************************
+// Options Menu
+//***********************************************************************
+
+//---------------------------------------------------------
+//Generic - Applies to more than one place
+//---------------------------------------------------------
+オプション=Options
+高=High
+中=Medium
+低=Low
+なし=None
+カメラ見る=Camera
+
+常時=Always
+標準=Normal
+
+//------------------------------------------------------------
+// Left Menu
+//------------------------------------------------------------
+カメラ設定=Camera Settings
+描画設定\n=Graphic Settings
+オーディオ設定=Audio Settings
+音声設定=Voice Settings
+ゲーム設定=Game Settings
+Hシーン設定=H Scene Settings
+初期化=Defaults
+タイトルに戻る=Back to Title
+
+//------------------------------------------------------------
+// Camera Settings
+//------------------------------------------------------------
+注視点の表示=Focal Point
+カメラ縦移動=Camera Move Y
+カメラ横移動=Camera Move X
+//標準=Normal
+反転=Inverse
+
+//------------------------------------------------------------
+// Graphic Settings
+//------------------------------------------------------------
+//Quality level
+描画レベル=Quality
+パフォーマンス=Low
+ノーマル=Medium
+クオリティ=High
+ハイクオリティ=Ultra
+簡易=Simple
+
+被写界深度=Depth of field
+
+フォグ=Fog
+ボリュームフォグ=Fog Volume
+マイクロシャドウ=Micro Shadows
+大域照明=Global Illumination
+グロー=Bloom
+レンズフレア=Lens flare
+コンタクトシャドウ=Contact Shadow
+ビネット=Vignette
+色収差=Chromatic Aberration
+アンチエイリアス=Anti-Aliasing
+鏡映り込み=Morror Reflections
+影の解像度=Shadow Resolution
+遮蔽=Obstructions
+
+//------------------------------------------------------------
+// Audio Settings
+//------------------------------------------------------------
+マスター=Master Volume
+環境音=Environment
+システムSE=System SFX
+ゲームSE=Game SFX
+
+//------------------------------------------------------------
+// Game Settings
+//------------------------------------------------------------
+モブキャラの表示設定=NPC Settings
+通常=Normal
+単色化=Monochrome
+モブキャラ(男性)の単色カラー=NPC Color (Male)
+モブキャラ(女性)の単色カラー=NPC Color (Female)
+選択時のアウトラインカラー=Outline Color When Selected
+マウスによるキャラ選択=Select Character with Mouse
+キャラ選択時のカメラ移動=Move Camera When Select Character
+
+オートセーブタイミング=Autosave Timing
+時間帯ごと=By Time Period
+一日ごと=Every day
+
+室内での靴の表示=Display of shoes indoors
+常に履かせる=Always Wear
+建物に入った時のカメラの挙動=Camera inside building
+追尾=Follow
+固定=Fixed
+
+操作ガイドの表示設定=Show Guide
+アクション中のテキスト表示=Show Text During Action
+サンプルテキストを表示しています=Displaying sample text
+文字表示速度=Text Speed
+遅い=Slow
+速い=Fast
+
+アルファ=Alpha
+薄い=Transparent
+濃い=Opaque
+
+//------------------------------------------------------------
+// H scene settings
+//------------------------------------------------------------
+汁の表示=Juice display
+汗の表示=Sweat display
+尿の表示=Urine display
+潮吹き描画方法=Squirting Display
+１人目 視線=Char 1 Eye Tracking
+１人目 首の向き=Char 1 Head Tracking
+２人目 視線=Char 2 Eye Tracking
+２人目 首の向き=Char 2 Head Tracking
+
+脱力制御=Tiredness Controls
+ゲーム準拠=By Char.
+脱力しない=Disable Tiredness
+
+カメラ初期化判断=Move Camera On Position Change
+
+男１人目=1st Man
+男１人目の表示=1st Man Display
+男１人目の男根=1st Man Penis
+男１人目の服=1st Man Clothes
+男１人目のアクセサリー=1st Man Accessories
+男１人目の靴=1st Man Shoes
+男２人目=2nd Man
+男２人目の表示=2nd Man Display
+男２人目の男根=2nd Man Penis
+男２人目の服=2nd Man Clothes
+男２人目のアクセサリー=2nd Man Accessories
+男２人目の靴=2nd Man Shoes
+
+男を単色化=Monochrome Man
+男の単色カラー=Monochrome Men Color
+その他キャラの表示設定=Other Characters
+その他キャラ(男性)の単色カラー=Other Characters Colors (Male)
+その他キャラ(女性)の単色カラー=Other Characters Colors (Female)
+
+フリーHシーン設定=Free H Scene Settings
+尿発生条件=Urine Condition
+潮吹き発生条件=Squirting Condition
+
+//------------------------------------------------------------
+// Dialogue Boxes
+//------------------------------------------------------------
+設定を初期化しますか？=Reset to Defaults?
+する=Yes
+しない=No

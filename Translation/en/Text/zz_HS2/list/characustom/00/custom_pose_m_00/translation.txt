@@ -1,0 +1,11 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+マネキン=Mannequin
+ポーズ01=Pose 01
+ポーズ02=Pose 02
+ポーズ03=Pose 03
+ポーズ04=Pose 04
+ポーズ05=Pose 05
+ポーズ06=Pose 06
+ポーズ07=Pose 07

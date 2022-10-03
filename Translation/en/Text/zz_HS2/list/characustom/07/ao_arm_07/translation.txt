@@ -1,0 +1,13 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+メカショルダー=Mecha Shoulder
+メカ装甲５=Mecha Armor 5
+メカ装甲６=Mecha Armor 6
+メカ装甲６×３=Mecha Armor 6×3
+メカブースターⅡ=Mecha Booster 2
+メカシールドⅡ=Mecha Shield 2
+メカシールドⅢ=Mecha Shield 3
+メカアーマー=Mecha Armor
+サキュバスの腕飾り=Succubus ornament
+バーサーカーの腕当て=Berserker Armguard

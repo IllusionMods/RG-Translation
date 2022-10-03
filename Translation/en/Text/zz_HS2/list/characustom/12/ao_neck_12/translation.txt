@@ -1,0 +1,8 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+クリスマスチョーカー=Christmas Choker
+モコモコチョーカー=Fluffy Choker
+クリスマスリボン（太）=Large Christmas Ribbon
+クリスマスリボン（細）=Small Christmas Ribbon
+クリスマスベル=Christmas Bell

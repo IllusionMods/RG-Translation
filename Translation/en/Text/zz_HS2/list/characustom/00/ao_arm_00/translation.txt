@@ -1,0 +1,8 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+腕章A=Armband A
+腕章B=Armband B
+レザーアーム=Leather Arm
+アームレット=Armlet
+バンダナ巻き=Bandana Armband

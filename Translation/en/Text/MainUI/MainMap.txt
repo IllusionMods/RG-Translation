@@ -1,0 +1,58 @@
+//***********************************************************************
+// Main Map UI
+//***********************************************************************
+
+マップへ移動=Go to the map
+全体マップへ=Back to the Main Map
+
+//------------------------------------------------------------
+// Left Menu
+//------------------------------------------------------------
+時間帯を変更=Change time period
+ショップへ=Go to the Shop
+住人登録=Resident Registration
+メニュー=Menu
+ヘルプ=Help
+
+//------------------------------------------------------------
+// Resident Registration
+//------------------------------------------------------------
+住人を職場に登録=Register residents in the workplace
+
+女性キャラ=Female character
+その他キャラ1=Other characters 1
+その他キャラ2=Other characters 2
+お気に入り登録=Add a favorite
+容姿変更=Change Appearance
+登録解除=Cancel Registration
+
+キャラカード一覧=Character Card List
+登録=Register
+
+//------------------------------------------------------------
+// Menu -> Save
+//------------------------------------------------------------
+セーブデータを作成=Create save data
+セーブデータ名を入力=Enter the save data name
+上書きしますか？=Do you want to overwrite?
+※今あるセーブデータに上書きされ元に戻せなくなります。\nよろしいですか？=The overwritten save cannot be restored.\nDo you really want to overwrite?
+
+//------------------------------------------------------------
+// Menu -> Help
+//------------------------------------------------------------
+アクションシーン=Action scene
+全体マップ=Main Map
+親密モード=Intimate Mode
+キャラメイク=Character Maker
+ホテル=Hotel
+デートマップ=Dating Maps
+ショップ=Shop
+Hシーン=Sex Scene
+
+閉じる=Close
+説明画面を終了しますか？=Do you want to exit the help screen?
+
+//------------------------------------------------------------
+// Dialog Boxes
+//------------------------------------------------------------
+タイトルに戻りますか？=Return to the Title Screen?

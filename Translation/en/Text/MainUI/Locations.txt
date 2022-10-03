@@ -1,0 +1,32 @@
+//***********************************************************************
+// Game Locations
+//***********************************************************************
+
+オフィス=Office
+オフィス(昼)=Office (Day)
+オフィス(夜)=Office (Night)
+
+社員寮=Employee Dormitory 
+社員寮(昼)=Employee Dormitory (Day)
+社員寮(夜)=Employee Dormitory (Night)
+
+診療所=Clinic
+診療所(昼)=Clinic (Day)
+診療所(夜)=Clinic (Night)
+
+レストラン=Restaurant
+レストラン(昼)=Restaurant (Day)
+レストラン(夜)=Restaurant (Night)
+
+民家=Private House
+リビング=Living Room
+自室=Personal Room
+セミナー=Seminar
+カフェ=Cafe
+カジノ=Casino
+ライブハウス=Live Music Club
+公園=Park
+
+高級マンション=Luxury Apartment
+
+ラブホテル=Love Hotel
