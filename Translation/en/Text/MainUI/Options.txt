@@ -59,7 +59,7 @@ Hシーン設定=H Scene Settings
 ビネット=Vignette
 色収差=Chromatic Aberration
 アンチエイリアス=Anti-Aliasing
-鏡映り込み=Reflections
+鏡映り込み=Mirror Reflections
 影の解像度=Shadow Resolution
 遮蔽=Hide Obstructions
 
