@@ -18,7 +18,7 @@ sr:"^(.+)に声をかける$"=Speak with $1
 //------------------------------------------------------------
 // Left Menu
 //------------------------------------------------------------
-倍速で再生=Increase Animation Speed
+倍速で再生=2x Animation Speed
 時間を進める=Advance Time
 
 //------------------------------------------------------------
@@ -26,44 +26,44 @@ sr:"^(.+)に声をかける$"=Speak with $1
 //------------------------------------------------------------
 // Status
 ステータス▼=Status ▼
-現在の性質=Current Nature
-成績=Grade
+現在の性質=Current Disposition
+成績=Expertise
 趣味=Hobby
 社交=Social
-恋愛=Affection
-色気=Charm
+恋愛=Romance
+色気=Appeal
 
 スタミナ切れ=Out Of Stamina
-疲労=Fatigue
+疲労=Tired
 漏れそう=Needs to pee
 
 // Friendship
 交友関係▼=Friendship ▼
 間柄=Relation
-他人=Others
+他人=Stranger
 友人=Friend
-悪友=Bad Friend
+悪友=Bad Company
 恋人=Lover
 性友=Sex Friend
-愛人=Mistress
+愛人=Paramour
 
-興味ない=Not Interested
-いやではない=Nothing Against
-ついつい見てしまう=Just look at it
+興味ない=Not interested
+いやではない=No strong feelings
+ついつい見てしまう=Can't stop glancing
 興味あり=Interested
-注目している=Attention
-目が離せない=Can't take my eyes off
-ゾッコン=In Love
-あなたしか見れない=Madly In Love
+注目している=Charmed
+目が離せない=Can't look away
+ゾッコン=In love
+あなたしか見れない=Madly in love
 
 //------------------------------------------------------------
 // Right Menu
 //------------------------------------------------------------
 // Forbidden message
 所持金不足=Insufficient money
-診察中=During a examination
+診察中=In an examination
 行動済み=Action taken
-会話中=During the conversation
+会話中=Talking with someone
 
 //Tips
 / 決定= Decision
@@ -81,21 +81,21 @@ sr:"^(.+)に声をかける$"=Speak with $1
 //------------------------------------------------------------
 行動選択=Select Action
 退出する=Leave
-人と話す=Talk to people
+人と話す=Talk to somone
 勉強=Study
 仕事=Work
 休憩=Break
 コミュニティ=Socialize
 エッチをする=Have Sex
 エッチする=Have Sex
-元の場所に戻る=Return to the original location
-診察椅子に移動=Move to the consultation chair
+元の場所に戻る=Return to original location
+診察椅子に移動=Go to consultation chair
 寝る=Sleep
 リラックス=Relax
 本を読む=Read a book
 抱きつく=Hug
-浮気をばらす=Expose Cheating
-肉体関係を迫る=Press for physical relations
+浮気をばらす=Expose cheating
+肉体関係を迫る=Press for sexual relations
 無理矢理起こす=Force to wake up
 起こす=Wake up
 そっとしておく=Leave alone
@@ -105,114 +105,114 @@ sr:"^(.+)に声をかける$"=Speak with $1
 起きる=Get up
 告白する=Confess
 マネージャーを誘惑する=Seduce the manager
-胸を診察してもらう=Have your chest examined.
+胸を診察してもらう=Have your chest examined
 椅子に手をつく=Put your hands on the chair
-用を足す=Use the bathroom.
+用を足す=Use the bathroom
 キスする=Kiss
-エッチ相手を呼ぶ=Call sex partner
+エッチ相手を呼ぶ=Call sex partner over
 ホワイトボードを確認する=Check the whiteboard
-解説動画を見る=View explanatory video
+解説動画を見る=Watch guide video
 
 //Work/Study
-取引先を呼ぶ=Call a business partner
-取引先と通話=Call a work partner
+取引先を呼ぶ=Call a client over
+取引先と通話=Phone a client
 技術本を読む=Read a technical book
-予定チェック=Plan check
-書類確認=Document confirmation
+予定チェック=Check schedule
+書類確認=Check documents
 サポート業務=Support business
-棚の薬品チェック=Check shelf chemicals
+棚の薬品チェック=Check shelf's drugs
 次の患者の資料をチェックする=Check the next patient's file
 診察室で待機=Wait in the examination room
-エゴサーチ=Check Social Network
-楽曲をチェック=Check out the music
+エゴサーチ=Egosurf
+楽曲をチェック=Check out the composition
 雑誌をチェック=Check out magazines
-ルーレット台を拭く=Wipe the roulette stand
-周囲を確認=Check the perimeter
+ルーレット台を拭く=Clean the roulette table
+周囲を確認=Check surroundings
 スマホで利用状況を確認=Check usage status on your smartphone
-スケジュールチェック=Schedule check
+スケジュールチェック=Check schedule
 曲の確認=Check songs
-ファンレターの確認=Check fan letter
-サインの練習=Signature Practice
-台本チェック=Script check
+ファンレターの確認=Read fan letter
+サインの練習=Practice signing
+台本チェック=Check the script
 コーヒーを飲む=Drink coffee
 音楽を聴く=Listen to music
-特設サイトをチェック=Check the special site
+特設サイトをチェック=Check offical fansite
 テーブルを拭く=Wipe the table
-パフォーマンス練習=Performance practice
+パフォーマンス練習=Pracitce performance
 カードを切る=Play cards
-参考書を見る=See reference books
-書類作成=Paperwork
+参考書を見る=Read reference books
+書類作成=Do paperwork
 清掃する=Clean up
 異常が無いか点検=Inspect for abnormalities
-警備する=Security
+警備する=Stand guard
 スマホで話す=Talk on your phone
-カルテを見る=View Medical Records
+カルテを見る=View medical records
 指導内容を考える=Thinking about instructional content
 講義内容の確認=Review lecture content
 予習する=Prepare for a lesson
 セクシーダンスをする=Sexy dance
-ポールダンスをする=Pole Dancing
-薬品をチェック=Check chemicals
+ポールダンスをする=Pole dance
+薬品をチェック=Check drugs
 待つ=Wait
 
 //Break
 一息つく=Take a break
 一息をつく=Take a break
-スマホをいじる=Fiddling with your phone
+スマホをいじる=Fidle with your phone
 伸びをする=Stretch out
 スマホで音楽を聴く=Listen to music on your phone
-SNSをチェック=Check social networking sites
+SNSをチェック=Check socials
 スマホを見る=See your smartphone
 PCで動画を見る=Watch videos on your PC
 雑誌を読む=Read a magazine
-診察してもらう=Have a consultation
+診察してもらう=Get examined
 趣味の動画を見る=Watch a hobby video
 
 //Relax
-うちわで涼む=Cool with a fan
+うちわで涼む=Use a hand fan
 お菓子を食べる=Eat sweets
 飲み物を飲む=Drink
 マンガを読む=Read manga
 TVを見る=Watch TV
 動画を見る=Watch video
 ゲームをする=Play a game
-ネットで商品を注文する=Order products online
+ネットで商品を注文する=Shop online
 仮眠する=Take a nap
-雑誌を見る=View Magazine
+雑誌を見る=Read Magazine
 スムージーを飲む=Drink a smoothie
 シャンパンを飲む=Drink champagne
 ご飯を食べる=Have a meal
 ファッション誌を読む=Read a fashion magazine
 ペット動画で癒される=Relax with pet videos
-表情練習=Expression Exercise
+表情練習=Practice facial expression
 ごろごろする=Lounging around
 スマホで通話=Calling with your phone
 ヨガストレッチ=Yoga stretching
 マンガを書く=Write manga
-ネットサーフィン=Internet surfing
+ネットサーフィン=Surf the internet
 映画を見る=Watch a movie
 
 //Socialize
 友達になる=Become a friend
-セフレになる=Become lovers
+セフレになる=Become sexfriends
 トイレに誘う=Invite to the bathroom
 ホテルに誘う=Invite to the hotel
 公園に誘う=Invite to the park
 カフェに誘う=Invite to the cafe
 レストランに誘う=Invite to the restaurant
 別れる=Break Up
-デートに誘う=Invite to a date
+デートに誘う=Ask out on a date
 からかう=Tease
 趣味の話をする=Talk about hobbies
 仕事の話をする=Talk about work
-相手を誘惑する=Seduce the other person
+相手を誘惑する=Seduce them
 チップを渡す=Give a tip
-体の関係を迫る=Pressures for physical relations
-帰らせる=Return home
+体の関係を迫る=Pressure for physical relations
+帰らせる=Have them go home
 注意する=Warn
 励ます=Encourage
 話しかける=Talk
-熱を測る=Measure heat
+熱を測る=Take temperature
 体調確認=Physical checkup
 
 //Move
@@ -221,7 +221,7 @@ TVを見る=Watch TV
 トイレに行く=Go to the bathroom
 カジノに行く=Go to the casino
 診療所に行く=Go to the clinic
-取引先と外で会う=Meet with business partners outside
+取引先と外で会う=Meet with client outside
 休憩する=Take a break
 カフェに行く=Go to the cafe
 レストランに行く=Go to the restaurant
@@ -230,32 +230,32 @@ TVを見る=Watch TV
 家に帰る=Go back home
 冷蔵庫に行く=Go to the refrigerator
 お風呂に入る=Take a bath
-人を呼ぶ=Call a person
+人を呼ぶ=Call someone
 配達員と外で会う=Meet the delivery man outside
 部屋に戻る=Return to your room
 話すのをやめる=Stop talking
 飲み物をとりに行く=Go to take a drink
-スロットホールに移動=Move to slot hall
-ポーカーホールに移動=Move to poker hall
+スロットホールに移動=Go to the Slot Hall
+ポーカーホールに移動=Go to the Poker Holl
 ポールダンス台に行く=Go to the pole dance stand
 スロットをしに行く=Go play the slots
 テーブルに行く=Go to the table
 鏡前に移動する=Go to the mirror
 売り上げをチェック=Check sales
-ルーレットホールに移動する=Move to Roulette Hall
-スロットホールに移動する=Move to the slot hall
-備品倉庫を点検=Inspect the equipment warehouse
+ルーレットホールに移動する=Go to the Roulette Hall
+スロットホールに移動する=Go to the Slot Hall
+備品倉庫を点検=Inspect the warehouse
 棚を点検=Inspect shelves
-休憩所に移動=Move to the rest area
+休憩所に移動=Go to the rest area
 ベッドで休む=Rest in bed
 風呂に入る=Take a bath
 着替えに行く=Change clothes
-休憩室に移動=Move to the break room
-机に移動=Move to the desk
+休憩室に移動=Go to the break room
+机に移動=Go to desk
 リビングに行く=Go to the living room
 ソファに座る=Sit on the sofa
-机に行く=Go to the desk
-ポールダンス前に行く=Go to the pole dance side
+机に行く=Go to desk
+ポールダンス前に行く=Go in front of the pole dance
 エッチを持ちかける=Offer to have sex
 エッチを持ち掛ける=Offer to have sex
 じっくり見る=Look carefully
@@ -264,14 +264,14 @@ TVを見る=Watch TV
 //Unique
 仮眠をとる=Take a nap
 オナニーをする=Masturbate
-色気を振りまく=Radiate Sex Appeal
+色気を振りまく=Flaunt sex appeal
 スマホで動画を見る=Watch video on your phone
-美容に気を使う=Take care of your beauty
+美容に気を使う=Groom yourself
 容姿チェック=Appearance Check
-さぼる=Skip Out
+さぼる=Slack off
 スマホでゲームをする=Play games on your phone
 セクシー動画を見る=Watch sexy videos
-色気をばらまく=Spread sex appeal
+色気をばらまく=Flaunt sex appeal
 
 //------------------------------------------------------------
 // Interaction Buttons
@@ -280,17 +280,17 @@ TVを見る=Watch TV
 また今度=Maybe next time
 ついていく=Follow
 怒る=Get angry
-いやがる=Dislike
+いやがる=Show dislike
 笑う=Smile
 揺さぶりをかける=Shake it up
-警告する=Warning
-不正を報告する=Report Cheating
+警告する=Warn
+不正を報告する=Report wrongdoings
 無視=Ignore
 
 //------------------------------------------------------------
 // Unsorted
 //------------------------------------------------------------
-真面目=True Face
+真面目=Solemn
 あれは私の声ですよ。=That's my voice.
 ご、ごめんなさい……よく分からないです……=I'm sorry...I don't understand...
 見捨てないでよ、キミがいないと生きていけないんだからっ=Don't abandon me. I can't live without you.
