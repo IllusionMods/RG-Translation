@@ -79,7 +79,7 @@ Hシーン設定=H Scene Settings
 単色化=Monochrome
 モブキャラ(男性)の単色カラー=NPC Color (Male)
 モブキャラ(女性)の単色カラー=NPC Color (Female)
-選択時のアウトラインカラー=Outline Color When Selected
+選択時のアウトラインカラー=Select Outline Color
 マウスによるキャラ選択=Select Character with Mouse
 キャラ選択時のカメラ移動=Move Camera When Select Character
 
@@ -101,7 +101,7 @@ Hシーン設定=H Scene Settings
 速い=Fast
 
 アルファ=Alpha
-薄い=Transparent
+薄い=Transp.
 濃い=Opaque
 
 //------------------------------------------------------------

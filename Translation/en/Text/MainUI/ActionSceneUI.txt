@@ -36,6 +36,7 @@ sr:"^(.+)に声をかける$"=Speak with $1
 スタミナ切れ=Out Of Stamina
 疲労=Tired
 漏れそう=Needs to pee
+睡眠=Sleeping
 
 // Friendship
 交友関係▼=Friendship ▼
@@ -214,6 +215,8 @@ TVを見る=Watch TV
 話しかける=Talk
 熱を測る=Take temperature
 体調確認=Physical checkup
+褒める=Praise
+差し入れをする=Give a present
 
 //Move
 職場に帰る=Go back to work

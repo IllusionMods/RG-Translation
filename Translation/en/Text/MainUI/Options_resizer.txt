@@ -1,0 +1,38 @@
+//***********************************************************************
+// UI Resizers for the Options Menu
+//***********************************************************************
+#set exe RoomGirl
+
+//------------------------------------------------------------
+// Left Menu overall
+//------------------------------------------------------------
+ConfigWindow(Clone)/Canvas/SubWindow/System/=ChangeFontSizeByPercentage(0.95)
+
+//------------------------------------------------------------
+//Right Menu
+//------------------------------------------------------------
+ConfigWindow(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content/Game_Node/GameSystemContent/MobSimpleBody/tglSimple/=ChangeFontSizeByPercentage(0.9)
+
+ConfigWindow(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content/Game_Node/GameSystemContent/IgnoredCharaRaycast/=ChangeFontSizeByPercentage(0.9)
+
+ConfigWindow(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content/Game_Node/GameSystemContent/IgnoredCharaRaycast/=ChangeFontSizeByPercentage(0.9)
+
+ConfigWindow(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content/Game_Node/GameSystemContent/AutoSaveTiming/tglTimeZone/=ChangeFontSizeByPercentage(0.8)
+
+ConfigWindow(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content/Game_Node/TextContent/TextWindowAlpha/thin/=ChangeFontSizeByPercentage(0.7)
+
+ConfigWindow(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content/Game_Node/TextContent/TextWindowAlpha/deep/=ChangeFontSizeByPercentage(0.7)
+
+ConfigWindow(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content/Game_Node/GameSystemContent/EnabledFocusChara/=ChangeFontSizeByPercentage(0.70)
+
+ConfigWindow(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content/HSetting_Node/Content/OtherSimpleBody/tglSimple/=ChangeFontSizeByPercentage(0.9)
+
+ConfigWindow(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content/HSetting_Node/Content/OtherMaleSilhouetteColor/=UGUI_VerticalOverflow(overflow)
+ConfigWindow(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content/HSetting_Node/Content/OtherMaleSilhouetteColor/=UGUI_HorizontalOverflow(wrap)
+ConfigWindow(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content/HSetting_Node/Content/OtherMaleSilhouetteColor/=UGUI_ChangeLineSpacingByPercentage(0.7)
+ConfigWindow(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content/HSetting_Node/Content/OtherMaleSilhouetteColor/=ChangeFontSizeByPercentage(0.85)
+
+ConfigWindow(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content/HSetting_Node/Content/OtherFemaleSilhouetteColor/=UGUI_VerticalOverflow(overflow)
+ConfigWindow(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content/HSetting_Node/Content/OtherFemaleSilhouetteColor/=UGUI_HorizontalOverflow(wrap)
+ConfigWindow(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content/HSetting_Node/Content/OtherFemaleSilhouetteColor/=UGUI_ChangeLineSpacingByPercentage(0.7)
+ConfigWindow(Clone)/Canvas/MainWindow/Node/Scroll View/Viewport/Content/HSetting_Node/Content/OtherFemaleSilhouetteColor/=ChangeFontSizeByPercentage(0.85)

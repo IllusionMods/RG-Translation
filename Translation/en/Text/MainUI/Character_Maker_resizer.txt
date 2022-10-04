@@ -19,7 +19,7 @@ CharaCustom/CustomControl/CanvasDraw/DrawWindow=ChangeFontSizeByPercentage(0.9)
 
 // Setting window -> setting "gear"
 CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara=UGUI_VerticalOverflow(overflow)
-//CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara=UGUI_ChangeLineSpacingByPercentage(0.5)
+CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara=UGUI_ChangeLineSpacingByPercentage(0.7)
 
 //Setting window -> Clothes
 CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwCoorde=UGUI_HorizontalOverflow(overflow)
