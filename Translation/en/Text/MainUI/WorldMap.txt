@@ -24,7 +24,7 @@
 その他キャラ2=Other characters 2
 お気に入り登録=Add a favorite
 容姿変更=Change Appearance
-登録解除=Cancel Registration
+登録解除=Unregister
 
 キャラカード一覧=Character Card List
 登録=Register

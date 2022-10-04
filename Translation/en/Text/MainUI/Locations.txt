@@ -18,17 +18,17 @@
 レストラン(昼)=Restaurant (Day)
 レストラン(夜)=Restaurant (Night)
 
-格安荘=Cheap House
-格安荘(昼)=Cheap House (Day)
-格安荘(夜)=Cheap House (Night)
+格安荘=Cheap Aparment
+格安荘(昼)=Cheap Apartment (Day)
+格安荘(夜)=Cheap Apartment (Night)
 
 高級マンション=Luxury Apartment
-高級マンション(昼)=Luxury apartment (Day)
-高級マンション(夜)=Luxury apartment (Night)
+高級マンション(昼)=Luxury Apartment (Day)
+高級マンション(夜)=Luxury Apartment (Night)
 
 リビング=Living Room
-リビング(昼)=Living room (Day)
-リビング(夜)=Living room (Night)
+リビング(昼)=Living Room (Day)
+リビング(夜)=Living Room (Night)
 
 公園=Park
 公園(昼)=Park (Day)
