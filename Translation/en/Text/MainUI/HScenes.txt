@@ -13,6 +13,7 @@
 場所を調整=Change Location
 男性の快感ゲージをロック=Lock Male Pleasure Gauge
 女性の快感ゲージをロック=Lock Female Pleasure Gauge
+フィニッシュ=Finish
 
 //------------------------------------------------------------
 // Sex Position Types
@@ -25,7 +26,6 @@
 男複数=Male Group
 特殊=Special
 レズ=Lesbian
-
 
 //------------------------------------------------------------
 // H-Scene Hints
@@ -70,6 +70,8 @@
 椅子=Chair
 壁=Wall
 カウンター=Counter
+ソファー=Sofa
+長椅子=Couch
 
 //------------------------------------------------------------
 // Ilumination

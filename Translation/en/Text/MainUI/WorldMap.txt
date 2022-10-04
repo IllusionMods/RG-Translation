@@ -3,7 +3,7 @@
 //***********************************************************************
 
 マップへ移動=Go to the map
-全体マップへ=Back to the Main Map
+全体マップへ=Back to the World Map
 
 //------------------------------------------------------------
 // Left Menu
@@ -40,8 +40,8 @@
 //------------------------------------------------------------
 // Menu -> Help
 //------------------------------------------------------------
-アクションシーン=Action scene
-全体マップ=Main Map
+アクションシーン=Action Scene
+全体マップ=World Map
 親密モード=Intimate Mode
 キャラメイク=Character Maker
 ホテル=Hotel
@@ -56,3 +56,6 @@ Hシーン=Sex Scene
 // Dialog Boxes
 //------------------------------------------------------------
 タイトルに戻りますか？=Return to the Title Screen?
+時間帯を変更しますか？=Change the time period?
+の自室が開放されました=Her room has been unlocked
+※自室開放※=※Room Unlocked※

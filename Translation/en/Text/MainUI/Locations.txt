@@ -18,15 +18,43 @@
 レストラン(昼)=Restaurant (Day)
 レストラン(夜)=Restaurant (Night)
 
-民家=Private House
-リビング=Living Room
-自室=Personal Room
-セミナー=Seminar
-カフェ=Cafe
-カジノ=Casino
-ライブハウス=Live Music Club
-公園=Park
+格安荘=Cheap House
+格安荘(昼)=Cheap House (Day)
+格安荘(夜)=Cheap House (Night)
 
 高級マンション=Luxury Apartment
+高級マンション(昼)=Luxury apartment (Day)
+高級マンション(夜)=Luxury apartment (Night)
 
+リビング=Living Room
+リビング(昼)=Living room (Day)
+リビング(夜)=Living room (Night)
+
+公園=Park
+公園(昼)=Park (Day)
+公園(夜)=Park (Night)
+
+セミナー=Seminar
+セミナー(昼)=Seminar (Day)
+セミナー(夜)=Seminar (Night)
+
+アパート=Apartment
+アパート(昼)=Apartment (Day)
+アパート(夜)=Apartment (Night)
+
+マンション=Condominium
+マンション(昼)=Condominium (Day)
+マンション(夜)=Condominium (Night)
+
+部屋(昼)=Room (Day)
+部屋(夜)=Room (Night)
+
+カフェ=Cafe
+カフェ(昼)=Cafe (Day)
+カフェ(夜)=Cafe (Night)
+
+民家=House
+自室=Pivate Room
+カジノ=Casino
+ライブハウス=Live Music Club
 ラブホテル=Love Hotel

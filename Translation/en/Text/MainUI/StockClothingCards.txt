@@ -9,3 +9,6 @@ sr:"家着　(.+)$"=$1 Housewear
 家着　OL=Office Lady Housewear
 
 ハイレグセーラーセット=High-leg Sailor Set
+スチームパンクセット=Steampunk Set
+マリンレジャーセット=Marine Leisure Set
+ネズミセット=Mouse Set
