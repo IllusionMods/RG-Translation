@@ -63,7 +63,16 @@ Where "xxx" represents the number of the desired scope level. Below is a table c
 
 | Level | Description           |
 |------:|-----------------------|
-| -1    | (global maybe?)       |
+| -1    | Global                |
+|  3    | Title Screen          |
+|  4    | Character Maker       |
+|  5    | World Map             |
+|  6    | ActionScene (Room UI) |
+|  7    | Free H                |
+|  8    | Network Check         |
+|  9    | Uploader              |
+|  10   | Downloader            |
+|  11   | Nework Entry          |
 
 ## Tools
 
