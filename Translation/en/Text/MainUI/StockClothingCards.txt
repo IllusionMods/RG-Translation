@@ -10,5 +10,5 @@ sr:"家着　(.+)$"=$1 Housewear
 
 ハイレグセーラーセット=High-leg Sailor Set
 スチームパンクセット=Steampunk Set
-マリンレジャーセット=Marine Ranger Set
+マリンレジャーセット=Marine Leisure Set
 ネズミセット=Mouse Set
