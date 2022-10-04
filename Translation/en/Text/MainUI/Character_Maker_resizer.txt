@@ -1,0 +1,124 @@
+//***********************************************************************
+// UI Resizers for the Character Maker
+//***********************************************************************
+#set exe RoomGirl
+#set level 4
+
+//================================================
+// Top Text
+//================================================
+CharaCustom/CustomControl/CanvasMain/Coordinate/imgBackground/textCoordinateName/=ChangeFontSizeByPercentage(0.9)
+
+CharaCustom/CustomControl/CanvasMain/Coordinate/imgBackground/textCoordinateNow/=ChangeFontSizeByPercentage(1.15)
+
+//================================================
+// Settings Window
+//================================================
+// General
+CharaCustom/CustomControl/CanvasDraw/DrawWindow=ChangeFontSizeByPercentage(0.9)
+
+// Setting window -> setting "gear"
+CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara=UGUI_VerticalOverflow(overflow)
+//CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara=UGUI_ChangeLineSpacingByPercentage(0.5)
+
+//Setting window -> Clothes
+CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwCoorde=UGUI_HorizontalOverflow(overflow)
+
+//================================================
+// Left Window
+//================================================
+// Left Window -> Outfit -> Costume card being edited
+CharaCustom/CustomControl/CanvasMain/SubMenu/SubMenuClothes/Scroll View/Viewport/Content/Category/CategoryTop/Type/imgBackground/tgl01/textTgl=UGUI_VerticalOverflow(overflow)
+CharaCustom/CustomControl/CanvasMain/SubMenu/SubMenuClothes/Scroll View/Viewport/Content/Category/CategoryTop/Type/imgBackground/tgl01/textTgl=UGUI_HorizontalOverflow(wrap)
+CharaCustom/CustomControl/CanvasMain/SubMenu/SubMenuClothes/Scroll View/Viewport/Content/Category/CategoryTop/Type/imgBackground/tgl01/textTgl=UGUI_ChangeLineSpacingByPercentage(0.7)
+CharaCustom/CustomControl/CanvasMain/SubMenu/SubMenuClothes/Scroll View/Viewport/Content/Category/CategoryTop/Type/imgBackground/tgl01/textTgl=ChangeFontSizeByPercentage(0.9)
+
+CharaCustom/CustomControl/CanvasMain/SubMenu/SubMenuClothes/Scroll View/Viewport/Content/Category/CategoryTop/Type/imgBackground/tgl02/textTgl=UGUI_VerticalOverflow(overflow)
+CharaCustom/CustomControl/CanvasMain/SubMenu/SubMenuClothes/Scroll View/Viewport/Content/Category/CategoryTop/Type/imgBackground/tgl02/textTgl=UGUI_HorizontalOverflow(wrap)
+CharaCustom/CustomControl/CanvasMain/SubMenu/SubMenuClothes/Scroll View/Viewport/Content/Category/CategoryTop/Type/imgBackground/tgl02/textTgl=UGUI_ChangeLineSpacingByPercentage(0.7)
+CharaCustom/CustomControl/CanvasMain/SubMenu/SubMenuClothes/Scroll View/Viewport/Content/Category/CategoryTop/Type/imgBackground/tgl02/textTgl=ChangeFontSizeByPercentage(0.9)
+
+CharaCustom/CustomControl/CanvasMain/SubMenu/SubMenuClothes/Scroll View/Viewport/Content/Category/CategoryTop/Type/imgBackground/tgl03/textTgl=UGUI_VerticalOverflow(overflow)
+CharaCustom/CustomControl/CanvasMain/SubMenu/SubMenuClothes/Scroll View/Viewport/Content/Category/CategoryTop/Type/imgBackground/tgl03/textTgl=UGUI_HorizontalOverflow(wrap)
+CharaCustom/CustomControl/CanvasMain/SubMenu/SubMenuClothes/Scroll View/Viewport/Content/Category/CategoryTop/Type/imgBackground/tgl03/textTgl=UGUI_ChangeLineSpacingByPercentage(0.7)
+CharaCustom/CustomControl/CanvasMain/SubMenu/SubMenuClothes/Scroll View/Viewport/Content/Category/CategoryTop/Type/imgBackground/tgl03/textTgl=ChangeFontSizeByPercentage(0.9)
+
+//================================================
+// Right Window
+//================================================
+
+// Face -> Nose
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinFace/F_ShapeNose/Scroll View/Viewport F_ShapeNose=UGUI_VerticalOverflow(overflow)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinFace/F_ShapeNose/Scroll View/Viewport F_ShapeNose=UGUI_HorizontalOverflow(wrap)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinFace/F_ShapeNose/Scroll View/Viewport F_ShapeNose=UGUI_ChangeLineSpacingByPercentage(0.7)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinFace/F_ShapeNose/Scroll View/Viewport F_ShapeNose=ChangeFontSizeByPercentage(0.9)
+
+// Face -> Mouth
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinFace/F_ShapeMouth=UGUI_VerticalOverflow(overflow)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinFace/F_ShapeMouth=UGUI_HorizontalOverflow(wrap)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinFace/F_ShapeMouth=UGUI_ChangeLineSpacingByPercentage(0.7)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinFace/F_ShapeMouth=ChangeFontSizeByPercentage(0.9)
+
+// Body -> Breasts
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinBody/B_ShapeBreast/Scroll View/Viewport B_ShapeBreast=ChangeFontSizeByPercentage(0.9)
+
+// Body -> Upper Body
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinBody/B_ShapeUpper=UGUI_VerticalOverflow(overflow)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinBody/B_ShapeUpper=UGUI_HorizontalOverflow(wrap)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinBody/B_ShapeUpper=UGUI_ChangeLineSpacingByPercentage(0.7)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinBody/B_ShapeUpper=ChangeFontSizeByPercentage(0.9)
+
+// Outfit -> Copy Costume Card
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinClothes/CopyWin/C_Copy/hair/imgBack/tglSelect/=UGUI_HorizontalOverflow(overflow)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinClothes/CopyWin/C_Copy/hair/imgBack/tglSelect/=ChangeFontSizeByPercentage(0.9)
+
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinClothes/CopyWin/C_Copy/btnSelect/=ChangeFontSizeByPercentage(0.9)
+
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinClothes/CopyWin/C_Copy/btnDeselect/=UGUI_VerticalOverflow(overflow)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinClothes/CopyWin/C_Copy/btnDeselect/=UGUI_HorizontalOverflow(wrap)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinClothes/CopyWin/C_Copy/btnDeselect/=UGUI_ChangeLineSpacingByPercentage(0.7)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinClothes/CopyWin/C_Copy/btnDeselect/=ChangeFontSizeByPercentage(0.9)
+
+// Outfit -> Load
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinClothes/SystemWin/C_Load/Load/imgBackground/=ChangeFontSizeByPercentage(0.9)
+
+// Accessories -> Color
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting02/Scroll View/Viewport/Content/DefaultColor/Button/=ChangeFontSizeByPercentage(0.9)
+
+// Accessories -> Position
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting04/Scroll View/Viewport/Content/=UGUI_VerticalOverflow(overflow)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting04/Scroll View/Viewport/Content/=UGUI_HorizontalOverflow(wrap)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting04/Scroll View/Viewport/Content/=UGUI_ChangeLineSpacingByPercentage(0.7)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting04/Scroll View/Viewport/Content/=ChangeFontSizeByPercentage(0.9)
+
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting04/DefaultParent/Button/=UGUI_ChangeLineSpacingByPercentage(0.7)
+
+// Accessories -> Make a Copy
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Copy/Setting/Control/copyTitle/=UGUI_ChangeLineSpacingByPercentage(0.7)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Copy/Setting/Control/copyTitle/=ChangeFontSizeByPercentage(0.9)
+
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Copy/Setting/Control/changeParent/tglChangeParentLR/=ChangeFontSizeByPercentage(0.9)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Copy/Setting/Control/changeParent/tglChangeParentLR/=UGUI_ChangeLineSpacingByPercentage(0.7)
+
+// Settings -> Name, Birthday, Nature
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Chara/Birthday/textKindTitle/=UGUI_ChangeLineSpacingByPercentage(0.7)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Chara/Birthday/textKindTitle/=ChangeFontSizeByPercentage(0.9)
+//CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Chara/Birthday/textKindTitle/=UGUI_HorizontalOverflow(overflow)
+
+// Settings Sex Trait
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Status H/Setting/Scroll View/Viewport/=ChangeFontSizeByPercentage(0.9)
+
+// Settings -> Save / Delete
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/SystemWin/O_SaveDelete/title/textWinTitle/=UGUI_HorizontalOverflow(overflow)
+
+//================================================
+// Shooting Menu
+//================================================
+CharaCustom/CustomControl/CanvasCapture/CaptureMenu/menuTop/light/light_reset/btnReset/=UGUI_HorizontalOverflow(overflow)
+CharaCustom/CustomControl/CanvasCapture/CaptureMenu/menuTop/light/light_reset/btnReset/=ChangeFontSizeByPercentage(0.9)
+
+//================================================
+// Fuse Cards
+//================================================
+CharaCustom/CustomControl/Canvas_PopupCheck/Panel Common/Image Background/Rect/No/=UGUI_ChangeLineSpacingByPercentage(0.7)
+CharaCustom/CustomControl/Canvas_PopupCheck/Panel Common/Image Background/Rect/No/=ChangeFontSizeByPercentage(0.9)

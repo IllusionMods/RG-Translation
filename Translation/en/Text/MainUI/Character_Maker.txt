@@ -25,7 +25,7 @@
 声質=Voice
 
 // Top Text
-コーデ編集中…=Clothes...
+コーデ編集中…=Clothes
 「外着」="Outerwear"
 「家着」="Housewear"
 「風呂」="Bath"
@@ -283,8 +283,8 @@ Y位置=Y Axis
 エクステ=Hair Extensions
 エクステの設定=Hair Extensions Settings
 
-髪型の一括登録=Batch registration of hairstyle
-今の髪型を全てのコーデに適応=Apply the current hairstyle to all outfits
+髪型の一括登録=Batch Apply Hairstyle
+今の髪型を全てのコーデに適応=Apply Hairstyle To All Outfits
 <color\=#005EA7FF>現在の髪型を\n「外着」「家着」「風呂」\nコーデ全てに適応します。</color>=<color\=#005EA7FF>Apply the current hairstyle to "Outerwear", "Housewear" and "Bath" outfits.</color>
 
 描画設定=Render Settings
@@ -711,9 +711,9 @@ SE音量=SFX Volume
 感じやすくなり、絶頂しやすくなる。=It is easier to feel good and cum.
 エッチ好き=Sex Lover
 エッチをするたびに色気のステータスが上がっていく。=Each time you have sex, the status of sex appeal rises.
-中出し好き=Lover of vaginal cum shot
+中出し好き=Creampie Lover
 中出しされるのが好みになり、エッチになれやすくなる。=Prefer to be ejaculated inside, making it easier to become aroused.
-外出し好き=Likes To Go Out
+外出し好き=Withdrawal Lover
 外出しされるのが好みになり、エッチになれやすくなる。=Prefer to be ejaculated outside, making it easier to become aroused.
 
 //------------------------------------------------------------
