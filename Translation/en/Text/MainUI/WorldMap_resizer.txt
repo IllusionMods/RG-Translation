@@ -19,14 +19,3 @@ HomeScene/HomeUI(Clone)/RegistCharaUI/imgMainBG/txtWindowTitle/=ChangeFontSizeBy
 HomeScene/HomeUI(Clone)/RegistCharaUI/imgJobMapBG/CharaTabParent/=ChangeFontSizeByPercentage(0.9)
 
 HomeScene/HomeUI(Clone)/RegistCharaUI/imgMainBG/CharaCardListWindow/title/textWinTitle/=ChangeFontSizeByPercentage(0.8)
-
-//================================================
-//Shop (I should make a file for this...)
-//================================================
-HomeScene/HomeUI(Clone)/ShopUI/ItemButtonRT/=UGUI_ChangeLineSpacingByPercentage(0.7)
-
-HomeScene/HomeUI(Clone)/ShopUI/ExplanationBG/=UGUI_ChangeLineSpacingByPercentage(0.7)
-
-ConfirmDialog(Clone)/DialogBG/Title/=ChangeFontSizeByPercentage(0.9)
-
-HomeScene/HomeUI(Clone)/ShopUI/H_ItemButtonRT/=UGUI_ChangeLineSpacingByPercentage(0.7)

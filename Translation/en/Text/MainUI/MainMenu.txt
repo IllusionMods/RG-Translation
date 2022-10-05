@@ -1,6 +1,25 @@
 //***********************************************************************
 // Main Menu
 //***********************************************************************
+#set exe RoomGirl
+// Main Menu use multiple scene levels. Dont set level here.
+
+//------------------------------------------------------------
+// New Game Tutorial
+//------------------------------------------------------------
+チュートリアル=Tutorial
+キャラの配置方法などチュートリアルを\nスキップしますか？=Do you want to skip the tutorial on how to place your character?
+
+この街には操作するメインキャラクターが必要です。まずはメインキャラクターを設定\nしましょう。=The city requires a main character to control. First, choose your main character.
+登録画面を開きますので画面左下の住人登録アイコンを選んでください。=Open the registration screen. Please select the resident registration icon at the bottom left of the screen.
+住人登録画面が開いたら、初めに配置したい施設を選びます。今回は現在選択\n中の\n「オフィス」に登録していきます。=When the registration screen opens, first select the workplace you wish to place the resident. In this case, we will register to "Office".
+施設を選択したらメインキャラかサブキャラの設定をします。今回はこのまま「女性\nキャラ」\nのタブからメインキャラクターを設定していきます。=Once selected a workplace, you can set up your characters. In this case, we will set the main character from the "Female Character" tab.
+メインキャラのスロットを選択し、キャラクターカード一覧から好きなキャラクターを選択し\nま\nす。=Select the slot for the main character, then choose your favorite character from the list of character cards.
+「登録」でスロットに登録されます。施設はキャラメイクの中で設定したタイプの\n　職業によっ\nて決められます。OLのキャラクターがいない場合は「新規作成」より作成してください。=Register a card in the workplace using the "Register" button. If you don't have an Office Lady character, please create one by clicking on "Create New".
+キャラの登録に関しては以上になります。全体マップではほかにも様々な機\n能があります。\n詳しくはヘルプ（F3キー）をご覧ください。=This is all about character registration. There are many other features available in the map. For more information, please check the Help screen (F3 key).
+
+では登録したキャラクターのいるマップに移動します。全体マップ中にある\nオフィスアイコン\nを選択してください。=Now go to the map with the registered character. Select the office icon in the world map.
+現在建物内に存在するキャラクターが表示されますので様子を見たいキャラクターを選択\nして「マップへ移動」を押してください。チュートリアルは以上で終了です。=The characters currently in the building will be displayed, so select the character you want to see and press "Move to map". This concludes the tutorial.
 
 //------------------------------------------------------------
 // Load Game
@@ -18,38 +37,9 @@ r:プレイ時間：([0-9]+)時間=Play Time: $1 Hours
 ※現在プレイ中のゲームの進行状況は失われます。=※The progress of the game currently being played will be lost.
 
 //------------------------------------------------------------
-// Free H
-//------------------------------------------------------------
-フリーエッチ=Free Sex
-マップ選択=Select Map
-マップ名=Map Name
-マップを選択してください=Select a Map
-
-プレイキャラクター=Playable Characters
-キャラ選択=Select Character
-女キャラ　１人目=1st Female Character
-女キャラ１人目=1st Female Character
-女キャラ　２人目=2nd Female Character
-女キャラ２人目=2nd Female Character
-
-男キャラ　１人目=1st Male Character
-男キャラ１人目=1st Male Character
-男キャラ　２人目=2nd Male Character
-男キャラ２人目=2nd Male Character
-
-性質=Nature
-慣れ=Experienced
-
-新規作成=Create New
-
-開始=Start
-
-//------------------------------------------------------------
 // Dialogue Boxes
 //------------------------------------------------------------
 ゲームを終了しますか？=Exit The Game?
-はい=Yes
-いいえ=No
 
 //------------------------------------------------------------
 // Card Conversion Screen

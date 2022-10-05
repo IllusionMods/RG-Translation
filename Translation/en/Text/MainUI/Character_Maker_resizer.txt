@@ -46,7 +46,6 @@ CharaCustom/CustomControl/CanvasMain/SubMenu/SubMenuClothes/Scroll View/Viewport
 //================================================
 // Right Window
 //================================================
-
 // Face -> Nose
 CharaCustom/CustomControl/CanvasSub/SettingWindow/WinFace/F_ShapeNose/Scroll View/Viewport F_ShapeNose=UGUI_VerticalOverflow(overflow)
 CharaCustom/CustomControl/CanvasSub/SettingWindow/WinFace/F_ShapeNose/Scroll View/Viewport F_ShapeNose=UGUI_HorizontalOverflow(wrap)
@@ -82,8 +81,14 @@ CharaCustom/CustomControl/CanvasSub/SettingWindow/WinClothes/CopyWin/C_Copy/btnD
 // Outfit -> Load
 CharaCustom/CustomControl/CanvasSub/SettingWindow/WinClothes/SystemWin/C_Load/Load/imgBackground/=ChangeFontSizeByPercentage(0.9)
 
+// Accessories -> Type
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting01/AccessoryType/=ChangeFontSizeByPercentage(0.9)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting01/AccessoryType/=UGUI_HorizontalOverflow(overflow)
+
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting01/AccessoryType/TglType07/=ChangeFontSizeByPercentage(0.75)
+
 // Accessories -> Color
-CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting02/Scroll View/Viewport/Content/DefaultColor/Button/=ChangeFontSizeByPercentage(0.9)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting02/Scroll View/Viewport/Content/DefaultColor/Button/=ChangeFontSizeByPercentage(0.8)
 
 // Accessories -> Position
 CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting04/Scroll View/Viewport/Content/=UGUI_VerticalOverflow(overflow)
@@ -91,7 +96,7 @@ CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Se
 CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting04/Scroll View/Viewport/Content/=UGUI_ChangeLineSpacingByPercentage(0.7)
 CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting04/Scroll View/Viewport/Content/=ChangeFontSizeByPercentage(0.9)
 
-CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting04/DefaultParent/Button/=UGUI_ChangeLineSpacingByPercentage(0.7)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting04/DefaultParent/Button/=UGUI_ChangeLineSpacingByPercentage(0.6)
 
 // Accessories -> Make a Copy
 CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Copy/Setting/Control/copyTitle/=UGUI_ChangeLineSpacingByPercentage(0.7)
@@ -123,9 +128,19 @@ CharaCustom/CustomControl/CanvasCapture/CaptureMenu/menuTop/light/light_reset/bt
 CharaCustom/CustomControl/Canvas_PopupCheck/Panel Common/Image Background/Rect/No/=UGUI_ChangeLineSpacingByPercentage(0.7)
 CharaCustom/CustomControl/Canvas_PopupCheck/Panel Common/Image Background/Rect/No/=ChangeFontSizeByPercentage(0.9)
 
-
 //================================================
 // Quit
 //================================================
 CharaCustom/CustomControl/Canvas_PopupCheck/Panel3/Image Background/Rect/Yes2/=UGUI_ChangeLineSpacingByPercentage(0.7)
 CharaCustom/CustomControl/Canvas_PopupCheck/Panel3/Image Background/Rect/Yes2/=ChangeFontSizeByPercentage(0.85)
+
+//================================================
+// Dialog Boxes
+//================================================
+CharaCustom/CustomControl/Canvas_PopupCheck/Panel Common/Image Background/Text/=ChangeFontSizeByPercentage(0.85)
+
+
+//================================================
+// Color Picker
+//================================================
+CharaCustom/CustomControl/CanvasColor/ColorPanel/menuPreset/Apply/=ChangeFontSizeByPercentage(0.9)

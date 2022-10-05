@@ -1,6 +1,7 @@
 //***********************************************************************
 // Options Menu
 //***********************************************************************
+#set exe RoomGirl
 
 //---------------------------------------------------------
 //Generic - Applies to more than one place
@@ -79,7 +80,7 @@ Hシーン設定=H Scene Settings
 単色化=Monochrome
 モブキャラ(男性)の単色カラー=NPC Color (Male)
 モブキャラ(女性)の単色カラー=NPC Color (Female)
-選択時のアウトラインカラー=Select Outline Color
+選択時のアウトラインカラー=Selected Outline Color
 マウスによるキャラ選択=Select Character with Mouse
 キャラ選択時のカメラ移動=Move Camera When Select Character
 

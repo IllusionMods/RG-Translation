@@ -22,8 +22,9 @@ ActionScene/ActionUI(Clone)/Canvas/CommandList_04(Clone)/Guide/=ChangeFontSizeBy
 
 ActionScene/ActionUI(Clone)/Canvas/CharaSelectUI_04(Clone)/ListArea/MoveArea/Title/=ChangeFontSizeByPercentage(0.95)
 
-//------------------------------------------------------------
-// Become Friends
-//------------------------------------------------------------
+
 #unset level 6
+//------------------------------------------------------------
+// Top Guide (level -1)
+//------------------------------------------------------------
 Manager(Clone)/CommonCanvas/TopicSelecterUI_04(Clone)/Root/Guide/=ChangeFontSizeByPercentage(0.9)

@@ -1,11 +1,41 @@
 //***********************************************************************
 // Sex Scenes Screen UI
 //***********************************************************************
+#set exe RoomGirl
+
+// Only the Free H Menu is at scene Level 7
+#set level 7
+//------------------------------------------------------------
+// Free H Menu
+//------------------------------------------------------------
+フリーエッチ=Free Sex
+マップ選択=Select Map
+マップを選択してください=Select a Map
+
+プレイキャラクター=Playable Characters
+キャラ選択=Select Character
+女キャラ　１人目=1st Female Character
+女キャラ１人目=1st Female Character
+女キャラ　２人目=2nd Female Character
+女キャラ２人目=2nd Female Character
+
+男キャラ　１人目=1st Male Character
+男キャラ１人目=1st Male Character
+男キャラ　２人目=2nd Male Character
+男キャラ２人目=2nd Male Character
+
+// Split to fit because with smaller font becomes unreadable
+慣れ=Experi\nenced
+開始=Start
+
+#unset level 7
+
+//Everything else is at level -1
+#set level -1
 
 //------------------------------------------------------------
-// Lef menu that is hidden (WTF Illusion???)
+// Left menu that is hidden (WTF Illusion???)
 //------------------------------------------------------------
-
 服の着脱=Dressing and Undressing
 アクセサリーの着脱=Attaching and Detaching Accessories
 衣装カードを選択=Select a Clothing Card
@@ -43,7 +73,7 @@
 アクセサリー一覧=Accessories List
 
 //------------------------------------------------------------
-//Change Clothes
+// Change Clothes
 //------------------------------------------------------------
 決定=Select
 元に戻す=Undo
@@ -51,14 +81,13 @@
 元の衣装=Original Costume
 
 //------------------------------------------------------------
-//Item
+// Item
 //------------------------------------------------------------
 アイテム=Item
 濡れ=Wet
 ツヤ=Shine
 
 脱力回復=Revive
-
 
 //------------------------------------------------------------
 // Locations
@@ -86,8 +115,6 @@
 //------------------------------------------------------------
 // Screen (Custom Graphical Options)
 //------------------------------------------------------------
-// limiting these to level 7, safe to abbreviate
-
 画面効果=Screen
 //プリセット=Preset
 映り込み=Reflections
@@ -105,8 +132,6 @@
 //Dialogues
 すべて初期化しますか？=Do you want to initialize everything?
 やめる=Stop
-
-
 
 //------------------------------------------------------------
 //Screen - Preset
@@ -269,4 +294,4 @@ Hシーンを終了しますか？=Leave the sex scene?
 体位の種類=Position type
 飲=Drinking
 操作ガイド=Operation guide
-吐=Vomiting
+吐=Spit

@@ -6,70 +6,35 @@
 //           Left Shoulder -> L Shoulder
 //***********************************************************************
 //***********************************************************************
+#set exe RoomGirl
+#set level 4
 
-//************************************************************
-// General
-//************************************************************
-はい=Yes
-いいえ=No
-戻る=Back
-終了=Close
-チ=Sex
-なし=None
-マップ=Map
-上=Upward
-少=Small
-日=Day
-カラー=Color
-標準=Normal
-声質=Voice
+//*****************************************************************
+// Generic texts
+// WARNING: Many things can be at Generic.txt, such as body parts
+//*****************************************************************
+サンプル=Sample
+調整=Adjust
+瞳の設定=Iris Settings
+キャラ設定=Character Setting
 
+//------------------------------------------------------------
 // Top Text
+//------------------------------------------------------------
 コーデ編集中…=Clothes
 「外着」="Outerwear"
 「家着」="Housewear"
 「風呂」="Bath"
 
 //------------------------------------------------------------
-// use # to search for instances of the following "\\Sample#"
-// Some commented lines have translations also in Generic.txt
-//------------------------------------------------------------
-サンプル=Sample
-タイプ=Type
-調整=Adjust
-名前=Name
-コーデ=Outfit
-瞳の設定=Iris Settings
-キャラ設定=Character Setting
-ハート=Heart
-肌=Skin
-顔=Face
-耳=Ears
-眼鏡=Glasses
-眉=Eyebrows
-目=Eye
-鼻=Nose
-口=Mouth
-顎=Jaw
-首=Neck
-肩=Shoulder
-胸=Breasts
-腰=Waist
-腕=Arms
-脚=Legs
-体=Body
-手=Hands
-左手=L Hand
-右手=R Hand
-
-//------------------------------------------------------------
 // Placement (Paint and Accessories) Arrangement and Parent Tabs
+// Main body parts are in Generic.txt
 //------------------------------------------------------------
 //Paint and Accessories
 左肩=L Shoulder
 右肩=R Shoulder
 
-//accessories
+//Accessories
 ポニー=Ponytail
 ツイン左=L Twintail
 ツイン右=R Twintail
@@ -78,13 +43,8 @@
 帽子=Hat
 額=Forehead
 頭中心=Center of Head
-//Face#
 左耳=L Ear
 右耳=R Ear
-//Glasses#
-//Nose#
-//Mouth#
-//Neck#
 胸上=Throat
 胸上中央=Center of Chest
 左胸=L Breast
@@ -92,7 +52,6 @@
 背中中央=Center Back
 背中左=L Back
 背中右=R Back
-//Waist#
 腰前=Front Waist
 腰後ろ=Back Waist
 腰右=R Hip
@@ -105,30 +64,28 @@
 右足首=R Ankle
 かかと左=L Heel
 かかと右=R Heel
-//L Shoulder#
-//R Shoulder#
 左肘=L Elbow
 右肘=R Elbow
 左上腕=L up arm
 右上腕=R up arm
 左手首=L Wrist
 右手首=R Wrist
-//L Hand#
-//R Hand#
+左手=L Hand
+右手=R Hand
 左人差指=L Index
 右人差指=R Index
 左中指=L Middle
 右中指=R Middle
 左薬指=L Ring
 右薬指=R Ring
-下腹部①=Crotch①
-下腹部②=Crotch②
-下腹部③=Crotch③
+下腹部①=Crotch 1
+下腹部②=Crotch 2
+下腹部③=Crotch 3
 
 //------------------------------------------------------------
 // Tabs
 //------------------------------------------------------------
-//pattern also used in Color fields
+//Pattern also used in Color fields
 種類=Type
 //カラー=Color
 親=Position
@@ -160,7 +117,7 @@
 //------------------------------------------------------------
 // Adjust/Arrange/Parent and other positioning fields
 //------------------------------------------------------------
-//eye
+//Eye
 幅=Width
 高さ=Height
 X位置=X Axis
@@ -179,7 +136,6 @@ Y位置=Y Axis
 拡縮量=Scale Unit
 
 操作軸=Show Axis
-移動=Move
 速度=Speed
 大きさ=Size
 
@@ -197,9 +153,10 @@ Y位置=Y Axis
 
 全て初期化=Reset All
 
-//*********************************************************************************
+//************************************************************************************
 // Main Menues (Left side)
 //************************************************************************************
+
 //------------------------------------------------------------
 // Shared
 //------------------------------------------------------------
@@ -214,22 +171,15 @@ Y位置=Y Axis
 
 顔周り=Face Settings
 顔のタイプ=Facial Type
-//Jaw#
-頬=Cheeks
-//Eyebrows#
-//Eye#
-//Nose#
-//Mouth#
-//Ears#
 ホクロの設定=Moles
+
 //Male editor:
-ヒゲのタイプ=Mustache type
+ヒゲのタイプ=Beard Type
 
 目周り=Eye Settings
 左右の設定を合わせる=Set both left and right eyes
 左目=Left Eye
 右目=Right Eye
-//Eye Settings#
 目のハイライト=Eye Highlights
 眉のタイプ=Eyebrow Type
 まつ毛のタイプ=Eyelash Type
@@ -245,13 +195,8 @@ Y位置=Y Axis
 ボディ=Body
 
 体型=Body Shape
-//Breasts#
 上半身=Upper Body
 下半身=Lower Body
-//Arm#
-//Leg#
-
-//Skin#
 
 肌の種類=Skin Type
 日焼け跡=Suntan
@@ -265,8 +210,6 @@ Y位置=Y Axis
 //------------------------------------------------------------
 // Hair
 //------------------------------------------------------------
-ヘアー=Hair
-
 前髪と後ろ髪の色を統一=Match back and bangs color
 根本と毛先の色を自動設定=Auto Set root and tip colors
 髪の調整をまとめて行う=Match Hair Axis Settings
@@ -292,8 +235,6 @@ Y位置=Y Axis
 //------------------------------------------------------------
 // Clothing
 //------------------------------------------------------------
-//Clothing#
-
 衣装=Outfit
 トップス=Tops
 ボトムス=Bottom
@@ -309,14 +250,13 @@ Y位置=Y Axis
 家着=Housewear
 風呂=Bath
 
-衣装カード=Costume Card
+
 保存・削除=Save / Delete
 読込み=Load
 
 //------------------------------------------------------------
-// Accessory
+// Accessories
 //------------------------------------------------------------
-アクセサリー=Accessories
 スロット=Slot
 コピー=Copy
 一括編集=Batch Editing
@@ -324,34 +264,18 @@ Y位置=Y Axis
 アクセサリー全解除=Remove All Accessories
 設定された全てのアクセサリーを外しますが\nよろしいですか？=Do you really want to remove all accessories?
 
-頭=Head
-//Ears#
-//Glasses#
-//Face#
-//Neck#
-//Shoulder#
-//Breasts#
-//Waist#
-背中=Back
-//Arm#
-//Hands#
-//Leg#
-下腹部=Crotch
-
 //------------------------------------------------------------
 // Options
 //------------------------------------------------------------
 オプション=Options
 
-//Character Setting#
+//Character Settings
 名前・誕生日・性質=Name, Birthday, Nature
-//Type
 特徴=Trait
 性癖=Sex Trait
 
 キャラカード=Character Card
 保存・消去=Save / Delete
-// Load
 融合=Fusion
 
 システム=System
@@ -374,13 +298,8 @@ SE音量=SFX Volume
 //------------------------------------------------------------
 // Face -> Face Type
 //------------------------------------------------------------
-
 輪郭=Contour
-//Skin#
 シワ=Wrinkles
-
-//Type#
-//Sample#
 
 強さ=Intensity
 
@@ -483,7 +402,6 @@ SE音量=SFX Volume
 //------------------------------------------------------------
 // Face -> Moles
 //------------------------------------------------------------
-
 //Arrangement
 ホクロの幅=Mole Width
 ホクロの高さ=Mole Height
@@ -495,7 +413,6 @@ SE音量=SFX Volume
 //------------------------------------------------------------
 白目=Whites
 瞳の種類=Iris Type
-//Eye Settings#
 瞳孔種類=Pupil Type
 瞳孔設定=Pupil Settings
 
@@ -556,7 +473,7 @@ SE音量=SFX Volume
 //------------------------------------------------------------
 // Body -> Arm
 //------------------------------------------------------------
-//Shoulder#
+//Shoulder
 上腕=Upper Arms
 前腕=Forearm
 
@@ -571,8 +488,6 @@ SE音量=SFX Volume
 //------------------------------------------------------------
 // Body -> Skin Type
 //------------------------------------------------------------
-// Male editor:
-
 肉感=Build
 肉感の強さ=Definition
 
@@ -584,7 +499,6 @@ SE音量=SFX Volume
 ツヤカラー=Shine Color
 
 装飾設定=Accessories Settings
-
 
 //------------------------------------------------------------
 // Clothing -> Copy Costume Card
@@ -622,7 +536,6 @@ SE音量=SFX Volume
 調整①を左右反転=Flip ① Horizontally
 調整②を左右反転=Flip ② Horizontally
 
-
 //------------------------------------------------------------
 // Accessories - Extra
 //------------------------------------------------------------
@@ -640,9 +553,6 @@ SE音量=SFX Volume
 日=Day
 
 性質の選択=Select Nature
-まじめ=Serious
-あそび=Playful
-ユニーク=Unique
 
 //------------------------------------------------------------
 // Options -> Type
@@ -727,17 +637,11 @@ SE音量=SFX Volume
 // Options -> Load
 //------------------------------------------------------------
 サンプルキャラ=Sample Character
-//Face#
-体=Body
-髪=Hair
-//Clothing#
-//Character Setting#
 
 //------------------------------------------------------------
 // Options -> Search
 //------------------------------------------------------------
 ソート=Sort
-//Name#
 日付=Date
 
 //------------------------------------------------------------
@@ -751,15 +655,11 @@ SE音量=SFX Volume
 変更を確定する=Apply Changes
 変更せずに戻る=Return Without Changes
 
-
 //************************************************************
 // Prompts
 //************************************************************
 終了しますか？=Exit character maker?
 キャラメイクを終了しますか？=Quit the character maker?
-
-確定=Confirm
-キャンセル=Cancel
 
 //************************************************************
 // Editing girls when you click in "edit"
@@ -778,15 +678,11 @@ SE音量=SFX Volume
 //************************************************************
 状態設定=Settings
 
-//general
+//General
 視線=Gaze
-//Neck#
 カメラ=Cam
 正面=Front
-ポーズ=Pose
-//Eye#
-//Eyebrows#
-//Mouth#
+ポーズ=Pause
 ポーズ再生=Play/Pause
 
 //Clothing
@@ -811,35 +707,12 @@ SE音量=SFX Volume
 画像=Image
 
 //************************************************************
-// Color Picker in Chara Maker, Chara Finder and Sex Scenes
-//************************************************************
-ピッカー=Picker
-スライダー=Slider
-プリセット=Preset
-色相=Hue
-明度=Brig.
-彩度=Sat.
-透明度=Alpha
-赤=Red
-緑=Green
-青=Blue
-
-左クリックで適用、右クリックで削除=Left-click to set, right-click to remove
-現在のカラーを登録=Register the current color
-左クリックで適用=Left-click to set
-左クリックで現在のカラーを登録=Left click to register current color
-適用=Apply
-削除=Delete
-
-//************************************************************
 // Shooting Menu (save card)
 //************************************************************
 撮影メニュー=Shooting Menu
 
 目の開き=Eye_Open
 口の開き=Mouth_Open
-//L Hand#
-//R Hand#
 
 ライト設定を初期化=Reset Light Settings
 

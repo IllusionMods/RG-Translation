@@ -43,10 +43,3 @@ sr:"^無職(.+)$"=NEET $1
 支配人=Manager
 客=Customer
 家族=Family
-
-
-
-
-
-
-

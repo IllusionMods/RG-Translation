@@ -1,0 +1,5 @@
+//***********************************************************************
+// UI Resizers for the Main Menu
+//***********************************************************************
+//Tutorial
+HomeScene/TutorialCanvasUI(Clone)/TutorialMessageUI/Canvas_Main/MsgWindowCanvas/MsgWindow/Window/=UGUI_ChangeLineSpacingByPercentage(0.6)

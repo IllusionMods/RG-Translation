@@ -1,0 +1,16 @@
+//***********************************************************************
+// UI Resizers for the Shop
+//***********************************************************************
+#set exe RoomGirl
+#set level 5
+
+HomeScene/HomeUI(Clone)/ShopUI/ItemButtonRT/=UGUI_ChangeLineSpacingByPercentage(0.7)
+
+HomeScene/HomeUI(Clone)/ShopUI/ExplanationBG/=UGUI_ChangeLineSpacingByPercentage(0.7)
+
+HomeScene/HomeUI(Clone)/ShopUI/H_ItemButtonRT/=UGUI_ChangeLineSpacingByPercentage(0.7)
+
+#unset level 5
+
+// Dialog box
+ConfirmDialog(Clone)/DialogBG/Title/=ChangeFontSizeByPercentage(0.9)

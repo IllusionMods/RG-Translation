@@ -1,0 +1,29 @@
+//***********************************************************************
+// UI Resizers for the H Scenes
+//***********************************************************************
+#set exe RoomGirl
+
+#set level 7
+//------------------------------------------------------------
+// Free H Menu
+//------------------------------------------------------------
+FreeH/UI/BG/Chara/Chara/female1/CharaSelect/=ChangeFontSizeByPercentage(0.9)
+FreeH/UI/BG/Chara/Chara/female2/CharaSelect/=ChangeFontSizeByPercentage(0.9)
+FreeH/UI/BG/Chara/Chara/male1/CharaSelect/=ChangeFontSizeByPercentage(0.9)
+FreeH/UI/BG/Chara/Chara/male2/CharaSelect/=ChangeFontSizeByPercentage(0.9)
+
+FreeH/UI/BG/Chara/Chara/female1/BG/Nare/=UGUI_ChangeLineSpacingByPercentage(0.7)
+FreeH/UI/BG/Chara/Chara/female2/BG/Nare/=UGUI_ChangeLineSpacingByPercentage(0.7)
+
+FreeH/CharaCardUI/Panel/title/textWinTitle/=ChangeFontSizeByPercentage(0.75)
+FreeH/CharaCardUI/Panel/title/textWinTitle/=UGUI_HorizontalOverflow(overflow)
+
+#unset level 7
+//Everything else is at level -1
+
+#set level -1
+
+//------------------------------------------------------------
+// Color Picker
+//------------------------------------------------------------
+Manager(Clone)/HManager/hsceneHDRP(Clone)/UI/UISlideMenu/SlideRoot/ColorPanel/SlideRoot=ChangeFontSizeByPercentage(0.9)
