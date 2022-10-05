@@ -43,7 +43,7 @@
 親交を深める=Deepen\nFriendship
 次の日になるまで興味がランクダウンしないようになります。=The interest will not be down until the next day.
 
-サービスクーポン=Service Coupon
+サービスクーポン=Service\nCoupon
 次の日になるまでカフェとレストランの利用料金が無料になります。=Until the next day, the cafe and restaurant will be free.
 
 ストレス発散=Stress Release
@@ -82,7 +82,7 @@
 媚薬=Aphrodisiac
 次のエッチ中のみ、女の子の快感ゲージが上がりやすくなります。=Only during the next sex,\nthe girl's pleasure gauge is easily raised.
 
-絶倫薬=Unequaled medicine
+絶倫薬=Erectile\nMedicine
 次のエッチ中のみ、男の快感ゲージが上がりやすくなります。=Only during the next sex,\nthe man's pleasure gauge is easily raised.
 
 臨時収入=Extraordinary\nIncome

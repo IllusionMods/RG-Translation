@@ -1,0 +1,32 @@
+//***********************************************************************
+// UI Resizers for the World Map
+//***********************************************************************
+#set exe RoomGirl
+#set level 5
+
+//================================================
+// World Map Main
+//================================================
+HomeScene/HomeUI(Clone)/BaseCanvas/HomeIconUI(Clone)/MapIconBtnRT/MapIconBtn_Origin(Clone)/MapNameIconParent/MapNameIcon/=UGUI_VerticalOverflow(overflow)
+HomeScene/HomeUI(Clone)/BaseCanvas/HomeIconUI(Clone)/MapIconBtnRT/MapIconBtn_Origin(Clone)/MapNameIconParent/MapNameIcon/=UGUI_HorizontalOverflow(wrap)
+HomeScene/HomeUI(Clone)/BaseCanvas/HomeIconUI(Clone)/MapIconBtnRT/MapIconBtn_Origin(Clone)/MapNameIconParent/MapNameIcon/=UGUI_ChangeLineSpacingByPercentage(0.6)
+
+//================================================
+// Register Resident
+//================================================
+HomeScene/HomeUI(Clone)/RegistCharaUI/imgMainBG/txtWindowTitle/=ChangeFontSizeByPercentage(0.9)
+
+HomeScene/HomeUI(Clone)/RegistCharaUI/imgJobMapBG/CharaTabParent/=ChangeFontSizeByPercentage(0.9)
+
+HomeScene/HomeUI(Clone)/RegistCharaUI/imgMainBG/CharaCardListWindow/title/textWinTitle/=ChangeFontSizeByPercentage(0.8)
+
+//================================================
+//Shop (I should make a file for this...)
+//================================================
+HomeScene/HomeUI(Clone)/ShopUI/ItemButtonRT/=UGUI_ChangeLineSpacingByPercentage(0.7)
+
+HomeScene/HomeUI(Clone)/ShopUI/ExplanationBG/=UGUI_ChangeLineSpacingByPercentage(0.7)
+
+ConfirmDialog(Clone)/DialogBG/Title/=ChangeFontSizeByPercentage(0.9)
+
+HomeScene/HomeUI(Clone)/ShopUI/H_ItemButtonRT/=UGUI_ChangeLineSpacingByPercentage(0.7)

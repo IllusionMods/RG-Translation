@@ -122,3 +122,10 @@ CharaCustom/CustomControl/CanvasCapture/CaptureMenu/menuTop/light/light_reset/bt
 //================================================
 CharaCustom/CustomControl/Canvas_PopupCheck/Panel Common/Image Background/Rect/No/=UGUI_ChangeLineSpacingByPercentage(0.7)
 CharaCustom/CustomControl/Canvas_PopupCheck/Panel Common/Image Background/Rect/No/=ChangeFontSizeByPercentage(0.9)
+
+
+//================================================
+// Quit
+//================================================
+CharaCustom/CustomControl/Canvas_PopupCheck/Panel3/Image Background/Rect/Yes2/=UGUI_ChangeLineSpacingByPercentage(0.7)
+CharaCustom/CustomControl/Canvas_PopupCheck/Panel3/Image Background/Rect/Yes2/=ChangeFontSizeByPercentage(0.85)

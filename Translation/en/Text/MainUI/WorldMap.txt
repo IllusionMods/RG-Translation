@@ -2,35 +2,19 @@
 // Main Map UI
 //***********************************************************************
 
-マップへ移動=Go to the map
-全体マップへ=Back to the World Map
-
 //------------------------------------------------------------
-// Left Menu
+// Left Menu (Level -1)
 //------------------------------------------------------------
 時間帯を変更=Change time period
 ショップへ=Go to the Shop
 住人登録=Resident Registration
 メニュー=Menu
 ヘルプ=Help
+マップへ移動=Go to the map
+全体マップへ=Back to the World Map
 
 //------------------------------------------------------------
-// Resident Registration
-//------------------------------------------------------------
-住人を職場に登録=Register residents in the workplace
-
-女性キャラ=Female character
-その他キャラ1=Other characters 1
-その他キャラ2=Other characters 2
-お気に入り登録=Add a favorite
-容姿変更=Change Appearance
-登録解除=Unregister
-
-キャラカード一覧=Character Card List
-登録=Register
-
-//------------------------------------------------------------
-// Menu -> Save
+// Menu -> Save (Level -1)
 //------------------------------------------------------------
 セーブデータを作成=Create save data
 セーブデータ名を入力=Enter the save data name
@@ -38,7 +22,7 @@
 ※今あるセーブデータに上書きされ元に戻せなくなります。\nよろしいですか？=The overwritten save cannot be restored.\nDo you really want to overwrite?
 
 //------------------------------------------------------------
-// Menu -> Help
+// Menu -> Help (Level -1)
 //------------------------------------------------------------
 アクションシーン=Action Scene
 全体マップ=World Map
@@ -53,9 +37,29 @@ Hシーン=Sex Scene
 説明画面を終了しますか？=Do you want to exit the help screen?
 
 //------------------------------------------------------------
-// Dialog Boxes
+// Dialog Boxes (Level -1)
 //------------------------------------------------------------
 タイトルに戻りますか？=Return to the Title Screen?
 時間帯を変更しますか？=Change the time period?
 の自室が開放されました=Her room has been unlocked
 ※自室開放※=※Room Unlocked※
+
+#set level 5
+
+//------------------------------------------------------------
+// Resident Registration
+//------------------------------------------------------------
+住人を職場に登録=Register residents in the workplace
+
+女性キャラ=Female character
+その他キャラ1=Other characters 1
+その他キャラ2=Other characters 2
+お気に入り登録=Add a favorite
+容姿変更=Edit Character
+登録=Register
+登録解除=Unregister
+
+キャラカード一覧=Character Card List
+
+登録を解除しますか？=Do you want unregister?
+※キャラクターのステータスがリセットされます。=※Character status will be reset.
