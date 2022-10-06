@@ -13,6 +13,8 @@
 マップ=Map
 少=Small
 日=Day
+昼=Day
+夜=Night
 カラー=Color
 標準=Normal
 声質=Voice

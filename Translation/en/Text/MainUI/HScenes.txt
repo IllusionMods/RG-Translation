@@ -139,14 +139,14 @@
 //Preset
 読み込み=Load
 
-//load menu
+//Load menu
 未設定=Not set
 ホラー=Horror
 夜闇=Darkness
 夕暮れ=Evening
 
-保存名=Saved name
-未入力=Not entered
+保存名=Saved Name
+未入力=Not Entered
 新規保存=Save New
 上書き保存=Save
 
@@ -186,38 +186,36 @@
 コントラスト=Contrast
 
 //Color Menu Options
-昼=Midday
-夜=Night
-ソフト=soft
+ソフト=Soft
 ペール=Pail
 ダル=Dull
-寒色=Cold color
-暖色=Warm color
-夕=evening
+寒色=Cold Color
+暖色=Warm Color
+夕=Evening
 ストロング=Strong
-ディープ=deep
+ディープ=Deep
 ブライト=Bright
 セピア=Sepia
 モノクロ=Monochrome
-赤単色=Monochromatic red
-青単色=Monochromatic blue
-緑単色=Solid green
-レッドアクセント=Red accent
-ブルーアクセント=Blue accent
-グリーンアクセント=Green accent
-リバースモノクロ=Reverse monochrome
-リバースカラー=Reverse color
+赤単色=Monochromatic Red
+青単色=Monochromatic Blue
+緑単色=Solid Green
+レッドアクセント=Red Accent
+ブルーアクセント=Blue Accent
+グリーンアクセント=Green Accent
+リバースモノクロ=Reverse Monochrome
+リバースカラー=Reverse Color
 サーモグラフ=Thermograph
 ポスタライズ=Posterize
-オールドポスター=Old poster
+オールドポスター=Old Poster
 ノスタルジー=Nostalgia
-アンティーク=antique
-ライトシャドウ=Light shadow
-ダークグレイッシュ=Dark grayish
+アンティーク=Antique
+ライトシャドウ=Light Shadow
+ダークグレイッシュ=Dark Grayish
 アーティスティック=Artistic
 コミック=Comic
 ツートン=Two-tone
-スモッグ=smog
+スモッグ=Smog
 
 //------------------------------------------------------------
 //Screen - Fog

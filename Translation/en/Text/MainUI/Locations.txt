@@ -1,24 +1,22 @@
 //***********************************************************************
 // Game Locations
 //***********************************************************************
+// Day/Night Regex
+sr:^(?<room>.+)\((?<time>昼|夜)\)$=${room} (${time})
 
-(昼)=(Day)
-(夜)=(Night)
-
-sr:"^オフィス(.*)$"=Office $1
-sr:"^社員寮(.*)$"=Employee Dormitory $1
-sr:"^診療所(.*)$"=Clinic $1
-sr:"^レストラン(.*)$"=Restaurant $1
-sr:"^格安荘(.*)$"=Cheap Aparment $1
-sr:"^高級マンション(.*)$"=Luxury Apartment $1
-sr:"^リビング(.*)$"=Living Room $1
-sr:"^公園(.*)$"=Park $1
-sr:"^セミナー(.*)$"=Seminar $1
-sr:"^アパート(.*)$"=Apartment $1
-sr:"^マンション(.*)$"=Condominium $1
-sr:"^部屋(.*)$"=Room $1
-sr:"^カフェ(.*)$"=Cafe $1
-
+オフィス=Office
+社員寮=Employee Dormitory
+診療所=Clinic
+レストラン=Restaurant
+格安荘=Cheap Aparment
+高級マンション=Luxury Apartment
+リビング=Living Room
+公園=Park
+セミナー=Seminar
+アパート=Apartment
+マンション=Condominium
+部屋=Room
+カフェ=Cafe
 民家=House
 自室=Pivate Room
 カジノ=Casino
