@@ -7,3 +7,6 @@
 ディーラースカート=Dealer Skirt
 ぺチパンツ=Pettipants
 フリル透けスカート=Transparent Frill Skirt
+ロングフレアスカート=Long Flared Skirt
+マリンレジャーボトムスA=Marine Leisure Bottoms A
+マリンレジャーボトムスB=Marine Leisure Bottoms B

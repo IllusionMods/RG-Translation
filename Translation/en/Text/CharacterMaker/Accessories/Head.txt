@@ -3,3 +3,16 @@
 //************************************************************
 
 
+【FK】メカチューブ=[FK] Mecha Tube
+リボンカチューシャ=Ribbon Catsuit
+ボールヘアゴム左用=Ball Hair Elastic Left
+ボールヘアゴム右用=Ball Hair Elastic Right
+ネズミ耳=Mouse Ears
+クリアサンバイザー=Clear Sun visor
+謎の光=Mysterious light
+スチームパンクハット=Steampunk Hat
+歯車=Gear
+【FK】エクステ=[FK] Hair Extension
+【FK】ウェーブエクステ=[FK] Wavy Hair extension
+【FK】ロング三つ編み=[FK] Long Braid
+【FK】ショート三つ編み=[FK] Short Braid

@@ -2,56 +2,22 @@
 // Game Locations
 //***********************************************************************
 
-オフィス=Office
-オフィス(昼)=Office (Day)
-オフィス(夜)=Office (Night)
+(昼)=(Day)
+(夜)=(Night)
 
-社員寮=Employee Dormitory 
-社員寮(昼)=Employee Dormitory (Day)
-社員寮(夜)=Employee Dormitory (Night)
-
-診療所=Clinic
-診療所(昼)=Clinic (Day)
-診療所(夜)=Clinic (Night)
-
-レストラン=Restaurant
-レストラン(昼)=Restaurant (Day)
-レストラン(夜)=Restaurant (Night)
-
-格安荘=Cheap Aparment
-格安荘(昼)=Cheap Apartment (Day)
-格安荘(夜)=Cheap Apartment (Night)
-
-高級マンション=Luxury Apartment
-高級マンション(昼)=Luxury Apartment (Day)
-高級マンション(夜)=Luxury Apartment (Night)
-
-リビング=Living Room
-リビング(昼)=Living Room (Day)
-リビング(夜)=Living Room (Night)
-
-公園=Park
-公園(昼)=Park (Day)
-公園(夜)=Park (Night)
-
-セミナー=Seminar
-セミナー(昼)=Seminar (Day)
-セミナー(夜)=Seminar (Night)
-
-アパート=Apartment
-アパート(昼)=Apartment (Day)
-アパート(夜)=Apartment (Night)
-
-マンション=Condominium
-マンション(昼)=Condominium (Day)
-マンション(夜)=Condominium (Night)
-
-部屋(昼)=Room (Day)
-部屋(夜)=Room (Night)
-
-カフェ=Cafe
-カフェ(昼)=Cafe (Day)
-カフェ(夜)=Cafe (Night)
+sr:"^オフィス(.*)$"=Office $1
+sr:"^社員寮(.*)$"=Employee Dormitory $1
+sr:"^診療所(.*)$"=Clinic $1
+sr:"^レストラン(.*)$"=Restaurant $1
+sr:"^格安荘(.*)$"=Cheap Aparment $1
+sr:"^高級マンション(.*)$"=Luxury Apartment $1
+sr:"^リビング(.*)$"=Living Room $1
+sr:"^公園(.*)$"=Park $1
+sr:"^セミナー(.*)$"=Seminar $1
+sr:"^アパート(.*)$"=Apartment $1
+sr:"^マンション(.*)$"=Condominium $1
+sr:"^部屋(.*)$"=Room $1
+sr:"^カフェ(.*)$"=Cafe $1
 
 民家=House
 自室=Pivate Room

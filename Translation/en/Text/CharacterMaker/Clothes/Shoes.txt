@@ -8,3 +8,5 @@
 ダッドスニーカー=Dad Sneakers
 スクエアパンプス=Square Pumps
 厚底ローファ=Chunk Loafers
+マリンレジャーサンダル=Marine Leisure Sandals
+スチームパンクブーツ=Steampunk Boots

@@ -2,4 +2,8 @@
 // Accessories -> Ears
 //************************************************************
 
-
+イヤーカフ=Ear cuff
+イヤホンマイク(左)=Earphone Microphone (Left)
+イヤホンマイク(右)=Earphone Microphone (Right)
+イヤリングス=Earrings
+パールイヤリング=Pearl Earrings

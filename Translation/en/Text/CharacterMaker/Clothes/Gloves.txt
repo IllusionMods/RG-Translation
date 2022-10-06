@@ -4,5 +4,6 @@
 
 ミニリボングローブ=Mini Ribbon Gloves
 アームバンデージ=Arm Bandages
-
+革手袋右手=Leather Gloves Right Hand
+スチームパンクグローブ=Steampunk Glove
 

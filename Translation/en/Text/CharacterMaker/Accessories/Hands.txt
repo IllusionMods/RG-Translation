@@ -2,4 +2,10 @@
 // Accessories -> Hands
 //************************************************************
 
-
+ネオン管=Neon Tube
+四角型腕時計=Square Watch
+水鉄砲=Water Pistol
+スチームパンクロッド=Steampunk Rod
+【FK】クマのぬいぐるみ=[FK] Stuffed Bear
+クマのぬいぐるみ左用=Stuffed Bear Left
+クマのぬいぐるみ右用=Stuffed Bear Right

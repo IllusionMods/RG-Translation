@@ -9,3 +9,9 @@
 トレーナー=Sweat Shirt
 着崩しセーター=Loose Sweater
 ハイレグセーラー=High-leg Sailor
+パジャマトップスA=Pajamas Tops A
+パジャマトップスB=Pajamas Tops B
+ニットソー=Knit Sew
+ネグリジェ=Negligee
+マリンレジャートップス=Marine Leisure Tops
+スチームパンクトップス=Steampunk Tops

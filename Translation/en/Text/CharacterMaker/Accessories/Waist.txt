@@ -2,4 +2,8 @@
 // Accessories -> Waist
 //************************************************************
 
-
+【FK】猫シッポ=[FK] Cat Tail
+【FK】悪魔の尻尾=[FK] Devil's Tail
+腰巻シャツチェック柄=Waistcoat Shirt Checked
+ネズミ尻尾=Mouse Tail
+【FK】たこ足=[FK] Octopus Tentacle
