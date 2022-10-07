@@ -5,6 +5,6 @@
 浮かび後背位=Pool Doggy
 椅子拘束座位=Chair Restraint Sitting
 壁押し付けバック=Wall-Pressed Behind
-椅子側位=Bench Side
+椅子側位=Couch Side
 ワンコバック=Pet Sex
 種付けプレス=Mating Press

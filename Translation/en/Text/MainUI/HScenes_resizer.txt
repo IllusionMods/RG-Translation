@@ -7,6 +7,8 @@
 //------------------------------------------------------------
 // Free H Menu
 //------------------------------------------------------------
+FreeH/UI/BG/Chara/Title/Text=UGUI_HorizontalOverflow(overflow)
+
 FreeH/UI/BG/Chara/Chara/female1/CharaSelect/=ChangeFontSizeByPercentage(0.9)
 FreeH/UI/BG/Chara/Chara/female2/CharaSelect/=ChangeFontSizeByPercentage(0.9)
 FreeH/UI/BG/Chara/Chara/male1/CharaSelect/=ChangeFontSizeByPercentage(0.9)
@@ -15,8 +17,8 @@ FreeH/UI/BG/Chara/Chara/male2/CharaSelect/=ChangeFontSizeByPercentage(0.9)
 FreeH/UI/BG/Chara/Chara/female1/BG/Nare/=UGUI_ChangeLineSpacingByPercentage(0.7)
 FreeH/UI/BG/Chara/Chara/female2/BG/Nare/=UGUI_ChangeLineSpacingByPercentage(0.7)
 
-FreeH/CharaCardUI/Panel/title/textWinTitle/=ChangeFontSizeByPercentage(0.75)
 FreeH/CharaCardUI/Panel/title/textWinTitle/=UGUI_HorizontalOverflow(overflow)
+FreeH/CharaCardUI/Panel/title/textWinTitle/=ChangeFontSizeByPercentage(0.75)
 
 #unset level 7
 //Everything else is at level -1
@@ -27,3 +29,11 @@ FreeH/CharaCardUI/Panel/title/textWinTitle/=UGUI_HorizontalOverflow(overflow)
 // Color Picker
 //------------------------------------------------------------
 Manager(Clone)/HManager/hsceneHDRP(Clone)/UI/UISlideMenu/SlideRoot/ColorPanel/SlideRoot=ChangeFontSizeByPercentage(0.9)
+
+
+//------------------------------------------------------------
+// H-Scene
+//------------------------------------------------------------
+//Manager(Clone)/HManager/hsceneHDRP(Clone)/UI/UISlideMenu/SlideRoot/Taii/SlideRoot/MotionList/Viewport/Content/=UGUI_HorizontalOverflow(overflow)
+Manager(Clone)/HManager/hsceneHDRP(Clone)/UI/UISlideMenu/SlideRoot/Taii/SlideRoot/MotionList/Viewport/Content/=AutoResize(true, 15, 19)
+

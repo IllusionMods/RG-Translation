@@ -11,7 +11,7 @@ English fan translation project for Room Girl. The translations are applied whil
 
 1. Ensure you have the prerequisites installed.
 2. Go to the "releases" page above and download the latest version. Alternatively, advanced users can get the latest beta translations by clicking on the "Clone or download" button above. If you are a translator, read the sections below to see how to contribute to the translations.
-3. Extract the zip and place the BepInEx folder inside your game folder (where the file "HoneySelect2.exe" is).
+3. Extract the zip and place the BepInEx folder inside your game folder (where the file "RoomGirl.exe" is).
 
 ## Contribution
 

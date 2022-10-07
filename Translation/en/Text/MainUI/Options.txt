@@ -11,6 +11,7 @@
 中=Medium
 低=Low
 なし=None
+カスタム=Custom
 カメラ見る=Camera
 
 常時=Always
