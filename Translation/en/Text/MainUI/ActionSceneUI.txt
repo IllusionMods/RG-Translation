@@ -34,6 +34,19 @@
 ご、ごめんなさい……よく分からないです……=I'm sorry...I don't understand...
 見捨てないでよ、キミがいないと生きていけないんだからっ=Don't abandon me. I can't live without you.
 
+//------------------------------------------------------------
+// Interaction Buttons (Scope Level -1)
+//------------------------------------------------------------
+断る=Refuse
+また今度=Maybe next time
+ついていく=Follow
+怒る=Get angry
+いやがる=Show dislike
+笑う=Smile
+揺さぶりをかける=Shake it up
+警告する=Warn
+不正を報告する=Report wrongdoings
+無視=Ignore
 
 
 #set level 6
@@ -281,6 +294,7 @@ TVを見る=Watch TV
 エッチを持ち掛ける=Offer to have sex
 じっくり見る=Look carefully
 ソファーの様子を見る=See the sofa
+テーブルに戻る=Return to the table
 
 //Unique
 仮眠をとる=Take a nap
@@ -293,17 +307,3 @@ TVを見る=Watch TV
 スマホでゲームをする=Play games on your phone
 セクシー動画を見る=Watch sexy videos
 色気をばらまく=Flaunt sex appeal
-
-//------------------------------------------------------------
-// Interaction Buttons
-//------------------------------------------------------------
-断る=Refuse
-また今度=Maybe next time
-ついていく=Follow
-怒る=Get angry
-いやがる=Show dislike
-笑う=Smile
-揺さぶりをかける=Shake it up
-警告する=Warn
-不正を報告する=Report wrongdoings
-無視=Ignore
