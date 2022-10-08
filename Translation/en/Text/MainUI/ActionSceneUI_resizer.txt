@@ -13,7 +13,7 @@ ActionScene/ActionUI(Clone)/Canvas/CharaSelectUI_04(Clone)/StatusUI/MoveArea/Oth
 ActionScene/ActionUI(Clone)/Canvas/CharaSelectUI_04(Clone)/StatusUI/MoveArea/OtherInfo/MoveContent/imgBackground/Elements/=ChangeFontSizeByPercentage(0.8)
 
 // Friendship
-ActionScene/ActionUI(Clone)/Canvas/CharaSelectUI_04(Clone)/StatusUI/MoveArea/RelationInfo/MoveContent/imgBackground/Scroll View/Viewport/Content/=ChangeFontSizeByPercentage(0.85)
+ActionScene/ActionUI(Clone)/Canvas/CharaSelectUI_04(Clone)/StatusUI/MoveArea/RelationInfo/MoveContent/imgBackground/Scroll View/Viewport/Content/=ChangeFontSizeByPercentage(0.8)
 
 //------------------------------------------------------------
 // Right Menu
