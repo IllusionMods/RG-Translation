@@ -20,7 +20,7 @@
 購入した時間帯から次の時間帯までの間、あそび系の行動成功率と趣味の成長値が上がります。=From the time of purchase to the next time of day,\nthe success rate of playful actions and the growth value of hobbies are increased.
 
 フェロモン開放=Pheromone\nLiberation
-購入した時間帯から次の時間帯までの間、ユニーク系の行動成功率と色気の成長値が上がります。=From the time of purchase to the next time of day,\nthe success rate of unique-type actions and the growth value of sex appeal are increased.
+購入した時間帯から次の時間帯までの間、ユニーク系の行動成功率と色気の成長値が上がります。=From the time of purchase to the next time of day,\nthe success rate of eccentric-type actions and the growth value of sex appeal are increased.
 
 サプライズプラン=Surprise Plan
 購入すると次のデートに誘う行動の一回のみデート成功率が上がります。=If you purchase,\nthe date success rate will increase only once when asking someone out on the next date.

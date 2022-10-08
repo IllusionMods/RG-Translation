@@ -65,7 +65,7 @@
 性質=Nature
 まじめ=Serious
 あそび=Playful
-ユニーク=Unique
+ユニーク=Eccentric
 
 //------------------------------------------------------------
 // Color Picker
