@@ -97,7 +97,7 @@ TVを見るのをやめる=Stop watching TV
 // act_filter_f_08[00_00] (column 2)
 
 ポールダンス台に行く=Go to the pole dance platform
-//ポーカーホールに移動する=
+ポーカーホールに移動する=Go to the Poker Hall
 スロットホールに移動する=Go to the Slot Hall
 ルーレットホールに移動する=Go to the Roulette Hall
 ドリンクを飲む=Enjoy a drink
