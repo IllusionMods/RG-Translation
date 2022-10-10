@@ -1,9 +1,9 @@
 
 // act_filter_f_00[00_00] (column 2)
 
-席に戻る=go back to one's seat
+//席に戻る=go back to one's seat
 //用を足す=go on an errand
-持ち場に戻る=return to one's post
+//持ち場に戻る=return to one's post
 //寝る=lie down
 //退出する=Exit.
 //伸びをする=stretch out
@@ -18,13 +18,13 @@
 //公園に行く=I'm going to the park.
 //家に帰る=go back home
 //話すのをやめる=Stop talking
-業務を継続=Continued operations
-業務を終了=End of business
+//業務を継続=Continued operations
+//業務を終了=End of business
 //そっとしておく=leave alone
 
 // act_filter_f_00[00_01] (column 2)
 
-ホテルに移動する=Move to a hotel
+//ホテルに移動する=Move to a hotel
 //じっくり見る=take a good look at
 //色目を使うのをやめる=Stop using colorful eyes.
 
@@ -32,9 +32,9 @@
 
 //着替える=change one's clothes
 //風呂に入る=take a bath
-シャワーを浴びる=take a shower
-湯船で温まる=take a bath
-お風呂を出る=I'm leaving the bath.
+//シャワーを浴びる=take a shower
+//湯船で温まる=take a bath
+//お風呂を出る=I'm leaving the bath.
 //仮眠をとる=catch some Z's
 //少し休む=take a short rest
 //ぐっすり休む=get a good night's rest
@@ -43,7 +43,7 @@
 //ベッドで休む=Rest in bed
 //着替えに行く=I'm gonna go get changed.
 会社に行く=go to the office
-TVを見るのをやめる=Stop watching TV
+//TVを見るのをやめる=Stop watching TV
 
 // act_filter_f_01[00_01] (column 2)
 
@@ -51,37 +51,37 @@ TVを見るのをやめる=Stop watching TV
 
 // act_filter_f_02[00_00] (column 2)
 
-診察患者に寄り添う=Staying close to the examination patient
+//診察患者に寄り添う=Staying close to the examination patient
 //休憩室に移動=Move to the break room
 //診察してもらう=I'll get you checked out.
-診察ベッドで仮眠をとる=Take a nap in the examination bed
+//診察ベッドで仮眠をとる=Take a nap in the examination bed
 //棚の薬品チェック=Shelf chemical check
-入院患者の確認=Identification of hospitalized patients
+//入院患者の確認=Identification of hospitalized patients
 //休憩する=Take a break
 呼び出す=call
 //職場に帰る=go back to work
-帰ってもらう=ask to leave
-持ち場に戻ってもらう=I'm going to ask you to return to your post.
+//帰ってもらう=ask to leave
+//持ち場に戻ってもらう=I'm going to ask you to return to your post.
 
 // act_filter_f_02[00_01] (column 2)
 
-診察をやめる=stop seeing (e.g. someone)
-誘惑するのをやめる=Stop tempting them.
+//診察をやめる=stop seeing (e.g. someone)
+//誘惑するのをやめる=Stop tempting them.
 
 // act_filter_f_03[00_00] (column 2)
 
 //職場に行く=I'm going to work.
-映画鑑賞を続ける=Continue watching movies
-見るのをやめる=give up looking at
+//映画鑑賞を続ける=Continue watching movies
+//見るのをやめる=give up looking at
 
 // act_filter_f_04[00_00] (column 2)
 
-講師の机に行く=Go to the instructor's desk
+//講師の机に行く=Go to the instructor's desk
 
 // act_filter_f_05[00_00] (column 2)
 
 //机に行く=go to a desk
-ベッドに座る=Sit on the bed
+//ベッドに座る=Sit on the bed
 
 // act_filter_f_06[00_00] (column 2)
 
@@ -91,22 +91,22 @@ TVを見るのをやめる=Stop watching TV
 
 // act_filter_f_07[00_00] (column 2)
 
-風呂へ行く=I'm going to the bathroom.
-布団にむかう=turn towards a futon
+//風呂へ行く=I'm going to the bathroom.
+//布団にむかう=turn towards a futon
 
 // act_filter_f_08[00_00] (column 2)
 
 //ポールダンス台に行く=Go to the pole dancing platform
-ポーカーホールに移動する=Move to a poker hall
+//ポーカーホールに移動する=Move to a poker hall
 //スロットホールに移動する=Move to a slot hall
 //ルーレットホールに移動する=Move to the Roulette Hall
-ドリンクを飲む=imbibe a drink
+//ドリンクを飲む=imbibe a drink
 //チップを渡す=Tipping.
 //ポールダンス前に行く=Go before pole dancing
 //飲み物をとりに行く=I'm going to get a drink.
 //スロットをしに行く=Go play the slots.
 //ポールダンスをする=Pole Dancing.
-中断する=Interrupt.
+//中断する=Interrupt.
 
 // act_filter_f_10[00_00] (column 2)
 
@@ -118,7 +118,7 @@ TVを見るのをやめる=Stop watching TV
 // act_filter_f_11[00_00] (column 2)
 
 //ごろごろする=roll about (e.g. with laughter)
-ボーッとする=be in a daze
+//ボーッとする=be in a daze
 //リビングに行く=I'm going to the living room.
 //ソファに座る=Sit on the sofa
 

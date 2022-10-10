@@ -1,9 +1,9 @@
 
 // act_filter_f_00[00_00] (column 2)
 
-//席に戻る=
+席に戻る=Return to seat
 用を足す=Use the bathroom
-//持ち場に戻る=
+持ち場に戻る=Return to post
 寝る=Sleep
 退出する=Leave
 伸びをする=Stretch out
@@ -18,23 +18,23 @@
 公園に行く=Go to the park
 家に帰る=Go back home
 話すのをやめる=Stop talking
-//業務を継続=
-//業務を終了=
+業務を継続=Keep working
+業務を終了=Finish working
 そっとしておく=Leave alone
 
 // act_filter_f_00[00_01] (column 2)
 
-//ホテルに移動する=
-じっくり見る=Look carefully
-色目を使うのをやめる=Stop Flirting
+ホテルに移動する=Transfer to hotel
+じっくり見る=Stare intently
+色目を使うのをやめる=Stop flirting
 
 // act_filter_f_01[00_00] (column 2)
 
 着替える=Change clothes
 風呂に入る=Take a bath
-//シャワーを浴びる=
-//湯船で温まる=
-//お風呂を出る=
+シャワーを浴びる=Take a shower
+湯船で温まる=Soak in the bath
+お風呂を出る=Leave the bath
 仮眠をとる=Take a nap
 少し休む=Rest a little
 ぐっすり休む=Rest well
@@ -42,8 +42,8 @@
 冷蔵庫に行く=Go to the refrigerator
 ベッドで休む=Rest in bed
 着替えに行く=Change clothes
-//会社に行く=
-//TVを見るのをやめる=
+会社に行く=Go to work
+TVを見るのをやめる=Stop watching TV
 
 // act_filter_f_01[00_01] (column 2)
 
@@ -51,37 +51,37 @@
 
 // act_filter_f_02[00_00] (column 2)
 
-//診察患者に寄り添う=
+診察患者に寄り添う=Approach exam patient
 休憩室に移動=Go to the break room
 診察してもらう=Get examined
-//診察ベッドで仮眠をとる=
-棚の薬品チェック=Check shelf's drugs
-//入院患者の確認=
+診察ベッドで仮眠をとる=Nap in examination bed
+棚の薬品チェック=Verify drug inventory
+入院患者の確認=Inpatient confirmation
 休憩する=Take a break
 //呼び出す=
 職場に帰る=Go back to work
-//帰ってもらう=
-//持ち場に戻ってもらう=
+帰ってもらう=Ask to leave
+持ち場に戻ってもらう=Return to post
 
 // act_filter_f_02[00_01] (column 2)
 
-//診察をやめる=
-//誘惑するのをやめる=
+診察をやめる=Stop seeing doctor
+誘惑するのをやめる=Stop seducing
 
 // act_filter_f_03[00_00] (column 2)
 
 職場に行く=Go to work
-//映画鑑賞を続ける=
-//見るのをやめる=
+映画鑑賞を続ける=Continue watching movies
+見るのをやめる=Stop watching
 
 // act_filter_f_04[00_00] (column 2)
 
-//講師の机に行く=
+講師の机に行く=Go to teacher's desk
 
 // act_filter_f_05[00_00] (column 2)
 
 机に行く=Go to desk
-//ベッドに座る=
+ベッドに座る=Sit on bed
 
 // act_filter_f_06[00_00] (column 2)
 
@@ -91,22 +91,22 @@
 
 // act_filter_f_07[00_00] (column 2)
 
-//風呂へ行く=
-//布団にむかう=
+風呂へ行く=Go to bath
+布団にむかう=Go to bed
 
 // act_filter_f_08[00_00] (column 2)
 
-ポールダンス台に行く=Go to the pole dance stand
+ポールダンス台に行く=Go to the pole dance platform
 //ポーカーホールに移動する=
 スロットホールに移動する=Go to the Slot Hall
 ルーレットホールに移動する=Go to the Roulette Hall
-//ドリンクを飲む=
+ドリンクを飲む=Enjoy a drink
 チップを渡す=Give a tip
 ポールダンス前に行く=Go in front of the pole dance
-飲み物をとりに行く=Go to take a drink
+飲み物をとりに行く=Go get a drink
 スロットをしに行く=Go play the slots
-ポールダンスをする=Pole dance
-//中断する=
+ポールダンスをする=Start pole dance
+中断する=Stop
 
 // act_filter_f_10[00_00] (column 2)
 
@@ -117,8 +117,8 @@
 
 // act_filter_f_11[00_00] (column 2)
 
-ごろごろする=Lounging around
-//ボーッとする=
+ごろごろする=Lounge around
+ボーッとする=Space out
 リビングに行く=Go to the living room
 ソファに座る=Sit on the sofa
 
@@ -171,47 +171,47 @@
 
 // act_filter_m_00[00_00] (column 2)
 
-//腕組して寝る=
-//ふっと一息=
+腕組して寝る=Sleep with arms folded
+ふっと一息=Take a break
 
 // act_filter_m_02[00_00] (column 2)
 
-//休憩所に移動する=
-//診察机に戻る=
-//入院ベッドを見に行く=
-公園に誘う=Invite to the park
-カフェに誘う=Invite to the cafe
-レストランに誘う=Invite to the restaurant
-//診察椅子に移動する=
+休憩所に移動する=Move to break area
+診察机に戻る=Return to exam desk
+入院ベッドを見に行く=Go check hospital bed
+公園に誘う=Invite to park
+カフェに誘う=Invite to cafe
+レストランに誘う=Invite to restaurant
+診察椅子に移動する=Move to exam chair
 
 // act_filter_m_04[00_00] (column 2)
 
-//机に座る=
-//棚を点検する=
-//備品倉庫を点検する=
-//教卓の前に立つ=
-//ブレーカーを点検する=
-//立って寝る=
+机に座る=Sit at desk
+棚を点検する=Check shelves
+備品倉庫を点検する=Check supply closet
+教卓の前に立つ=Stand in front of lectern
+ブレーカーを点検する=Inspect breakers
+立って寝る=Sleep standing up
 
 // act_filter_m_06[00_00] (column 2)
 
-//テーブルで休憩する=
+テーブルで休憩する=Rest at table
 
 // act_filter_m_08[00_00] (column 2)
 
 一息つく=Take a break
-//セクシーポーズをとる=
+セクシーポーズをとる=Strike a sexy pose
 
 // act_filter_m_10[00_00] (column 2)
 
 仮眠する=Take a nap
-ソファーの様子を見る=See the sofa
+ソファーの様子を見る=See what's happening on the sofa
 テーブルに戻る=Return to the table
 
 // act_filter_m_15[00_01] (column 2)
 
-//待機=
-//元の姿勢に戻る=
+待機=Wait
+元の姿勢に戻る=Return to original position
 起こす=Wake up
 
 // act_filter_m_02[00_00] (column 3)
