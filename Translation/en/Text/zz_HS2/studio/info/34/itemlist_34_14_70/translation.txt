@@ -1,0 +1,12 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+//ふすま=
+障子=Paper Sliding Door
+畳床(大)=Tatami Floor (Large)
+畳1=Tatami Mat 1
+畳2=Tatami Mat 2
+ししおどし=Shishi-odoshi
+//小さな灯篭=
+//石の皿=
+石橋=Ishibashi

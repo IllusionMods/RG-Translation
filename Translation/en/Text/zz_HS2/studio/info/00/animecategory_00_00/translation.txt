@@ -1,0 +1,16 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+基本=Basic
+ポーズ=Pose
+感情=Emotions
+歩く・走る=Walking & Running
+遊戯=Game
+アクション=Action
+採取=Collection
+椅子=Chairs
+椅子・机=Sitting At Desk
+床=Sitting On Floor
+飲食=Food & Drink
+寝=Laying
+主人公=Hero

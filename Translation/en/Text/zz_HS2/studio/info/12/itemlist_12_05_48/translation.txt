@@ -1,0 +1,13 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+柊のブローチ=Christmas Brooch
+サンタの帽子=Santa's Hat
+雪の結晶=Snowflake
+雪の結晶ピアス=Snowflake Earring
+雪の結晶ステッキ=Snowflake Wand
+モコモコチョーカー=Fluffy Choker
+クリスマスチョーカー=Christmas Choker
+クリスマスリボン（太）=Large Christmas Ribbon
+クリスマスリボン（細）=Small Christmas Ribbon
+クリスマスベル=Christmas Bell

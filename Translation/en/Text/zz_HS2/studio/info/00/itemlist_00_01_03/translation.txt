@@ -1,0 +1,27 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+木天井１=Wooden Ceiling 1
+木天井２=Wooden Ceiling 2
+木天井３=Wooden Ceiling 3
+木天井４=Wooden Ceiling 4
+木天井５=Wooden Ceiling 5
+木天井６=Wooden Ceiling 6
+石天井１=Stone Ceiling 1
+石天井２=Stone Ceiling 2
+石天井３=Stone Ceiling 3
+石天井４=Stone Ceiling 4
+石天井５=Stone Ceiling 5
+石天井６=Stone Ceiling 6
+シンプルな天井１=Simple Ceiling 1
+シンプルな天井２=Simple Ceiling 2
+シンプルな天井３=Simple Ceiling 3
+シンプルな天井４=Simple Ceiling 4
+シンプルな天井５=Simple Ceiling 5
+シンプルな天井６=Simple Ceiling 6
+木屋根１=Wooden Roof 1
+木屋根２=Wooden Roof 2
+石屋根１=Stone Roof 1
+石屋根２=Stone Roof 2
+シンプルな屋根１=Simple Roof 1
+シンプルな屋根２=Simple Roof 2

@@ -1,0 +1,12 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+全体光=Entire Map
+ポイントライト=Point Light
+スポットライト=Spotlight
+全体光(キャラ)=Whole Light (Char)
+ポイントライト(キャラ)=Point Light (Char)
+スポットライト(キャラ)=Spotlight (Char)
+全体光(マップ)=Whole Light (Map)
+ポイントライト(マップ)=Point Light (Map)
+スポットライト(マップ)=Spotlight (Map)

@@ -1,0 +1,38 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+大砲=Cannon
+大砲(筒)=Cannon (Barrel)
+大砲(台)=Cannon (Stand)
+大砲(玉)=Cannonball
+爆弾=Bomb
+バリスタ=Ballista
+バリスタの槍=Ballista Javelin
+布袋=Cloth Bag
+コイン=Coin
+宝箱1=Treasure Chest 1
+宝箱2=Treasure Chest 2
+タンバリン=Tambourine
+マラカス=Maracas
+音楽機器１=Karaoke Machine 1
+音楽機器２=Karaoke Machine 2
+マイクスタンド=Microphone Stand
+マイク=Microphone
+充電器１=Charging Dock 1
+充電器２=Charging Dock 2
+監視カメラ=Surveillance Camera
+リールライト=Light Batten
+音響機器１=Loudspeaker 1
+音響機器２=Loudspeaker 2
+音響機器３=Loudspeaker 3
+音響機器４=Loudspeaker 4
+照明機器１=Stage Lighting 1
+照明機器２=Stage Lighting 2
+照明機器３=Stage Lighting 3
+照明機器４=Stage Lighting 4
+照明機器５=Stage Lighting 5
+簡易鉄骨（大）=Simple Steel Truss (Large)
+簡易鉄骨（中）=Simple Steel Truss (Medium)
+簡易鉄骨（小）=Simple Steel Truss (Small)
+大型の台=Large Steel Tower
+誘導柵=Guardrail

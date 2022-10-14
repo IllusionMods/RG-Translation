@@ -1,0 +1,11 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+床壁=Floors & Walls
+部屋=Rooms
+天井=Ceilings
+設置物=Installed Objs
+建造物=Structures
+自然物=Nature
+環境=Environment
+画像板=Image Board

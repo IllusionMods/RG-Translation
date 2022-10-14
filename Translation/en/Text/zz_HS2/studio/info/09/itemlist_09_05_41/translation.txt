@@ -1,0 +1,14 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+玉飾り=New Year Ornament
+羽の髪飾り左用=Left Head Feather
+羽の髪飾り右用=Right Head Feather
+ロイヤルクラウン=Royal Crown
+ロイヤルリボン=Royal Ribbon
+鎧兜=Knight Helmet
+騎士の肩当て=Knight's Shoulder Pad
+騎士の腰当=Knight's Hip Plate
+鬼神の腰当右用=Right Demon King Hip Guard
+鬼神の肩当て=Demon King Shoulder Pad
+トゲ=Knight Spike

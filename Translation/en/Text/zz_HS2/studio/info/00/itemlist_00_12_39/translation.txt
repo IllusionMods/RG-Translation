@@ -1,0 +1,24 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+鳥=Bird
+鶏=Chicken
+ヒヨコ=Chick
+蝶=Butterfly
+猫=Cat
+猫戦車=Cat Tank
+キュービー=Cuby
+妖精=Fairy
+黒い精霊=Black Spirit
+カエル=Frog
+カニ=Crab
+トアバ=Toaba
+ヤリマス=Yarimus
+コツブウオ=Dragonfly
+猫魚=Cat Fish
+オッチャン=Ochan
+コムツ=Komtsu
+オニブダイ=Onibudai
+ヌタウナギ=Japanese Eel
+魚雷=Torpedo
+お魚くわえた猫=Cat with a fish

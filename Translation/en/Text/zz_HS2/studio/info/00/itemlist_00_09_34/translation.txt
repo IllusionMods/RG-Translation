@@ -1,0 +1,17 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+鳥の鳴き声=Bird Call
+海（近）=Sea (Near)
+海（遠）=Sea (Far)
+木々=Trees
+川=River
+溝=Drain
+滝（小）=Waterfall (Small)
+滝（大）=Waterfall (Large)
+夜虫音=Nightworm Sound
+電子音=Electronic Sound
+焚き木=Wood
+松明=Torch
+扇風機=Fan
+水槽=Aquarium

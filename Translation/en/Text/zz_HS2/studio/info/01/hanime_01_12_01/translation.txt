@@ -1,0 +1,13 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+立ちin=Standing in
+立ちloop=Standing loop
+椅子in=Chair in
+椅子loop=Chair loop
+寝in=Sleep in
+寝loop=Sleep loop
+壁in=Wall in
+壁loop=Wall loop
+机in=Desk in
+机loop=Desk loop

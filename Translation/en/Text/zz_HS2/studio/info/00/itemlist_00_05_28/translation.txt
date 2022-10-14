@@ -1,0 +1,23 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+腕章=Armband
+バニーカフス左用=Left Bunny Cuff
+レザーアーム=Leather Arm
+バンダナ巻き=Bandana Armband
+アームレット=Armlet
+イルカとカラーストーン=Dolphin and Colored Stone
+レザーバングル=Leather Bangle
+ストーンブレスレット=Stone Bracelet
+腕時計=Watches
+リストバンド=Wristband
+シュシュ=Scrunchie
+メタルブレスレット=Metal Bracelet
+丸型腕時計=Round Watch
+薬瓶の腕輪=Medicine Bottle Bangles
+花のリング=Flower Ring
+ホロウォッチ=Holowatch
+光輪=Halo
+スマートウォッチ=Smart Watch
+スポーツブレスレット=Sports Bracelet
+ツイストリング=Twist Ring

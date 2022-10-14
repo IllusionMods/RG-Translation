@@ -1,0 +1,11 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+暴走の右手=Flames Right Hand
+抱きつきキュービー=Hug Cubby
+チアポンポン=Cheerleader Pompom
+シンプル指輪=Simple Ring
+スカルヘッド=Skull Ring
+ツインリング=Twin Ring
+宝石の指輪A=Gemstone Ring A
+宝石の指輪B=Gemstone Ring B

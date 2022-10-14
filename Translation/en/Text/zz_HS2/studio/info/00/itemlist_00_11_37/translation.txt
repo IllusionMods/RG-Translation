@@ -1,0 +1,15 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+採取手=Collecting Hand
+採取中=During Collecting
+採取床=Floating Sparkles
+採取あみ=Hovering Sparkles
+採取ピッケル=Picking Ice
+ダスト=Dust
+火=Fire
+火花=Spark
+煙=Smoke
+泡=Foam
+湯気=Steam
+シャワー=Shower

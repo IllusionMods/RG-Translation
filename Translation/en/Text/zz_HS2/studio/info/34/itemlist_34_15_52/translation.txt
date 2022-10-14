@@ -1,0 +1,9 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+//収納型ベッド=
+//ホテルのベッド=
+//病院のベッド=
+//拷問台=
+大きなベッド=Large Bed
+布団=Futon

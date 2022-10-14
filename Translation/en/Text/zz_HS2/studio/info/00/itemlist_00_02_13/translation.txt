@@ -1,0 +1,15 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+古式トイレ=Old-fashioned Toilet
+トイレ小屋=Toilet house
+和式トイレ=Squat toilet
+タイル床和式トイレ=Squat toilet with tiles
+トイレ=Toilet
+古びたトイレ=Old Toilet
+ドラム缶風呂=Bathing Drum
+シャワー=Shower
+シャワー列=Shower Line
+バスタブ=Bathtub
+金属製バスタブ=Metal Bathtub
+ジャグジー=Jacuzzi

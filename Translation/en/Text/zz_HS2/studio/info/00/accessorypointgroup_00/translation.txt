@@ -1,0 +1,13 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+髪=Hair
+頭=Head
+顔=Face
+首=Neck
+胴=Torso
+腰=Hips
+脚=Leg
+腕=Arms
+手=Hands
+股間=Crotch

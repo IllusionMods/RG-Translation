@@ -1,0 +1,17 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+壁松明=Wall Torch
+松明=Torch
+ドラム缶焚火=Barrel Bonfire
+焚火台=Bonfire Stand
+木製ライト=Wooden Lamp
+木製壁ライト=Wooden Wall Light
+室内照明=Ceiling Light
+ペンダントライト=Pendant Light
+シーリングファン=Ceiling Fan
+ランプ=Lamp
+ファンライト=Ceiling Fan with Light
+屋外用ライト=Outdoor Light
+街灯1=Streetlight 1
+街灯2=Streetlight 2

@@ -1,0 +1,15 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+基本形=Models
+ベース=Base
+家具=Furniture
+置物=Ornaments
+食材=Foodstuffs
+キャラ=Character
+Ｈアイテム=H-Items
+2D効果=2D Effects
+ギミック=Gimmicks
+3DSE=3D SFX
+エフェクト=Effects
+ペット=Pets

@@ -1,0 +1,13 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+焼き魚=Grilled Fish
+ココナッツスープ=Coconut Soup
+バナナイモサラダ=Banana Salad
+オムレツ=Omelette
+豪華ブイヤベース=Luxury Bouillabaisse
+カップ麺=Cup Noodle
+ダークマター=Dark Matter
+ホールケーキ=Whole Cake
+生卵=Raw Egg
+赤い実=Red Fruit

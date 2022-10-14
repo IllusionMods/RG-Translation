@@ -1,0 +1,8 @@
+//
+// Dumped for Honey Select 2 v1.2.1 by Text Dump v1.4.3.1
+//
+フリルハット=Frilled Hat
+マジシャンズネクタイ=Magician Tie
+マジシャンズマント=Magician Cloak
+マジシャンズマント（左）=Magician Cloak (Left)
+マジシャンズマント（右）=Magician Cloak (Right)

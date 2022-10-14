@@ -1,0 +1,24 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+レンズフレアA=Lens Flare A
+レンズフレアB=Lens Flare B
+レンズフレアC=Lens Flare C
+レンズフレアD=Lens Flare D
+レンズフレアE=Lens Flare E
+レンズフレアF=Lens Flare F
+レンズフレアG=Lens Flare G
+丸影=Circular Shadow
+色影=Colored Shadow
+色影(四角1)=Colored Shadow (Square 1)
+色影(四角2)=Colored Shadow (Square 2)
+色影(六角)=Color Shadow (Hexagon)
+色影(三角)=Color Shadow (Triangle)
+色影(ハート)=Color Shadow (Heart)
+色影(星)=Color Shadow (Star)
+色影(月)=Color Shadow (Moon)
+色影(欠月)=Color Shadow (Missing Month)
+色影(雫)=Color Shadow (Dark Blue)
+色影(十字)=Color Shadow (Cross)
+色影(縁円)=Color Shadow (Edge ​​Circle)
+色影(縁四角)=Color Shadow (Edge ​​Square)

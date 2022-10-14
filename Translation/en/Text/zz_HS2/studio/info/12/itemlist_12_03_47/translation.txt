@@ -1,0 +1,29 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+//電気ストーブ=
+//クリスマスツリー1=
+//クリスマスツリー2=
+//ツリーの植木鉢=
+//オーナメント1=
+//オーナメント2=
+//オーナメント3=
+//オーナメント4=
+//オーナメント5=
+//オーナメント6=
+//雪床=
+//雪だるま1=
+//雪だるま2=
+//雪の結晶1=
+//雪の結晶2=
+//雪の結晶ステッキ2=
+ソリ=Sleigh
+クリスマスケーキ=Christmas Cake
+みかん=Mandarin Orange
+丸いステンドグラス=Circular Stained Glass
+ステンドグラス１=Stained Glass 1
+ステンドグラス２=Stained Glass 2
+ステンドグラス３=Stained Glass 3
+ステンドグラス４=Stained Glass 4
+ステンドグラス５=Stained Glass 5
+太陽のステンドグラス=Sun Pattern Stained Glass

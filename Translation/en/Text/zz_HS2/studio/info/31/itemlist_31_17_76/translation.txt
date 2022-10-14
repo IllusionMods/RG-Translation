@@ -1,0 +1,10 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+戦士の鞘=Warrior Scabbard
+戦士の盾=Warrior Shield
+戦士の剣=Warrior Sword
+戦士のカチューシャ=Warrior Headband
+戦士のネックガード=Warrior Neck Armor
+戦士の肩鎧=Warrior Shoulder Armor
+戦士の肩鎧(半壊)=Damaged Warrior Shoulder Armor

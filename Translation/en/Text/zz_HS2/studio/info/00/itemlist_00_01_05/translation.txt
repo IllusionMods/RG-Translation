@@ -1,0 +1,30 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+小屋=Hut
+トタン小屋１=Tin Shed 1
+トタン小屋２=Tin Shed 2
+販売所=Shopping Stand
+街の噴水=Street Fountain
+白い噴水=White Fountain
+壊れた変電機=Broken Generator
+崩れたお店１=Collapsed Shop 1
+崩れたお店２=Collapsed Shop 2
+石材建築物１=Stone Building 1
+石材建築物２=Stone Building 2
+石材建築物３=Stone Building 3
+石材建築物４=Stone Building 4
+石材建築物５=Stone Building 5
+石材建築物６=Stone Building 6
+瓦礫１=Rubble 1
+瓦礫２=Rubble 2
+瓦礫３=Rubble 3
+何かの跡地１=Some Ruin 1
+何かの跡地２=Some Ruin 2
+何かの跡地３=Some Ruin 3
+壊れた桟橋=Broken Pier
+シャンのアジト=Shan's Hideout
+工場=Factory
+レストラン=Restaurant
+塔=Tower
+処理場=Treatment Plant

@@ -1,0 +1,9 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+ベース2=Base 2
+家具2=Furniture 2
+置物2=Ornaments 2
+キャラ2=Character 2
+武器2=Weapons 2
+3DSE2=3D SFX 2

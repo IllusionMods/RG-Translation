@@ -1,0 +1,8 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+サッシュリボン=Healer Ribbon
+垂れ布=Hanging Fabric
+ガンベルト=Western Gun Belt
+足縄(左)=Foot Rope (Left)
+足縄(右)=Foot Rope (Right)

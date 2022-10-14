@@ -1,0 +1,38 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+絵画１=Painting 1
+絵画２=Painting 2
+鏡=Mirror
+大きな鏡=Big Mirror
+ホログラムモニター=Holographic Monitor
+壁かけホログラム=Wall-Mounted Hologram
+何かのブレーカー=Something Breaker
+コンソール=Console
+ドアランプ=Door Lamp
+古びた梯子=Old Ladder
+古びた瓶=Old Bottle
+古びた空き缶=Old Empty Can
+消火栓=Fire Hydrant
+看板=Sign
+レンガ1=Brick 1
+レンガ2=Brick 2
+板1=Board 1
+板2=Board 2
+板3=Board 3
+流木1=Driftwood 1
+流木2=Driftwood 2
+鉄パイプ1=Iron Pipe 1
+鉄パイプ2=Iron Pipe 2
+鉄板=Iron Plate
+トタン=Tin
+ホース=Hose
+錆びた階段=Rusty Staircase
+壊れた樽=Broken Barrel
+ゴミ箱=Garbage Can
+床のゴミ=Garbage On The Floor
+鉱石=Ore
+鉱石のかけら=Fragment Of Ore
+空いた箱=Empty Box
+ふしぎな箱=Mysterious Box
+シャコ貝=Clam Shellfish
