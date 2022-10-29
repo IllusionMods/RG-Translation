@@ -1,0 +1,96 @@
+
+//***********************************************************************
+// 商店菜单
+//***********************************************************************
+#set level 5
+
+//------------------------------------------------------------
+// 普通
+//------------------------------------------------------------
+アダルトショップへ=去成人商店
+アイテムショップへ=去物品商店
+
+//------------------------------------------------------------
+// 物品商店
+//------------------------------------------------------------
+集中力UP=注意力 UP
+購入した時間帯から次の時間帯までの間、まじめ系の行動成功率と成績の成長値が上がります。=From the time of purchase to the next time of day,\nthe success rate of serious-type actions and the growth value of grades are increased.
+
+趣味の充実=兴趣充实
+購入した時間帯から次の時間帯までの間、あそび系の行動成功率と趣味の成長値が上がります。=From the time of purchase to the next time of day,\nthe success rate of playful actions and the growth value of hobbies are increased.
+
+フェロモン開放=Pheromone\nLiberation
+購入した時間帯から次の時間帯までの間、ユニーク系の行動成功率と色気の成長値が上がります。=From the time of purchase to the next time of day,\nthe success rate of eccentric-type actions and the growth value of sex appeal are increased.
+
+サプライズプラン=惊喜计划
+購入すると次のデートに誘う行動の一回のみデート成功率が上がります。=If you purchase,\nthe date success rate will increase only once when asking someone out on the next date.
+
+高速ラーニング=高速学习
+購入した時間帯から次の時間帯までの間、ステータスの成長値が２倍になります。=From the time of purchase to the next time of day,\nthe growth value of the status is doubled.
+
+休養月間=休养月
+購入した時間帯から次の時間帯までの間、スタミナが回復した場合に効果量がアップします。=From the time of purchase to the next time of day,\nstamina recovering is increased
+
+イメチェン=Image Change
+次の日になるまで行動による性質の変動値が2倍になり、性質が変動しやすくなります。=The value of the nature change by the action is doubled\nuntil the next day and the nature is more likely to change.
+
+特別ボーナス=特别奖励
+キャラクター全体の所持金が300アップします。　=The character's total amount of money is increased by 300.　
+
+一発逆転=Turning\nTables
+次の日になるまでスロットの成功率が低下する代わりに入手できる金額が増えます。=The success rate of the slot machine is reduced until the next day,\nbut the amount of money available is increased.
+
+親交を深める=Deepen\nFriendship
+次の日になるまで興味がランクダウンしないようになります。=The interest will not be down until the next day.
+
+サービスクーポン=Service\nCoupon
+次の日になるまでカフェとレストランの利用料金が無料になります。=Until the next day, the cafe and restaurant will be free.
+
+ストレス発散=Stress Release
+購入するとキャラクター全体の不満を0に戻すことが出来ます。=The purchase will return the entire character's dissatisfaction to 0.
+
+//------------------------------------------------------------
+// 成人商店
+//------------------------------------------------------------
+エッチ成功率UP=H成功率UP
+次の一回のみ、エッチをお願いしてできる確率がすこし上がります。=下一次，请求H成功的机率会略微上升。
+
+利尿剤=利尿剂
+次のエッチ中のみ、女の子が絶頂したら必ず失禁するようになります。=下一次H中，女孩子高潮的话一定会失禁。
+
+脱力剤=脱力剂
+次のエッチ中のみ、女の子が一回絶頂すると必ず脱力状態になります。=下一次H中，女孩子高潮一次就会处于无力状态。
+
+敏感薬=敏感药
+次のエッチ中のみ、女の子が絶頂するたびに必ず潮をふくようになります。=在下一次H中，每次女孩子高潮的时候一定会喷水。
+
+精力増強剤=精力增强剂
+次のエッチ後一回のみ、エッチ後に再度エッチに誘われやすくなります。=下一次H后只会触发一次，H之后更容易被再次邀请H。
+
+//Present
+次のエッチ後一回のみ、エッチ後にエッチしたキャラクター全員の興味が1つ上がります。=Only once after the next sex,\nthe interest of all the characters who have sex with each other is increased by one.
+
+エロスへの興味=Interest in Eros
+次のエッチ後一回のみ、エッチ慣れの経験値が2倍になります。=下一次H后只会触发一次，获得两倍H熟练度的经验值。
+
+ホテルクーポン=酒店优惠券
+次のホテル利用料金を一回だけ無料になります。=下一次使用酒店免费。
+
+夜遊び=夜生活
+次のエッチ後一回のみ、入手経験値がすこし増えます。=下一次H后只会触发一次，得到的经验值会略微增加。
+
+媚薬=媚药
+次のエッチ中のみ、女の子の快感ゲージが上がりやすくなります。=下一次H中，女孩子的快感值会更容易上升。
+
+絶倫薬=绝伦药
+次のエッチ中のみ、男の快感ゲージが上がりやすくなります。=在下一次H中，男人的快感值会更容易上升。
+
+臨時収入=零时收入
+次のエッチ後一回のみ、女の子の所持金が500増えます。=下一次H后只会触发一次，女孩子的携带现金会增加500。
+
+#unset level 5
+
+//------------------------------------------------------------
+// 对话框
+//------------------------------------------------------------
+この商品を購入しますか？=你要购买这个商品吗？
