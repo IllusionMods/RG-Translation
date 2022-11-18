@@ -3,6 +3,7 @@
 English fan translation project for Room Girl. The translations are applied while the game is running and do not require replacing or modifying any game files.
 
 ## Prerequisites
+
 - BepInEx 6.0 pre.1. Use [BepInEx_UnityIL2CPP_x64_6.0.0-pre.1.zip](https://github.com/BepInEx/BepInEx/releases/tag/v6.0.0-pre.1)
 - XUnity Auto Translator for IL2CPP. Use [XUnity.AutoTranslator-BepInEx-IL2CPP
 ](https://github.com/bbepis/XUnity.AutoTranslator/releases)
@@ -21,17 +22,22 @@ Translation done purely by machines must be kept in the designated files (`zz_ma
 
 ### Basic operation and structure
 
-Each translation line follows the pattern: 
+Each translation line follows the pattern:
+
 ```
 original text=translated text
 ```
-Example: 
+
+Example:
+
 ```
 悟飯=Food
-``` 
+```
+
 Lines beginning with `//` are considered comments, i.e., they are not considered in the translation.
 
 The translations are all inside the `Bepinex\Translation\en\Text` folder. They are then split into the following directories:
+
 - `Main` - The main UI for the game.
 - `CharacterMaker` - Items for the Character Maker.
 - `H-Positions` - Names of sex positions
@@ -51,12 +57,14 @@ Texts use the `Text` directory. In this directory the first translation found fo
 ### Scope Levels
 
 To use scope levels, use the following structure:
+
 ```
 #set level xxx
 text=translation
 text2=translation2
 #unset level xxx
 ```
+
 Where "xxx" represents the number of the desired scope level. Below is a table containing the known scope levels and their locations:
 
 #### Known Scope Levels
@@ -74,11 +82,38 @@ Where "xxx" represents the number of the desired scope level. Below is a table c
 |  10   | Downloader            |
 |  11   | Nework Entry          |
 
+## Texture Translations
+
+Textures use the `Texture` directory. The original textures are in the `Image Source Files`.
+
+### The full steps
+
+To translate images:
+
+1. Remove Japanese text by covering background image.
+1. Add translated texts and adjust font size.
+1. Set text effects to match original texts styles.
+1. Save translated PNG files into Texture directory under your language code.
+
+Some images have alpha channel (semi-transparent) so that please make sure transparency is correctly set when making .ps files. Some parts of images have 99% transparency which are easy to be ignored.
+
+### .ps files Translation
+
+There is an easiler way to tranlsate Texture if the .ps file is ready in the repository.
+
+1. Open .ps files under `Image Source Files\PsFiles` directory with Photoshop. These .ps files have removed origninal Japanese text and translated into Chinese.
+1. Double click Chinese text you like to translate and fill the text in your language. All text effects are set but you may need to adjust font size and position.
+1. Select Export to PNG in Photoshop and save it into the `Texture` directory under your language code.
+
+### Troubleshooting
+
+If PNGs are not displayed in your game, please make sure `config\AutoTranslatorConfig.ini` is correctly updated, especially sections `TextFrameworks` and `Texture`.
+
 ## Tools
 
 - [Release Tool](https://github.com/SpockBauru/TranslationToolsHS2#releasetoolhs2) - Tool that cleans up the translation files to remove any unnecessary untranslated parts.
 - [Yomichan](https://foosoft.net/projects/yomichan/) - This browser plugin allows you to see the definition of Japanese words by putting your mouse over them in the browser and pressing shift.
 - Dictionaries:
-  - https://jisho.org/
-  - http://www.romajidesu.com/
+  - <https://jisho.org/>
+  - <http://www.romajidesu.com/>
   
