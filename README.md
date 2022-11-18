@@ -84,11 +84,9 @@ Where "xxx" represents the number of the desired scope level. Below is a table c
 
 ## Texture Translations
 
-Textures use the `Texture` directory. The original textures are in the `Image Source Files`.
+Textures use the `Texture` directory. The original textures are in the `Image Source Files` folder.
 
-### The full steps
-
-To translate images:
+### How to translate images
 
 1. Remove Japanese text by covering background image.
 1. Add translated texts and adjust font size.
@@ -97,12 +95,12 @@ To translate images:
 
 Some images have alpha channel (semi-transparent) so that please make sure transparency is correctly set when making .ps files. Some parts of images have 99% transparency which are easy to be ignored.
 
-### .ps files Translation
+### Translating textures using files from an image editor (easy way)
 
-There is an easiler way to tranlsate Texture if the .ps file is ready in the repository.
+There is an easier way to translate Textures by using files compatible with image editor softwares. For Room Girl, there are Photoshop files (`.ps` extension) in the repository already. Use the following steps to translate using `.ps` files:
 
-1. Open .ps files under `Image Source Files\PsFiles` directory with Photoshop. These .ps files have removed origninal Japanese text and translated into Chinese.
-1. Double click Chinese text you like to translate and fill the text in your language. All text effects are set but you may need to adjust font size and position.
+1. Open .ps files under `Image Source Files\PsFiles` directory with Photoshop. These .ps files have removed original  Japanese text and translated into Chinese.
+1. Double click Chinese text you like to translate and replace the text with your language. All text effects are set but you may need to adjust font size and position.
 1. Select Export to PNG in Photoshop and save it into the `Texture` directory under your language code.
 
 ### Troubleshooting
