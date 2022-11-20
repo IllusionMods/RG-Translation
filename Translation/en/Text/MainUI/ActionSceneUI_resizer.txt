@@ -8,9 +8,9 @@
 // Character Top Menu
 //------------------------------------------------------------
 // Status
-ActionScene/ActionUI(Clone)/Canvas/CharaSelectUI_04(Clone)/StatusUI/MoveArea/OtherInfo/MoveContent/imgBackground/imgGraphBackground/=ChangeFontSizeByPercentage(0.85)
+ActionScene/ActionUI(Clone)/Canvas/CharaSelectUI_06(Clone)/StatusUI/MoveArea/OtherInfo/MoveContent/imgBackground/imgGraphBackground/=ChangeFontSizeByPercentage(0.85)
 
-ActionScene/ActionUI(Clone)/Canvas/CharaSelectUI_04(Clone)/StatusUI/MoveArea/OtherInfo/MoveContent/imgBackground/Elements/=ChangeFontSizeByPercentage(0.8)
+ActionScene/ActionUI(Clone)/Canvas/CharaSelectUI_06(Clone)/StatusUI/MoveArea/OtherInfo/MoveContent/imgBackground/Elements/=ChangeFontSizeByPercentage(0.8)
 
 // Friendship
 ActionScene/ActionUI(Clone)/Canvas/CharaSelectUI_04(Clone)/StatusUI/MoveArea/RelationInfo/MoveContent/imgBackground/Scroll View/Viewport/Content/=ChangeFontSizeByPercentage(0.8)
