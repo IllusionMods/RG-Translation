@@ -1,0 +1,43 @@
+<color\=#ffff00ff>>その気になる</color>\n無視する\n怒る\n=<color\=#ffff00ff>>I like this</color>\nIgnore\nGet angry\n
+その気になる\n<color\=#ffff00ff>>無視する</color>\n怒る\n=Be anxious\n<color\=I like this\n<color\=#ffff00ff>>Ignore</color>\nGet angry\n
+その気になる\n無視する\n<color\=#ffff00ff>>怒る</color>\n=Be anxious\nignore\n<color\=I like this\nIgnore\n<color\=#ffff00ff>>Get angry</color>\n
+
+<color\=#ffff00ff>>ついていく</color>\nまた今度\n断る\n=<color\=#ffff00ff>>Follow</color>\nAnother time\nRefuse\n
+ついていく\n<color\=#ffff00ff>>また今度</color>\n断る\n=Follow\n<color\=#ffff00ff>>Another time</color>\nRefuse\n
+ついていく\nまた今度\n<color\=#ffff00ff>>断る</color>\n=Follow\nAnother time\n<color\=#ffff00ff>>Refuse</color>\n
+
+<color\=#ffff00ff>>公園</color>\nカフェ\nレストラン\n=<color\=#ffff00ff>>Park</color>\nCafe\nRestaurant\n
+公園\n<color\=#ffff00ff>>カフェ</color>\nレストラン\n=Park\n<color\=#ffff00ff>>Cafe</color>\nRestaurant\n
+公園\nカフェ\n<color\=#ffff00ff>>レストラン</color>\n=Park\nCafe\n<color\=#ffff00ff>>Restaurant</color>\n
+
+<color\=#ffff00ff>>受ける</color>\n断る\n=<color\=#ffff00ff>>Accept</color>\nRefuse\n
+受ける\n<color\=#ffff00ff>>断る</color>\n=Accept\n<color\=#ffff00ff>>Refuse</color>\n
+
+<color\=#ffff00ff>>奢ってもらう</color>\n申し訳ないので断る\n断る\n=<color\=#ffff00ff>>I'll get a drink</color>\nSorry, I'll decline\nRefuse\n
+奢ってもらう\n<color\=#ffff00ff>>申し訳ないので断る</color>\n断る\n=I'll get a drink\n<color\=#ffff00ff>>Sorry, I'll decline</color>\nRefuse\n
+奢ってもらう\n申し訳ないので断る\n<color\=#ffff00ff>>断る</color>\n=I'll get a drink\nSorry, I'll decline\n<color\=#ffff00ff>>Refuse</color>\n
+
+<color\=#ffff00ff>>手伝う</color>\n貸しにして手伝う\n拒否する\n=<color\=#ffff00ff>>Help</color>\nLend money and help\nDeny\n
+手伝う\n<color\=#ffff00ff>>貸しにして手伝う</color>\n拒否する\n=Help\n<color\=#ffff00ff>>Lend money and help</color>\nDeny\n
+手伝う\n貸しにして手伝う\n<color\=#ffff00ff>>拒否する</color>\n=Help\nLend money and help\n<color\=#ffff00ff>>Deny</color>\n
+
+<color\=#ffff00ff>>浮気を見逃す</color>\n弱みを握る\n何も追及しない\n=<color\=#ffff00ff>>Overlook the affair</color>\nTake advantage\nPursue nothing\n
+浮気を見逃す\n<color\=#ffff00ff>>弱みを握る</color>\n何も追及しない\n=Overlook the affair\n<color\=#ffff00ff>>Take advantage</color>\nPursue nothing\n
+浮気を見逃す\n弱みを握る\n<color\=#ffff00ff>>何も追及しない</color>\n=Overlook the affair\nTake advantage\n<color\=#ffff00ff>>Pursue nothing</color>\n
+
+<color\=#ffff00ff>>笑う</color>\nいやがる\n怒る\n=<color\=#ffff00ff>>Laugh</color>\nDislike\nGet angry\n
+笑う\n<color\=#ffff00ff>>いやがる</color>\n怒る\n=Laugh\n<color\=#ffff00ff>>Dislike</color>\nGet angry\n
+笑う\nいやがる\n<color\=#ffff00ff>>怒る</color>\n=Laugh\nDislike\n<color\=#ffff00ff>>Get Angry</color>\n
+
+<color\=#ffff00ff>>ＯＫする</color>\n断る\n軽蔑する\n=<color\=#ffff00ff>>I'm OK with that</color>\nDecline\nDespise\n
+ＯＫする\n<color\=#ffff00ff>>断る</color>\n軽蔑する\n=I'm OK with that\n<color\=#ffff00ff>>Decline</color>\nDespise\n
+ＯＫする\n断る\n<color\=#ffff00ff>>軽蔑する\n=I'm OK with that</color>\nDecline\n<color\=#ffff00ff>>Despise</color>\n
+
+<color\=#ffff00ff>>やめさせる</color>\n優しく注意する\n悪乗りする\n=<color\=#ffff00ff>>Stop it</color>\nGentle reminder\nTake advantage\n
+やめさせる\n<color\=#ffff00ff>>優しく注意する</color>\n悪乗りする\n=Stop it\n<color\=#ffff00ff>>Gentle reminder</color>\nTake advantage\n
+やめさせる\n優しく注意する\n<color\=#ffff00ff>>悪乗りする</color>\n=Stop it\nGentle reminder\n<color\=#ffff00ff>>Take advantage</color>\n
+
+<color\=#ffff00ff>>不正を報告する</color>\n警告する\n揺さぶりをかける\n無視\n=<color\=#ffff00ff>>Report wrongdoings</color>\nGive a warning\nShake it up\nIgnore\n
+<color\=#ffff00ff>>不正を報告する</color>\n警告する\n揺さぶりをかける\n無視\n=Report wrongdoings\n<color\=#ffff00ff>>Give a warning</color>\nShake it up\nIgnore\n
+不正を報告する\n警告する\n<color\=#ffff00ff>>揺さぶりをかける</color>\n無視\n=Report wrongdoings\nGive a warning\n<color\=#ffff00ff>>Shake it up</color>\nIgnore\n
+不正を報告する\n警告する\n揺さぶりをかける\n<color\=#ffff00ff>>無視</color>\n=Report wrongdoings\nGive a warning\nShake it up\n<color\=#ffff00ff>>Ignore</color>\n

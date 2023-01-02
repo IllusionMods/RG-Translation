@@ -1,0 +1,18 @@
+// Generic Regex for dialogues
+// Ask on a date
+sr:"^（(.+)とデート、したいな……誘っちゃおうかな……うん、そう\\n　しよう）$"=(I want to go on a date with $1... Maybe I should ask out... Yeah, I should)
+sr:"^（(.+)さんをデートに誘いましょう）$"=(Let's ask $1 out on a date)
+sr:"^（(.+)をデートに誘ってみよーっと）$"=(I'll ask $1 out on a date)
+sr:"^（……(.+)をデートに誘うか）$"=(... I'll ask out $1 on a date)
+sr:"^（さて……(.+)をデートに誘ってみるか）$"=(Well, let's see if I can get... $1 to go on a date with me)
+sr:"^（よし(.+)さんをデートに誘おう）$"=(Okay, let's ask... $1 out on a date)
+sr:"^（よし……(.+)さんをデートに誘ってみましょう）$"=(Okay... Let's ask $1 out on a date)
+sr:"^（よし……(.+)さんをデートに誘いましょ\\n　う）$"=(Okay... Let's ask $1 out on a date)
+sr:"^（よし、(.+)をデートに誘うとしよう）$"=(Okay... Let's ask $1 out on a date)
+sr:"^（よーし、(.+)をデートに誘っちゃお\\n　う！）=(Alright, let's ask $1 out on a date!)
+sr:"^（よーし、(.+)をデートに誘っちゃおう！）$"=(Alright, let's ask $1 out on a date!)
+sr:"^（(.+)さんをデートに……さ、誘います……）$"=(I'm going to ask $1 out on a date... I'll ask her out...)
+
+// Cheating
+sr:"^（なんてことでしょう……まさか(.+)さんが不正を\\n　しているなんて……）$"=(Oh my God, I can't believe... That $1 is cheating...)
+sr:"^（え……まさか(.+)さんが不正をしているな\\n　んて……）$"=(What? I can't believe that $1 is cheating...)

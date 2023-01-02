@@ -71,6 +71,7 @@ sr:"^(.+)に声をかける$"=Speak with $1
 社交=Social
 恋愛=Romance
 色気=Appeal
+H慣れ=H-Experience
 
 スタミナ切れ=Out Of Stamina
 疲労=Tired

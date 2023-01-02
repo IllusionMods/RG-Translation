@@ -1,0 +1,5 @@
+//Regexes for Studio
+
+#set exe RoomStudio
+
+r:^骨([0-9]+)$=Bone $1
