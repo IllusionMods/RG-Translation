@@ -12,6 +12,9 @@ sr:"^（よし、(.+)をデートに誘うとしよう）$"=(Okay... Let's ask $
 sr:"^（よーし、(.+)をデートに誘っちゃお\\n　う！）=(Alright, let's ask $1 out on a date!)
 sr:"^（よーし、(.+)をデートに誘っちゃおう！）$"=(Alright, let's ask $1 out on a date!)
 sr:"^（(.+)さんをデートに……さ、誘います……）$"=(I'm going to ask $1 out on a date... I'll ask her out...)
+sr:"^（ふふふ、(.+)をデートに誘ってみよっと）$"=(Hehe, I'm going to ask $1 out on a date.)
+sr:"^（よし、(.+)をデートに誘うぞ）$"=(Okay, I'm going to ask $1 out on a date.)
+
 
 // Cheating
 sr:"^（なんてことでしょう……まさか(.+)さんが不正を\\n　しているなんて……）$"=(Oh my God, I can't believe... That $1 is cheating...)
