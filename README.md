@@ -1,6 +1,6 @@
 # RG-Translation
 
-English fan translation project for Room Girl. The translations are applied while the game is running and do not require replacing or modifying any game files.
+Fan translation project for Room Girl. The translations are applied while the game is running and do not require replacing or modifying any game files.
 
 ## Prerequisites
 
