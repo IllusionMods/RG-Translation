@@ -4412,7 +4412,7 @@ OLユニーク=Office Lady Eccentric
 
 診察椅子　下半身診察=Examination chair Lower body examination
 誘惑=temptation
-誘惑中=being seduced
+誘惑中=Seducing
 
 // action_name_f[00_00] (column 3)
 
@@ -4443,7 +4443,7 @@ OLユニーク=Office Lady Eccentric
 しゃがんで様子を見る=Crouch down and see what's going on.
 //熱を測る=check someone's temperature
 元の場所に戻ってもらう=I'll let you get back to where you were.
-誘惑する=Seduce.
+誘惑する=Seduce
 //参考書を見る=See reference books
 //解説動画を見る=View Explanatory Video
 //ホワイトボードを確認する=Check the whiteboard.
@@ -4492,7 +4492,7 @@ OLユニーク=Office Lady Eccentric
 複数エッチを持ち掛ける=offer to have sex with multiple people
 股間を診察してもらう=Have your groin examined.
 患者を誘惑する=Seducing Patients
-エッチなことをする=do something naughty
+エッチなことをする=Do naughty things
 オーナーを誘惑する=Seduce the owner
 //マネージャーを誘惑する=Seduce the manager
 ファンを誘惑する=Seducing Fans

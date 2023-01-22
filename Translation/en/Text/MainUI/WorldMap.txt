@@ -43,6 +43,8 @@ Hシーン=Sex Scene
 時間帯を変更しますか？=Change the time period?
 の自室が開放されました=Her room has been unlocked
 ※自室開放※=※Room Unlocked※
+登録を解除しますか？=Do you want unregister?
+※キャラクターのステータスがリセットされます。=※Character status will be reset.
 
 #set level 5
 
@@ -61,5 +63,4 @@ Hシーン=Sex Scene
 
 キャラカード一覧=Character Card List
 
-登録を解除しますか？=Do you want unregister?
-※キャラクターのステータスがリセットされます。=※Character status will be reset.
+#unset level 5

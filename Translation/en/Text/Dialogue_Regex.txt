@@ -1,5 +1,10 @@
-// Generic Regex for dialogues
-// Ask on a date
+// ==================================================
+//
+// Regex for dialogues that are at the generic level -1
+//
+// ==================================================
+
+// Ask out on a date
 sr:"^（(.+)とデート、したいな……誘っちゃおうかな……うん、そう\\n　しよう）$"=(I want to go on a date with $1... Maybe I should ask out... Yeah, I should)
 sr:"^（(.+)さんをデートに誘いましょう）$"=(Let's ask $1 out on a date)
 sr:"^（(.+)をデートに誘ってみよーっと）$"=(I'll ask $1 out on a date)
@@ -14,7 +19,6 @@ sr:"^（よーし、(.+)をデートに誘っちゃおう！）$"=(Alright, let'
 sr:"^（(.+)さんをデートに……さ、誘います……）$"=(I'm going to ask $1 out on a date... I'll ask her out...)
 sr:"^（ふふふ、(.+)をデートに誘ってみよっと）$"=(Hehe, I'm going to ask $1 out on a date.)
 sr:"^（よし、(.+)をデートに誘うぞ）$"=(Okay, I'm going to ask $1 out on a date.)
-
 
 // Cheating
 sr:"^（なんてことでしょう……まさか(.+)さんが不正を\\n　しているなんて……）$"=(Oh my God, I can't believe... That $1 is cheating...)
