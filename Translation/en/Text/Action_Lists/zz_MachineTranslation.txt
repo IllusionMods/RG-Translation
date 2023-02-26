@@ -388,12 +388,12 @@
 一緒に……ホテルまでいきませんか？=Would you like to go with me... to the hotel?
 私と二人で……トイレに行きませんか？=Why don't you and I... go to the bathroom?
 お願いがあるんですけど……いいですか？=Can I ask you for a favor...?
-……トイレまで来てもらえませんか？　楽しいことがしたいんです=...could you please come to the restroom?　I'm trying to have some fun.
+……トイレまで来てもらえませんか？　楽しいことがしたいんです=...could you please come to the restroom? I'm trying to have some fun.
 
 // act_subtitle_f_08[00_00] (column 3)
 
 もっとパフォーマンスに腕を磨きたいと思っています=I'd like to hone my performance skills more.
-ホットヨガは本当に効果があるのでしょうか？　私としては、普通のヨガと変わりがない気がするのですが……=Does hot yoga really work?　For me, it seems no different than regular yoga...
+ホットヨガは本当に効果があるのでしょうか？　私としては、普通のヨガと変わりがない気がするのですが……=Does hot yoga really work? For me, it seems no different than regular yoga...
 もしよろしければ、レストランへ行きませんか？=If you would like, we can go to the restaurant.
 よければ、カフェでお茶をしませんか？=If you like, we can have tea at a cafe.
 公園でゆっくり過ごしませんか？=Why don't you spend some time in the park?
@@ -409,8 +409,8 @@
 その……ホテルへ行きませんか？=Well...why don't we go to a hotel?
 私とトイレへ行きませんか？=Would you like to go to the bathroom with me?
 お尋ねしたいことがありまして……=I would like to ask you a few questions...
-トイレに来ていただけませんか？　貴方と楽しみたいんです=Can you come to the bathroom?　I'd like to have some fun with you.
-今、大丈夫でしょうか？　その……悪い様にはしないつもりです=Are you okay now?　I mean, I'm not going to make it worse.
+トイレに来ていただけませんか？　貴方と楽しみたいんです=Can you come to the bathroom? I'd like to have some fun with you.
+今、大丈夫でしょうか？　その……悪い様にはしないつもりです=Are you okay now? I mean, I'm not going to make it worse.
 
 // act_subtitle_f_09[00_00] (column 3)
 
@@ -430,8 +430,8 @@
 そのぉ……良ければ、ホテルへ行きませんか？=Well...if you don't mind, why don't we go to a hotel?
 あの……一緒にトイレへ行きませんか？=Um...would you like to go to the bathroom with me?
 少しだけお付き合いいただけませんか？=Would you like to join us for a few minutes?
-トイレに来ていただけませんか？　私……楽しみたいんです=Could you please come to the bathroom?　I... want to have some fun.
-お時間大丈夫ですか？　決して悪い様にはしませんので……=Are you sure you have time for this?　I won't make it seem like I'm doing anything wrong...
+トイレに来ていただけませんか？　私……楽しみたいんです=Could you please come to the bathroom? I... want to have some fun.
+お時間大丈夫ですか？　決して悪い様にはしませんので……=Do you have a minute? I won't do anything wrong, so...
 
 // act_subtitle_f_10[00_00] (column 3)
 
@@ -523,7 +523,7 @@
 どうかしたの？=What's wrong?
 うん、いいよ=Yeah, okay.
 えぇと……ごめんね=Um... sorry.
-お喋りしたいの？　全然いいよ=You want to chat?　Not at all.
+お喋りしたいの？　全然いいよ=You want to chat? Not at all.
 そこまでお話したい気分じゃないかも……ごめんね=Maybe I'm not in the mood to talk that much... sorry.
 
 // act_subtitle_f_04[00_01] (column 5)
@@ -532,7 +532,7 @@
 そういうのはちょっと……=That kind of thing is a little...
 うわっ……！=Oh, my God!
 そう言われても困るよ……=I don't like it when you say that...
-いいの？　じゃあ、待ってるね=Are you sure?　Then I'll wait for you.
+いいの？　じゃあ、待ってるね=Are you sure? Then I'll wait for you.
 うぅ、残念だよ……=Ugh, I'm so sorry...
 
 // act_subtitle_f_05[00_00] (column 5)
@@ -569,8 +569,8 @@
 
 // act_subtitle_f_07[00_00] (column 5)
 
-力、入り過ぎていましたか？　ありがとうございます、気を付けますね=Was it too much force?　Thank you. I'll be careful.
-本当ですか？　それじゃあまたおすすめの曲があったら教えにきますね=Really?　Then I'll come back to tell you if I have any more song recommendations.
+力、入り過ぎていましたか？　ありがとうございます、気を付けますね=Was it too much force? Thank you. I'll be careful.
+本当ですか？　それじゃあまたおすすめの曲があったら教えにきますね=Really? Then I'll come back to tell you if I have any more song recommendations.
 どうも、ありがとうございます=Thank you. Thank you very much.
 ……そうですか、分かりました=...Okay, I understand.
 
@@ -581,7 +581,7 @@
 // act_subtitle_f_08[00_00] (column 5)
 
 向上心があるのはとても良い事だと思います。私も負けていられません=I think it is very good that you have ambition. I can't be outdone either.
-どうなんでしょうか……？　詳しいことは、私には分かりません=What do you think?　I don't know the details.
+どうなんでしょうか……？　詳しいことは、私には分かりません=What do you think? I don't know the details.
 いいですね、ご一緒させていただきます=Great, I'll join you.
 すみません、お断りさせていただきます……=Sorry, I must decline...
 ……分かりました。残念ですが、仕方がありませんね=...I understand. I'm sorry, but I don't have a choice.
@@ -603,7 +603,7 @@
 
 お客様に感謝しないといけませんね=I have to thank my customers.
 それは素敵なことですね。色々なレシピに活用できそうですし、私も購入してみたくなりました=That is wonderful. It looks like it could be used in many different recipes and I would love to purchase some!
-本当ですか？　では、お待ちしています=Are you sure?　Then, I'll be waiting for you.
+本当ですか？　では、お待ちしています=Are you sure? Then, I'll be waiting for you.
 ……残念ですが、仕方ありませんね=...I'm sorry to hear that, but it can't be helped.
 
 // act_subtitle_f_09[00_01] (column 5)
@@ -652,11 +652,11 @@
 // act_subtitle_f_07[00_00] (column 7)
 
 もっと簡単な振り付けにしてほしいと思いませんか？=Wouldn't you like the choreography to be easier?
-ブログに上げていた風景の写真、どこで撮ったんですか？　私も行ってみたいです=Where did you take the pictures of the scenery you posted on your blog?　I'd like to visit there too!
+ブログに上げていた風景の写真、どこで撮ったんですか？　私も行ってみたいです=Where did you take the pictures of the scenery you posted on your blog? I'd like to visit there too!
 
 // act_subtitle_f_08[00_00] (column 7)
 
-勝負に熱くなり過ぎてはいけませんよ？　私達はあくまでエンターテイナーですから=Don't get too passionate about the game, okay?　We are entertainers.
+勝負に熱くなり過ぎてはいけませんよ？　私達はあくまでエンターテイナーですから=Don't get too passionate about the game, okay? We are entertainers.
 少し奮発して高いスパークリングワインを購入してみたんです=I got a little excited and bought some expensive sparkling wine.
 
 // act_subtitle_f_09[00_00] (column 7)
@@ -714,7 +714,7 @@
 今、期間限定で売ってるスイーツは美味しかったよ=The sweets they're selling now for a limited time are delicious.
 うん、付き合うよ=Yeah, I'll go out with you.
 ちょっと都合が良くないんだよね……=It's just not a little convenient...
-ん？　どうかした？=Hmm?　What's wrong?
+ん？　どうかした？=Hmm? What's wrong?
 大丈夫だよ=It's okay.
 悪いけど、付き合えないよ=I'm sorry, but I can't go out with you.
 分かった。いいよ=All right. All right.
@@ -733,7 +733,7 @@
 // act_subtitle_f_06[00_00] (column 9)
 
 その場のノリで何とかなるので、細かい事は気にしなくていいと思いますよ=You can get by on the spot, so I don't think you need to worry about the details.
-……向いてないと思いますよ？　普通にアイドルのスキルを磨いた方がファンも喜びますよ=I don't think you're suited for this.　I think your fans would be more pleased if you honed your skills as a regular idol.
+……向いてないと思いますよ？　普通にアイドルのスキルを磨いた方がファンも喜びますよ=I don't think you're suited for this. I think your fans would be more pleased if you honed your skills as a regular idol.
 いいですね、一緒に行きましょう=Great, let's go together.
 ごめんなさい……無理です=I'm sorry...I can't.
 私に用ですか？=You wanted to see me?
@@ -831,7 +831,7 @@
 たーくさんお小遣いが欲しいなぁ……=I wish I had a lot of spending money...
 外で何して遊んでるの？=What are you doing out there playing?
 二人でレストラン行かない？=Do you want to go to a restaurant with me?
-カフェに行かない？　そんな気分なんだ～=Wanna go to a cafe?　I'm in the mood.
+カフェに行かない？　そんな気分なんだ～=Wanna go to a cafe? I'm in the mood.
 一緒に公園に行かない？=Would you like to go to the park with me?
 時間があれば、こっちに来てほしいな～=If you have time, I wish you'd come over here!
 時間、大丈夫？=Time, okay?
@@ -849,11 +849,11 @@
 人間には休息が必要だと思うんだよね～=I think we humans need a break!
 どんな音楽が好きなの～？=What kind of music do you like~?
 カフェに行かない？=Wanna go to a cafe?
-一緒に公園行かない？　ダメ～？=Do you want to go to the park with me?　No?
+一緒に公園行かない？　ダメ～？=Do you want to go to the park with me? No?
 今からこっちに来て欲しんだけど～……いい？=I want you to come over here now... okay?
 あのさー、ちょっといい？=Hey, you know what?
 ちょっとお喋りでもしない？=Can we have a little chat?
-二人でゆっくりお喋りしない？　ダメ～？=Why don't you and I have a nice little chat?　No?
+二人でゆっくりお喋りしない？　ダメ～？=Why don't you and I have a nice little chat? No?
 
 // act_subtitle_f_11[00_01] (column 11)
 
@@ -896,8 +896,8 @@
 ん～……じゃ、再来週ぐらいにやろうか=Well, let's do it the week after next.
 そうですね……再来週ぐらいにやりましょうか=Well... let's do it the week after next or so.
 そう、ですね……再来週ぐらいに出来る様に調整しておきます=Yes, well... we'll make arrangements to do it the week after next or so.
-私かい？　軽いストレッチはよくやってるよ、スッキリするからね。君もやってみるといい=Me?　I do a lot of light stretching, it helps me feel better. You should try it too.
-私ですか？　軽いストレッチはスッキリするのでやっています。良かったら、あなたもやってみてください=Is it me?　I do light stretching because it refreshes me. If you want, you can try it too.
+私かい？　軽いストレッチはよくやってるよ、スッキリするからね。君もやってみるといい=Me? I do a lot of light stretching, it helps me feel better. You should try it too.
+私ですか？　軽いストレッチはスッキリするのでやっています。良かったら、あなたもやってみてください=Is it me? I do light stretching because it refreshes me. If you want, you can try it too.
 いいねぇ、喜んで付き合うよ=Great, I'll gladly go with you.
 すまないね、ちょっと都合が悪いんだ=Sorry, this isn't a good time.
 どうかしたのかい？=Is something wrong?
@@ -952,7 +952,7 @@
 
 // act_subtitle_f_06[00_00] (column 13)
 
-新しい仕事？　そんなもんねぇよ。お前の実力が足りてないからな=New job?　There's no such thing. You're not good enough.
+新しい仕事？　そんなもんねぇよ。お前の実力が足りてないからな=New job? There's no such thing. You're not good enough.
 残念ですけど、新しい仕事は特にありません=Unfortunately, there are no new jobs in particular.
 強いて言えば酒だな=If I had to guess, I'd say alcohol.
 趣味ですか……強いて言えばお酒です=Hobbies... if I had to pick one, I'd say drinking.
@@ -965,7 +965,7 @@
 
 ま、今回は付き合ってやるよ=Well, I'll go out with you this time.
 付き合うつもりはない=I'm not going out with you.
-バカか？　付き合うわけがないだろ=Are you nuts?　I'm not going out with you.
+バカか？　付き合うわけがないだろ=Are you nuts? I'm not going out with you.
 
 // act_subtitle_f_07[00_00] (column 13)
 
@@ -990,7 +990,7 @@
 
 // act_subtitle_f_09[00_00] (column 13)
 
-本当ですか？　私もその現場に居合わせたかったです……=Really?　I wish I could have been there...
+本当ですか？　私もその現場に居合わせたかったです……=Really? I wish I could have been there...
 フクロウですか、興味深いですね。私も是非行ってみたいです=An owl, interesting. I would love to visit there too!
 
 // act_subtitle_f_10[00_00] (column 13)
@@ -1008,8 +1008,8 @@
 ありがとう、待ってるね=Thank you. I'll be waiting.
 ……ま、仕方ないかぁ=...well, I guess I don't have a choice.
 どうかしたか？=What's wrong?
-なぁに？　どうかしたの？=What is it?　What's wrong?
-ん？　何か用？=Hmm?　What do you want?
+なぁに？　どうかしたの？=What is it? What's wrong?
+ん？　何か用？=Hmm? What do you want?
 ま、いいよぉ=Well, okay.
 すまん、無理だ=Sorry, I can't.
 う～ん……ごめんねぇ=Ummm...sorry.
@@ -1045,7 +1045,7 @@
 
 // act_subtitle_f_11[00_01] (column 13)
 
-来てくれるの？　嬉しいよ=You're coming?　I'm glad you're here.
+来てくれるの？　嬉しいよ=You're coming? I'm glad you're here.
 ……来てくれないんだ=...they won't come.
 
 // act_subtitle_f_00[00_00] (column 15)
@@ -1062,7 +1062,7 @@
 
 早く治るといいですね=Hope you get well soon.
 あのお菓子、季節限定のフレーバーが売っていましたよ=That candy was sold in seasonal flavors!
-お加減はいかかがでしょう？　何かありましたらすぐに言ってくださいね=How are you feeling?　If you need anything, please let me know right away.
+お加減はいかかがでしょう？　何かありましたらすぐに言ってくださいね=How are you feeling? If you need anything, please let me know right away.
 
 // act_subtitle_f_02[04_00] (column 15)
 
@@ -1095,7 +1095,7 @@
 
 // act_subtitle_f_08[00_00] (column 15)
 
-お暇なときは私と勝負していただけませんか？　きっと満足していただけるはずです=If you are not busy, would you be willing to play with me?　I am sure you will be satisfied.
+お暇なときは私と勝負していただけませんか？　きっと満足していただけるはずです=If you are not busy, would you be willing to play with me? I am sure you will be satisfied.
 支配人はペットを飼っていらっしゃいますか？=Does the manager have any pets?
 
 // act_subtitle_f_09[00_00] (column 15)
@@ -1130,7 +1130,7 @@
 
 はい。気遣ってくれてありがとうございます=Yes, I am. Thank you for your concern.
 はい。気を遣っていただき、ありがとうございます=Yes, I am. Thank you for your attention.
-本当ですか？　教えてくれてありがとうございます=Is it true?　Thanks for letting me know.
+本当ですか？　教えてくれてありがとうございます=Is it true? Thanks for letting me know.
 そうですね、一緒に行きます=Yes, I will go with you.
 すみません……ちょっと都合が悪いんです=Sorry... it's just not a good time.
 大丈夫です。特に変わりにはありません=No problem. Nothing special.
@@ -1227,7 +1227,7 @@
 
 ……面倒事が起きる前に対処する方が賢いか。ケチらずに新しいものを買っておこう=...Is it wiser to deal with the hassle before it happens? Let's not be stingy and buy new ones.
 そうですね……もしものことが起きてしまう前に買い替えておきます=Well... we'll replace it before it happens.
-あー……ミニマリストというやつか？　否定はしないが、俺には理解できない行動だな=Uh...you mean the minimalist thing?　I don't deny it, but that's a behavior I just don't get.
+あー……ミニマリストというやつか？　否定はしないが、俺には理解できない行動だな=Uh...you mean the minimalist thing? I don't deny it, but that's a behavior I just don't get.
 否定するつもりはありませんが……私には理解できない行動です=I don't mean to be negative but... this is behavior I just don't understand.
 
 // act_subtitle_f_00[00_00] (column 19)
@@ -1378,7 +1378,7 @@
 
 // act_subtitle_f_07[00_00] (column 21)
 
-た、たくさん買ってます！　今度、ＳＮＳにあげておきます……=I'm buying a lot!　I'll put it up on social media next time...
+た、たくさん買ってます！　今度、ＳＮＳにあげておきます……=I'm buying a lot! I'll put it up on social media next time...
 たくさん買っていますよ。今度、ＳＮＳにあげますね=I buy a lot. I'll put it up on social media sometime.
 えぇと……アニメや漫画は……好きです……=Well... anime and manga... are my favorites...
 ライブ以外なら、アニメと漫画が好きです=If it's not live music, I like anime and manga.
@@ -1467,7 +1467,7 @@
 
 // act_subtitle_f_09[00_00] (column 23)
 
-運試しに私と勝負をしていただけませんか？　私に勝てば商談が上手くいくかもしれませんよ？=Would you like to try your luck and play a game with me?　If you beat me, we might have a good business meeting, right?
+運試しに私と勝負をしていただけませんか？　私に勝てば商談が上手くいくかもしれませんよ？=Would you like to try your luck and play a game with me? If you beat me, we might have a good business meeting, right?
 スカイダイビングに誘われたことがあるんですけれど、恐怖心が勝って断ってしまったんです=I was once invited to go skydiving, but my fear got the better of me and I refused.
 今から外でお話したいのですが……=I'd like to talk to you outside now...
 少しお金を貸していただけないでしょうか？=Can you lend me some money?
@@ -1477,7 +1477,7 @@
 いつも働いてて偉いね～。ほんとお疲れ様=You're always working, great job! Thanks for all your hard work!
 休みの日は何してるの～？=What do you do on your days off~?
 ねぇ、家まで来てくれない？=Hey, can you come over to my house?
-時間って平気？　会って話したいことがあるの=Are you sure you're okay with the time?　I need to see you. I need to talk to you.
+時間って平気？　会って話したいことがあるの=Are you sure you're okay with the time? I need to see you. I need to talk to you.
 
 // act_subtitle_f_11[00_00] (column 23)
 
@@ -1593,9 +1593,9 @@
 
 悪いけど、それは俺の仕事じゃないね～=Sorry, but that's not my job.
 申し訳ないですけど、それは私の仕事ではないので……=I'm sorry, but that's not my job...
-バイトしてもいいんじゃない？　アイドル業と両立できるならね～=Maybe you could get a part-time job.　As long as you can balance it with being an idol.
+バイトしてもいいんじゃない？　アイドル業と両立できるならね～=Maybe you could get a part-time job. As long as you can balance it with being an idol.
 アイドル業と両立できるなら、バイトしてもいいと思いますよ=If you can balance your idol work with a part-time job, I think you can do it.
-いいんですね？　では、私も向かいます=Are you sure?　Then I'm on my way.
+いいんですね？　では、私も向かいます=Are you sure? Then I'm on my way.
 
 // act_subtitle_f_08[00_00] (column 25)
 
@@ -1730,7 +1730,7 @@
 いいぜ、付き合ってやるよ=Fine, I'll go out with you.
 わりぃが付き合うつもりはない=Sorry, but I'm not going out with you.
 うおっ……！=Whoa!
-このタイミングでなに言ってんだ？　馬鹿か？=What are you talking about at this point in time?　Are you an idiot?
+このタイミングでなに言ってんだ？　馬鹿か？=What are you talking about at this point in time? Are you an idiot?
 すみません、お断りさせていただきます=Sorry, I must decline.
 すみません、お断りします=Sorry, I must decline.
 
@@ -1757,7 +1757,7 @@
 
 お前がそう思うんならそうじゃねぇの？=If that's what you think, isn't it?
 あなたがそう思うなら、そうなのかもしれないですね=If that's what you think, then maybe it is.
-さぁ？　好きでやるのが趣味だろ？　誰かの意見なんて気にするなよ=What do you think?　You do it because you like it. It's your hobby.　You don't give a shit what anybody thinks.
+さぁ？　好きでやるのが趣味だろ？　誰かの意見なんて気にするなよ=What do you think? You do it because you like it. It's your hobby. You don't give a shit what anybody thinks.
 あなたの好きなようにしたらいいと思いますよ=I think you should do what you want.
 
 // act_subtitle_f_04[00_00] (column 29)
@@ -1776,7 +1776,7 @@
 
 // act_subtitle_f_06[00_00] (column 29)
 
-努力が足りねぇんじゃねぇの？　知らんけど=Maybe they're not trying hard enough?　I don't know.
+努力が足りねぇんじゃねぇの？　知らんけど=Maybe they're not trying hard enough? I don't know.
 有名になるのは簡単じゃありませんから……努力するしかないと思いますよ=It's not easy to be famous... you just have to work hard.
 んじゃあ、アイドルやめて汗水たらして働け。そっちの方が儲かんだろ=Then quit being an idol and work hard. You'll make more money that way.
 そのまま我慢するか、バイトを頑張ったりするしかないと思いますよ=I think you'll just have to put up with it as it is, or try to get a part-time job or something.
@@ -1805,7 +1805,7 @@
 // act_subtitle_f_10[00_00] (column 29)
 
 そんな事して何が面白いんだよ……付き合うつもりねぇぞ=What's so funny about that... I'm not going out with you.
-……あたしで暇つぶししようとしてない？　付き合うつもりはないよ=Are you trying to pass the time with me?　I'm not going out with you.
+……あたしで暇つぶししようとしてない？　付き合うつもりはないよ=Are you trying to pass the time with me? I'm not going out with you.
 最近ハマってることか……競艇だな=You know what I've been into lately... boating.
 最近ハマってることかぁ……競艇かな=I guess I'm into boating these days.
 
@@ -1813,8 +1813,8 @@
 
 あー……あるな。金欠になると、しょっちゅうそういう気持ちになるぜ=Ah...yes. I get that feeling all the time when I'm broke.
 あー……あるある。金欠になると、しょっちゅうそういう気持ちになるよ～=Ahhh...yes, there is that. I often feel that way when I'm short of money.
-あ？　そりゃギャンブルだよ=What?　That's gambling.
-流行りの遊び？　それはもちろんギャンブルだよ～=A trendy game?　That's gambling, of course!
+あ？　そりゃギャンブルだよ=What? That's gambling.
+流行りの遊び？　それはもちろんギャンブルだよ～=A trendy game? That's gambling, of course!
 
 // act_subtitle_m_00_00[00_00] (column 3)
 
@@ -1867,7 +1867,7 @@
 少しお尋ねしたいのですが……=I would like to ask you a few questions...
 その……お時間いいですか？=Do you have a moment?
 ちょっとお喋りでもしませんか？=Why don't we have a little chat?
-たっぷりお喋りしませんか？　話したいことがあるんです=Would you like to have a nice chat?　I have something to tell you.
+たっぷりお喋りしませんか？　話したいことがあるんです=Would you like to have a nice chat? I have something to tell you.
 
 // act_subtitle_m_00_02[00_01] (column 3)
 
@@ -1906,7 +1906,7 @@
 
 // act_subtitle_m_00_02[00_01] (column 5)
 
-いいんですね？　じゃあ、待っています=Are you sure?　Then I'll wait for you.
+いいんですね？　じゃあ、待っています=Are you sure? Then I'll wait for you.
 
 // act_subtitle_m_00_00[00_00] (column 7)
 
@@ -2076,7 +2076,7 @@
 ちょっといいかい？=Can I have a word?
 今、時間はあるかい？=Do you have time now?
 ちょっとお喋りでもしないかい？=Can we have a little chat?
-どうだろう？　私とじっくりお喋りしないかい？=What do you think?　Would you like to have a long chat with me?
+どうだろう？　私とじっくりお喋りしないかい？=What do you think? Would you like to have a long chat with me?
 
 // act_subtitle_m_01_00[00_01] (column 3)
 
@@ -2133,7 +2133,7 @@
 それは素敵なことですね=That would be lovely.
 ありがとう、助かるよ=Thank you. That's very helpful.
 ……そうかい。いや、忙しいならいいんだ=...Oh, okay. No, it's okay if you're busy.
-いいんですか？　じゃあお願いしますね=Are you sure?　Then I'll ask you to do it.
+いいんですか？　じゃあお願いしますね=Are you sure? Then I'll ask you to do it.
 いえ……遠慮しておきますね=No...I'll pass.
 少し肩がこっているくらいで、特に問題はないです=I'm just a little stiff in the shoulders, no problems.
 
@@ -2155,7 +2155,7 @@
 // act_subtitle_m_01_02[00_00] (column 5)
 
 もう……そんなことを言うのは、よくないですよ=It's... not a good idea to talk like that anymore.
-手先が器用そうだから、ということでしょうか？　うふふ、なんだか面白いイメージですね=Is it because you seem to be good with your hands?　Hmmm, that's kind of an interesting image.
+手先が器用そうだから、ということでしょうか？　うふふ、なんだか面白いイメージですね=Is it because you seem to be good with your hands? Hmmm, that's kind of an interesting image.
 あ……いえ、難しいならいいんです=Uh... no, it's okay if it's difficult.
 
 // act_subtitle_m_01_02[00_01] (column 5)
@@ -2164,7 +2164,7 @@
 
 // act_subtitle_m_01_00[00_00] (column 7)
 
-率先してカルテの整理をやってくれてるんだって？　気が利くね～、ありがとう=I heard you're taking the initiative to organize the medical records.　That's very thoughtful of you - thank you.
+率先してカルテの整理をやってくれてるんだって？　気が利くね～、ありがとう=I heard you're taking the initiative to organize the medical records. That's very thoughtful of you - thank you.
 率先してカルテの整理をやってくださっていると聞きました。いつもありがとうございます=I heard that you have taken the initiative to organize the medical records. Thank you for everything.
 近頃の若者の間では、なにが流行っているんだい？=What's popular among young people these days?
 若い人の間では、なにが流行っているんですか？=What is popular among young people?
@@ -2228,11 +2228,11 @@
 
 // act_subtitle_m_01_00[00_00] (column 15)
 
-調子はどうだい？　変わったことがあれば、どんな些細なことでもいいから教えてくれると嬉しい=How are you doing?　I'd be glad to know if there's anything unusual, no matter how small.
-調子はどうですか？　何か変わったことがありましたら、些細なことでも教えてくださいね=How are you doing?　Please let me know if you notice anything unusual, even the smallest detail.
-健康に気を遣っているかい？　食事のバランスだけでも、よく考えておくことを勧めるよ=Are you taking care of your health?　I suggest you at least consider the balance of your diet.
-健康に気を遣っていますか？　食事のバランスだけでも、よく考えておくことをおすすめします=Are you taking care of your health?　We recommend that you think carefully about just how balanced your diet is!
-どうだい？　体調に代わりはないかい？=How are you feeling?　Are you feeling any better?
+調子はどうだい？　変わったことがあれば、どんな些細なことでもいいから教えてくれると嬉しい=How are you doing? I'd be glad to know if there's anything unusual, no matter how small.
+調子はどうですか？　何か変わったことがありましたら、些細なことでも教えてくださいね=How are you doing? Please let me know if you notice anything unusual, even the smallest detail.
+健康に気を遣っているかい？　食事のバランスだけでも、よく考えておくことを勧めるよ=Are you taking care of your health? I suggest you at least consider the balance of your diet.
+健康に気を遣っていますか？　食事のバランスだけでも、よく考えておくことをおすすめします=Are you taking care of your health? We recommend that you think carefully about just how balanced your diet is!
+どうだい？　体調に代わりはないかい？=How are you feeling? Are you feeling any better?
 体調はお変わりありませんか？=Are you feeling better?
 
 // act_subtitle_m_01_02[00_00] (column 15)
@@ -2262,7 +2262,7 @@
 // act_subtitle_m_01_01[00_00] (column 19)
 
 いつ頃退院できるんですか？=When can I leave the hospital?
-映画は映画館で見ますか？　それとも動画サービスで見ますか？=Do you watch movies in theaters?　Or do you watch movies through a video service?
+映画は映画館で見ますか？　それとも動画サービスで見ますか？=Do you watch movies in theaters? Or do you watch movies through a video service?
 
 // act_subtitle_m_01_00[00_00] (column 21)
 
@@ -2304,7 +2304,7 @@
 // act_subtitle_m_01_00[00_00] (column 25)
 
 褒めていただけて嬉しいです=I'm glad you appreciate the compliment.
-本当ですか？　それは良かったです。また今度持ってきますね=Really?　That's good to know. I'll bring it back some other time.
+本当ですか？　それは良かったです。また今度持ってきますね=Really? That's good to know. I'll bring it back some other time.
 助かるよ。では、また後で=Thanks for the help. I'll see you later.
 
 // act_subtitle_m_01_01[00_00] (column 25)
@@ -2393,7 +2393,7 @@
 
 // act_subtitle_m_02_01[00_01] (column 5)
 
-いいんだな？　じゃあ待ってるよ=Are you sure?　Then I'll wait for you.
+いいんだな？　じゃあ待ってるよ=Are you sure? Then I'll wait for you.
 
 // act_subtitle_m_02_02[00_00] (column 5)
 
@@ -2597,7 +2597,7 @@
 すみません、お伺いしたいことがあるのですが……=Excuse me, I would like to ask you...
 お前はやればできるはずだ。頑張れよ=You can do it if you try. You can do it.
 アナタはやれば出来るはずです。頑張ってください=You can do it if you try. Good luck!
-もう少し見られてる事を意識しろ！　なってないぞ！=You need to be a little more aware that you're being watched!　You're not!
+もう少し見られてる事を意識しろ！　なってないぞ！=You need to be a little more aware that you're being watched! You're not!
 もう少し見られていることを意識した方が良いですよ=You should be a little more aware that you're being watched.
 たまにはゆっくり話でもしねぇか？=Can't we just talk for a while?
 ……少し俺の話に付き合ってくれないか？=...Would you care to join me for a moment?
@@ -2612,8 +2612,8 @@
 
 アイドル活動の中で、なにが一番大変なんだい？=What is the hardest part of being an idol?
 アイドル活動の中で、なにが一番大変なんですか？=What is the hardest part of being an idol?
-何かと喉が大切なお仕事だろう？　おすすめののど飴を今度あげるよ=I know you have a job where your throat is important in some way.　I'll give you some of my recommended throat lozenges next time.
-何かと喉が大切なお仕事ですよね？　おすすめののど飴を今度持ってきます=Your throat is very important in your work, isn't it?　I'll bring you some recommended throat lozenges next time.
+何かと喉が大切なお仕事だろう？　おすすめののど飴を今度あげるよ=I know you have a job where your throat is important in some way. I'll give you some of my recommended throat lozenges next time.
+何かと喉が大切なお仕事ですよね？　おすすめののど飴を今度持ってきます=Your throat is very important in your work, isn't it? I'll bring you some recommended throat lozenges next time.
 私とカフェまで行かないかい？=Would you like to go to the cafe with me?
 悪いね、ちょっと確認したいんだけど……=Sorry, I just want to make sure...
 これからも頑張っておくれよ=Keep up the good work.
@@ -2621,14 +2621,14 @@
 これはほんの気持ちだよ=This is just a feeling.
 これはほんの気持ちです=This is just a feeling.
 時間はあるかい？=Do you have time?
-どうだろう？　私の話に付き合ってくれないかい？=What do you think?　Would you like to join me in my story?
+どうだろう？　私の話に付き合ってくれないかい？=What do you think? Would you like to join me in my story?
 ちょっと話したいことがあるんだが、付き合ってくれるかい？=I need to talk to you for a minute, will you come with me?
 
 // act_subtitle_m_03_01[00_01] (column 3)
 
-どうだい？　私とホテルまで行ってみないかい？=How about it?　Would you like to go to the hotel with me?
+どうだい？　私とホテルまで行ってみないかい？=How about it? Would you like to go to the hotel with me?
 私と二人でトイレへ行かないかい？=Would you like to go to the bathroom with me?
-ちょっとトイレまで来てくれるかい？　なに、悪いようにはしないよ=Can you come to the bathroom for a minute?　No, I won't make you feel bad.
+ちょっとトイレまで来てくれるかい？　なに、悪いようにはしないよ=Can you come to the bathroom for a minute? No, I won't make you feel bad.
 
 // act_subtitle_m_03_02[00_00] (column 3)
 
@@ -2638,7 +2638,7 @@
 私が好きなアニソンを歌ってもらえて嬉しかったです=I was happy to have them sing my favorite ani-songs.
 ぼ……僕と、レストランに行きませんか……？=Would you like to go to a restaurant with me?
 か、カフェでゆっくりしませんか……？=or why don't you relax at a cafe?
-こ、公園まで……行きませんか？　僕と、一緒に……=Would you like to go to the park?　Would you like to come with me...
+こ、公園まで……行きませんか？　僕と、一緒に……=Would you like to go to the park? Would you like to come with me...
 その……こっちまで、来てもらえませんか……？=Could you...could you come over here, please?
 そ、その……少しお話したいことがありまして……=Well, there's... there's something I wanted to talk to you about...
 ずっと……応援してますから……=I will always... support you...
@@ -2674,7 +2674,7 @@
 
 私が大変だと思うのは……写真撮影でしょうか。どういうポーズがいいか、毎回悩んでいるんです=I guess the hardest part for me is...the photo shoots. I have a hard time deciding what kind of pose I want every time!
 ありがとうございますっ。ちょうど探していたので、すごく助かります=Thank you very much. I was just looking for it and it helps a lot!
-来てくれるんだね？　ありがとう=You're coming, right?　Thank you.
+来てくれるんだね？　ありがとう=You're coming, right? Thank you.
 そうか、無理なんだね……=Okay, so you can't...
 ありがとうございます、嬉しいです=Thank you, I'm glad.
 
@@ -2685,23 +2685,23 @@
 
 // act_subtitle_m_03_02[00_00] (column 5)
 
-気持ちは嬉しいですけど、さすがにそれはダメですよ？　自分のお金ですから、大切にしてください=I'm glad you feel that way, but that's just not right, okay?　It's your money, so please take good care of it.
+気持ちは嬉しいですけど、さすがにそれはダメですよ？　自分のお金ですから、大切にしてください=I'm glad you feel that way, but that's just not right, okay? It's your money, so please take good care of it.
 前にリクエストしてくれていたので、頑張って練習していたんです。喜んでもらえたみたいで良かったです=She had requested it before, so I had practiced hard. I'm glad you were pleased.
 あ……ありがとうございます=Uh... thank you.
 無理……なんですね。あ、いえ……全然、大丈夫です……=You can't...can you? Oh, no... it's totally fine...
-ありがとうございます！　これからもよろしくお願いします！=Thank you!　Keep up the good work!
+ありがとうございます！　これからもよろしくお願いします！=Thank you! Keep up the good work!
 
 // act_subtitle_m_03_02[00_01] (column 5)
 
-い、いいんですか？　本当に、嬉しいです……=No, are you sure?　Really, I'm glad...
+い、いいんですか？　本当に、嬉しいです……=No, are you sure? Really, I'm glad...
 あ……残念です……=Oh...I'm sorry...
 
 // act_subtitle_m_03_00[00_00] (column 7)
 
 次のグッズに使うから、適当に動物の絵とサインを書いておけ。別に上手くなくていいから早めに頼むぞ=I'll use it for the next merchandise, so please draw some animals and sign it appropriately. It doesn't have to be good, so please do it as soon as possible.
 次のグッズに使うので、動物の絵とサインを書いてもらえますか。別に上手じゃなくても大丈夫です=Can you draw a picture of the animal and sign it for our next merchandise? It doesn't have to be very good.
-週に何度かは洒落たカフェでＳＮＳ用の写真を撮っておけよ。経費？　仕事じゃないんだから自腹だ=You should be at a fancy cafe a few times a week, taking pictures for social media. Expenses?　It's not a job, you're on your own.
-週に何度かはお洒落なカフェでＳＮＳ用の写真を撮ってください。経費……？　すみません、それは難しいです=Take photos for social networking several times a week at a trendy cafe. Expenses?　Sorry, that's difficult.
+週に何度かは洒落たカフェでＳＮＳ用の写真を撮っておけよ。経費？　仕事じゃないんだから自腹だ=You should be at a fancy cafe a few times a week, taking pictures for social media. Expenses? It's not a job, you're on your own.
+週に何度かはお洒落なカフェでＳＮＳ用の写真を撮ってください。経費……？　すみません、それは難しいです=Take photos for social networking several times a week at a trendy cafe. Expenses? Sorry, that's difficult.
 
 // act_subtitle_m_03_01[00_00] (column 7)
 
@@ -2733,7 +2733,7 @@
 // act_subtitle_m_03_02[00_00] (column 9)
 
 可愛いのは当然ですよ。それがアイドルの仕事ですから=It's natural to be pretty. That's what idols do.
-アニメ……？　あー……すみません、まだ観れていないんです=The cartoon?　Uh... sorry, I haven't seen it yet.
+アニメ……？　あー……すみません、まだ観れていないんです=The cartoon? Uh... sorry, I haven't seen it yet.
 ……そうですか、ありがとうございます。これからもよろしくお願いしますね=...Well, thank you very much. I look forward to working with you in the future.
 まぁ、大丈夫ですよ=Well, it's okay.
 
@@ -2741,15 +2741,15 @@
 
 チケットはちゃんと売れているかい？=Are the tickets selling well?
 チケットはちゃんと売れていますか？=Are tickets selling well?
-君、お酒は行ける口かい？　おすすめのワインがあるんだよ=Are you a drinker?　I have a wine recommendation.
-お酒はお好きですか？　おすすめのワインがあるんです=Do you like to drink?　We have some wine recommendations.
+君、お酒は行ける口かい？　おすすめのワインがあるんだよ=Are you a drinker? I have a wine recommendation.
+お酒はお好きですか？　おすすめのワインがあるんです=Do you like to drink? We have some wine recommendations.
 
 // act_subtitle_m_03_02[00_00] (column 11)
 
 ぼ、僕も……マネージャーになれるでしょうか……？=Can I be...a manager?
 私もマネージャーになれるでしょうか？=Can I be a manager too?
-こ、この間の期間限定のグッズなんですけど……余っていたり、しませんか？　保存用にもう一個ほしいんです……=I was wondering if you have any of these limited time goods left over?　I'd like to get another one for preservation...
-この間の期間限定のグッズなんですけど……余っていたりしませんか？　保存用にもう一個購入いしたいんです=I was wondering if you have any of these limited time goods..............................left over?　I'd like to buy another one for preservation.
+こ、この間の期間限定のグッズなんですけど……余っていたり、しませんか？　保存用にもう一個ほしいんです……=I was wondering if you have any of these limited time goods left over? I'd like to get another one for preservation...
+この間の期間限定のグッズなんですけど……余っていたりしませんか？　保存用にもう一個購入いしたいんです=I was wondering if you have any of these limited time goods..............................left over? I'd like to buy another one for preservation.
 
 // act_subtitle_m_03_01[00_00] (column 13)
 
@@ -2878,8 +2878,8 @@
 
 仕事ね～。ま、何かないか考えとくよ～=Work, huh? Well, I'll see what I can do.
 仕事ですか……何かあったか探しておきますね=Is it work...I'll see if I can find something for you.
-へ～、なんてバンド？　ちょっと気になるな～=Wow, what a band!　I'm a little curious.
-何ていうバンドですか？　ちょっと気になります=What band is this?　I'm a little curious.
+へ～、なんてバンド？　ちょっと気になるな～=Wow, what a band! I'm a little curious.
+何ていうバンドですか？　ちょっと気になります=What band is this? I'm a little curious.
 大丈夫なんですね。ではまた後ほど=I see that you are okay. I'll see you later.
 
 // act_subtitle_m_03_01[00_00] (column 25)
@@ -2913,7 +2913,7 @@
 // act_subtitle_m_04_00[00_00] (column 3)
 
 正直もう少し人手が欲しいのですが、中々支配人に言い出せずにいます……=To be honest, I would like to have a few more people, but I haven't been able to talk to the manager about it...
-支配人がいつも乗っている車の値段をご存知ですか？　目玉が飛び出るほどの高級品なんですよ=Do you know the price of the car the manager always drives?　It's so high-end that it makes your eyeballs pop out of your head!
+支配人がいつも乗っている車の値段をご存知ですか？　目玉が飛び出るほどの高級品なんですよ=Do you know the price of the car the manager always drives? It's so high-end that it makes your eyeballs pop out of your head!
 良ければ、私とレストランへ行きませんか？=Would you like to go to a restaurant with me?
 もしよければ、カフェでお茶をしませんか？=If you would like, we can have tea at a cafe.
 気分転換がてら公園に行こうと思うのですが、貴方もどうでしょうか？=I'm thinking of going to the park for a change, how about you?
@@ -2928,7 +2928,7 @@
 私と……ホテルへ行きませんか？=Would you like to go to a hotel with me?
 その……私とトイレへ行きませんか？=Would you like to go to the bathroom with me?
 今からトイレまで来ていただけませんか？=Could you please come to the restroom now?
-今からお付き合いいただけませんか？　後悔はさせません=Would you like to start a relationship with us now?　You won't regret it.
+今からお付き合いいただけませんか？　後悔はさせません=Would you like to start a relationship with us now? You won't regret it.
 
 // act_subtitle_m_04_01[00_00] (column 3)
 
@@ -2949,7 +2949,7 @@
 ホテルへ行くぞ。……断ったりしないだろ？=We're going to the hotel. ...you wouldn't say no, would you?
 ……トイレまで付き合ってくれるだろ？=...you'll accompany me to the bathroom, right?
 可愛がってやるからトイレまで来い=I'll take good care of you. Come on down to the bathroom.
-俺に付き合ってくれないか？　悪い様にはしないぞ=Will you go out with me?　I won't make it bad.
+俺に付き合ってくれないか？　悪い様にはしないぞ=Will you go out with me? I won't make it bad.
 
 // act_subtitle_m_04_02[00_00] (column 3)
 
@@ -2971,11 +2971,11 @@
 ちょっと……ホテルまで行きませんか？=Hey...why don't we go to the hotel?
 俺と一緒に……トイレへ行きませんか？=Would you like to... go to the bathroom with me?
 そのぉ……トイレまで来てもらえませんか？=Uh...could you please come to the restroom?
-少し付き合ってほしくて……いいですか？　後悔はさせませんよ=I just wanted you to hang out with me for a little while... okay?　You won't regret it.
+少し付き合ってほしくて……いいですか？　後悔はさせませんよ=I just wanted you to hang out with me for a little while... okay? You won't regret it.
 
 // act_subtitle_m_04_00[00_00] (column 5)
 
-私の方からお伝えしましょうか？　……まあ、聞き入れていただけるかは分かりませんが=Would you like me to tell you?　...well, I don't know if you'll listen.
+私の方からお伝えしましょうか？　……まあ、聞き入れていただけるかは分かりませんが=Would you like me to tell you? ...well, I don't know if you'll listen.
 あまり車には詳しくないもので……そこまで値が張るものだとは知りませんでした=I'm not much of a car guy... didn't know they were that pricey.
 ありがとうござます、助かります=Thank you very much, that helps.
 ……そうですか。いえ、無理を言って申し訳ありません=...I see. No, I'm sorry to impose on you.
@@ -3034,7 +3034,7 @@
 
 // act_subtitle_m_04_00[00_00] (column 9)
 
-本当ですか？　それは嬉しいです。これからも精進していこうと思います=Really?　I am glad to hear that. I will continue to devote myself to it.
+本当ですか？　それは嬉しいです。これからも精進していこうと思います=Really? I am glad to hear that. I will continue to devote myself to it.
 とても健全で素晴らしいことだと思います=I think it's very healthy and wonderful!
 
 // act_subtitle_m_04_01[00_00] (column 9)
@@ -3049,8 +3049,8 @@
 
 // act_subtitle_m_04_01[00_00] (column 11)
 
-新人は使えるようになったか？　客にとって新人ディーラーはカモだからな、早めに教育しておけよ=Is the new guy ready to use it?　New dealers are suckers for customers, so train them early.
-新人さんの様子はどうでしょうか？　早く慣れてもらう為にも、しっかり教育を行ってくださいね=How are the newcomers doing?　Please train them well to get them accustomed quickly!
+新人は使えるようになったか？　客にとって新人ディーラーはカモだからな、早めに教育しておけよ=Is the new guy ready to use it? New dealers are suckers for customers, so train them early.
+新人さんの様子はどうでしょうか？　早く慣れてもらう為にも、しっかり教育を行ってくださいね=How are the newcomers doing? Please train them well to get them accustomed quickly!
 お前には俺のマッスルカーコレクションを見せてやる=I'll show you my muscle car collection.
 貴方には私のマッスルカーコレクションを見せてあげますね=I'll show you my muscle car collection.
 
@@ -3117,8 +3117,8 @@
 
 // act_subtitle_m_04_01[00_00] (column 21)
 
-カジノにないモノですか……？　ん～、なんだろ？　正直、全然思いつかないです=Is it something that is not in the casino?　Hmmm...what is it?　To be honest, I can't think of anything at all.
-カジノにないモノですか……？　……よく考えてみましたが、全然思いつきません=What is it that the casino doesn't have?　...I've thought about it a lot, but I can't think of anything at all!
+カジノにないモノですか……？　ん～、なんだろ？　正直、全然思いつかないです=Is it something that is not in the casino? Hmmm...what is it? To be honest, I can't think of anything at all.
+カジノにないモノですか……？　……よく考えてみましたが、全然思いつきません=What is it that the casino doesn't have? ...I've thought about it a lot, but I can't think of anything at all!
 一等地にマイホームを建てたいと思ってます。間取りなんかも考えてあるんですよ=I would like to build my own home in a prime location. I have a floor plan in mind.
 一等地にマイホームを建てたいと思っています。間取りも既に考えています=I would like to build my own home in a prime location. I already have a floor plan in mind.
 
@@ -3132,8 +3132,8 @@
 
 実はな、新館の増築を考えているんだ=Actually, we're thinking of adding a new wing.
 実は新館の増築を考えているんです=Actually, we're thinking of adding a new wing.
-お前、貯金ばかりしてないか？　たまにはパーっと金を使えよ=You've been saving all your money, haven't you?　Why don't you spend some money once in a while?
-貯金ばかりしていませんか？　たまには贅沢しても良いと思いますよ=Do you save money all the time?　It's okay to splurge once in a while.
+お前、貯金ばかりしてないか？　たまにはパーっと金を使えよ=You've been saving all your money, haven't you? Why don't you spend some money once in a while?
+貯金ばかりしていませんか？　たまには贅沢しても良いと思いますよ=Do you save money all the time? It's okay to splurge once in a while.
 これから外で会えるか？=Can you meet me outside now?
 金を貸してくれ=Lend me the money.
 
@@ -3141,8 +3141,8 @@
 
 銀行員ってノルマが厳しいイメージがあるんですけど……実際どうなんでしょう？=I have an image that bankers have strict quotas...how is it really?
 銀行員はノルマが厳しいイメージがあるのですが、実際のところはどうなのでしょうか？=I have an image that bankers have strict quotas.
-職業柄お金持ちの人と関わる機会がたくさんありますよね？　どんな趣味を持っている人が多いんですか？=You have many opportunities to get involved with rich people because of your profession, don't you?　What kind of hobbies do most of them have?
-職業柄お金持ちの方と関わる機会がたくさんありますよね？　どの様な趣味を持っている方が多いのでしょうか？=You have many opportunities to interact with rich people in your profession, don't you?　What kind of hobbies do most of them have?
+職業柄お金持ちの人と関わる機会がたくさんありますよね？　どんな趣味を持っている人が多いんですか？=You have many opportunities to get involved with rich people because of your profession, don't you? What kind of hobbies do most of them have?
+職業柄お金持ちの方と関わる機会がたくさんありますよね？　どの様な趣味を持っている方が多いのでしょうか？=You have many opportunities to interact with rich people in your profession, don't you? What kind of hobbies do most of them have?
 これから外で会えませんか？=Can we meet outside now?
 あのぉ……お金を貸してもらえませんか？=Um...can I borrow some money?
 
@@ -3154,7 +3154,7 @@
 
 // act_subtitle_m_04_01[00_00] (column 25)
 
-本当ですか？　融資が必要でしたら、是非当銀行へお任せください=Are you sure?　If you need a loan, we can help you!
+本当ですか？　融資が必要でしたら、是非当銀行へお任せください=Are you sure? If you need a loan, we can help you!
 ……そうですね。経験の為と思って、奮発して何か購入するのも良いかもしれません=...I guess so. You might want to get excited and buy something for the experience!
 よし、決まりだ。また後でな=Okay, it's settled. See you later.
 
@@ -3266,7 +3266,7 @@
 
 とても使いやすいです。デザインも気に入っています=Very easy to use. I like the design too.
 それなりに飲みます。でも、そんなに強くはないんです=I drink in my own way. But not that strongly.
-難しいですか？　なら、大丈夫ですので=Is it difficult?　Then, it's okay.
+難しいですか？　なら、大丈夫ですので=Is it difficult? Then, it's okay.
 
 // act_subtitle_mob_00_00[00_01] (column 5)
 
@@ -3277,7 +3277,7 @@
 そうですね……たまに飽きることもあります=Yes... sometimes I get bored.
 最近……でもないですけど、運動がてら家の近所を散歩することにハマっています=Lately...but not recently, I've been into taking walks around my neighborhood for exercise.
 早くしろよ=Come on, come on, come on.
-無理なのか？　チッ……じゃあ、いい=You can't?　Well... okay, then.
+無理なのか？　チッ……じゃあ、いい=You can't? Well... okay, then.
 
 // act_subtitle_mob_00_01[00_01] (column 5)
 
@@ -3328,7 +3328,7 @@
 // act_subtitle_mob_00_00[00_00] (column 15)
 
 この間は新商品の件でお世話になりました=Thank you for your help with the new product the other day.
-最近、遊びに出かけてますか？　息抜きは大事ですよ=Have you been out for fun lately?　It's important to take a break!
+最近、遊びに出かけてますか？　息抜きは大事ですよ=Have you been out for fun lately? It's important to take a break!
 
 // act_subtitle_mob_00_00[00_00] (column 17)
 
@@ -3406,7 +3406,7 @@
 // act_subtitle_mob_01_01[00_00] (column 9)
 
 えぇと、飲めないお仕事の方が圧倒的に多いと思いますよ？=Well, I think there are far more jobs where you can't drink, right?
-……？　ありがとう、ございます……？=Thank you?　Thank you, sir?
+……？　ありがとう、ございます……？=Thank you? Thank you, sir?
 
 // act_subtitle_mob_01_00[00_00] (column 11)
 
@@ -3470,7 +3470,7 @@ SNSを見てることが多いかな=I guess I'm on social media a lot.
 
 // act_subtitle_mob_02_00[00_01] (column 5)
 
-よろしいんですね？　では、お待ちしています=Are you sure?　Then I'll be waiting for you.
+よろしいんですね？　では、お待ちしています=Are you sure? Then I'll be waiting for you.
 
 // act_subtitle_mob_02_01[00_00] (column 5)
 
@@ -3581,8 +3581,8 @@ SNSを見てることが多いかな=I guess I'm on social media a lot.
 
 // act_subtitle_mob_03_01[00_00] (column 3)
 
-……サインの練習なんかもしなきゃいけないのか？　アイドルってのは面倒だな=Do I have to practice signing too?　Being an idol is a pain in the ass.
-……サインの練習もしないといけないんですか？　アイドルは中々大変そうです=...Do you have to practice signing too?　It seems that being an idol is quite a challenge!
+……サインの練習なんかもしなきゃいけないのか？　アイドルってのは面倒だな=Do I have to practice signing too? Being an idol is a pain in the ass.
+……サインの練習もしないといけないんですか？　アイドルは中々大変そうです=...Do you have to practice signing too? It seems that being an idol is quite a challenge!
 酒に合うお菓子を知らねぇか？=Do you know any sweets that go well with alcohol?
 お酒に合うお菓子を知りませんか？=Do you know any sweets that go well with alcohol?
 
@@ -3590,7 +3590,7 @@ SNSを見てることが多いかな=I guess I'm on social media a lot.
 
 アドバイス、ありがとうございます。マネージャーに相談してみることにします=Thanks for the advice, I appreciate it. I will talk to my manager about it.
 はいっ。自分が普段聴かないような音楽も、聴こうと思います=Yes, I will listen to music that I don't normally listen to. I will listen to music that I would not normally listen to.
-お、来れるの？　ありがと～=Oh, you can come?　Thanks.
+お、来れるの？　ありがと～=Oh, you can come? Thanks.
 あー……来れないのかぁ……残念=Ahhh...too bad you can't come....
 
 // act_subtitle_mob_03_00[00_01] (column 5)
@@ -3631,14 +3631,14 @@ SNSを見てることが多いかな=I guess I'm on social media a lot.
 
 新しいアーティストを発掘してこいって言われてるんだけど、中々いないんだよね～=I've been told to go out and discover new artists, but there aren't many out there!
 新しいアーティストを探しているんですけれど……中々いないんですよね=I'm looking for new artists, but... they're hard to find.
-マネージャーは接待する機会も多いでしょ～？　今度、イチオシの店を紹介してあげるよ～=Managers have many opportunities to entertain, don't they?　I'll introduce you to my favorite restaurant next time.
+マネージャーは接待する機会も多いでしょ～？　今度、イチオシの店を紹介してあげるよ～=Managers have many opportunities to entertain, don't they? I'll introduce you to my favorite restaurant next time.
 マネージャーは接待する機会も多いですよね。今度、イチオシのお店をご紹介します=Managers have many opportunities to entertain. I'll introduce you to some of my favorite restaurants next time.
 
 // act_subtitle_mob_03_00[00_00] (column 13)
 
 あ～……やっぱりそうですよね……で、でも、案外身近に良いアーティストがいるかもしれませんよぉ？=Ah~...I guess that's true...but there might be a good artist around you...you know?
 あ……やっぱりそうですよね……で、ですが、案外身近に良いアーティストがいるかもしれませんよ？=Ah...I knew it...right...so...but there may be a good artist closer to you than you think, right?
-すごく助かりますぅ！　参考にさせていただきますね～=That's very helpful!　I will refer to it!
+すごく助かりますぅ！　参考にさせていただきますね～=That's very helpful! I will refer to it!
 すごく助かります、参考にさせていただきますね=That's very helpful. I'll take a look at it.
 
 // act_subtitle_mob_03_00[00_00] (column 15)
@@ -3661,8 +3661,8 @@ SNSを見てることが多いかな=I guess I'm on social media a lot.
 
 // act_subtitle_mob_03_00[00_00] (column 17)
 
-私が持っているライブハウスの中だと……ここなんかどうだい？　大きさ的にも丁度いいだろう=Of all the live music venues I have... how about this one?　It's just the right size.
-私が持っているライブハウスの中ですと……ここはいかがですか？　大きさ的にも丁度いいと思います=Of all the live music venues I have...how about this one?　I think it's just the right size.
+私が持っているライブハウスの中だと……ここなんかどうだい？　大きさ的にも丁度いいだろう=Of all the live music venues I have... how about this one? It's just the right size.
+私が持っているライブハウスの中ですと……ここはいかがですか？　大きさ的にも丁度いいと思います=Of all the live music venues I have...how about this one? I think it's just the right size.
 ほう、それは気になるねぇ。機会があればお願いするよ=Well, I'm curious about that. If you get a chance, I'd appreciate it.
 少し気になります。機会があればお願いしますね=I am a little concerned. I'd appreciate the opportunity to do so.
 いやぁ、すみません。ありがとうございます=Oh, no, sorry. Thank you.
@@ -3704,7 +3704,7 @@ SNSを見てることが多いかな=I guess I'm on social media a lot.
 ……私とホテルへ行きませんか？=Would you like to go to a hotel with me?
 ……私とトイレへ行きませんか？=Would you like to go to the bathroom with me?
 今トイレにいるのですが……来ていただけないでしょうか？=I'm in the bathroom...could you please come?
-お時間大丈夫ですか？　損はさせませんよ=Are you sure you have enough time?　I'm sure we can't hurt you.
+お時間大丈夫ですか？　損はさせませんよ=Are you sure you have enough time? I'm sure we can't hurt you.
 
 // act_subtitle_mob_04_01[00_00] (column 3)
 
@@ -3715,7 +3715,7 @@ SNSを見てることが多いかな=I guess I'm on social media a lot.
 
 // act_subtitle_mob_04_01[00_01] (column 3)
 
-付き合ってくれねぇか？　なに、悪い様にはしねぇよ=Will you go out with me?　No, I won't make it bad.
+付き合ってくれねぇか？　なに、悪い様にはしねぇよ=Will you go out with me? No, I won't make it bad.
 
 // act_subtitle_mob_04_00[00_00] (column 5)
 
@@ -3818,7 +3818,7 @@ SNSを見てることが多いかな=I guess I'm on social media a lot.
 
 ん～、あたしには労働の楽しさがまた分かんないから……バイトはしなくていいかな=Well, I don't know if I'll ever enjoy working again... so I don't think I'll have to work part-time.
 ううん。漫画を読んだり、動画を見たりもしてるよー=No, I don't. I also read comic books and watch videos!
-あー……無理そうですか？　なら、大丈夫です=Uh...you don't think you can?　Then you'll be fine.
+あー……無理そうですか？　なら、大丈夫です=Uh...you don't think you can? Then you'll be fine.
 
 // act_subtitle_mob_05_00[00_01] (column 5)
 
@@ -3851,15 +3851,15 @@ SNSを見てることが多いかな=I guess I'm on social media a lot.
 
 // act_subtitle_mob_05_01[00_00] (column 9)
 
-お、もしかしてあたしのこの才能に気付いてくれたの？　いや～、分かってくれる人がいて嬉しいよぉ=Oh, you've noticed my talent?　No, I'm glad to see that someone understands me.
+お、もしかしてあたしのこの才能に気付いてくれたの？　いや～、分かってくれる人がいて嬉しいよぉ=Oh, you've noticed my talent? No, I'm glad to see that someone understands me.
 ん～……やっぱりゲームをすることかなぁ=Hmmm...I guess it's playing games.
 
 // act_subtitle_mob_05_00[00_00] (column 11)
 
 仕事終わりの一杯の為に、一生懸命働いてる気がします=I feel like I'm working my ass off for a drink after work.
 仕事終わりの一杯の為に、一生懸命働いてる気がするよ～=I feel like I'm working my ass off for an after-work drink~!
-インドア派ですか？　それともアウトドア派ですか？=Are you an indoor person?　Or are you an outdoor person?
-インドア派？　それともアウトドア派？=Indoorsy or Outdoorsy?　Or are you an outdoor person?
+インドア派ですか？　それともアウトドア派ですか？=Are you an indoor person? Or are you an outdoor person?
+インドア派？　それともアウトドア派？=Indoorsy or Outdoorsy? Or are you an outdoor person?
 
 // act_subtitle_mob_05_00[00_00] (column 13)
 

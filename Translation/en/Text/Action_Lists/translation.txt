@@ -4496,7 +4496,7 @@ OL=Office Lady
 //オーナーを誘惑する=
 マネージャーを誘惑する=Seduce the manager
 //ファンを誘惑する=
-相手を誘惑する=Seduce them
+相手を誘惑する=Seduce
 //キッチンでエッチする=
 //お風呂でエッチする=
 

@@ -1,0 +1,11 @@
+その気になる\n無視する\n怒る\n=Feel like it\nIgnore\nGet Angry
+ついていく\nまた今度\n断る\n=Follow\nAnother time\nRefuse
+やめさせる\n優しく注意する\n悪乗りする\n=Make it stop\nGentle reminder\nTake advantage
+不正を報告する\n警告する\n揺さぶりをかける\n無視\n=Report Fraud\nWarning\nShaking things up\nIgnore
+公園\nカフェ\nレストラン\n=Park\nCafe\nRestaurant
+受ける\n断る\n=Accept\nRefuse
+奢ってもらう\n申し訳ないので断る\n断る\n=Have a drink\nDecline\nRefuse
+手伝う\n貸しにして手伝う\n拒否する\n=Help\nLend money and help\nRefuse
+浮気を見逃す\n弱みを握る\n何も追及しない\n=Overlook the affair\nSeize the weakness\nPursue nothing
+笑う\nいやがる\n怒る\n=Laught\nHate\nGet angry
+ＯＫする\n断る\n軽蔑する\n=I'm OK with it\nI refuse it\nI despise it.
