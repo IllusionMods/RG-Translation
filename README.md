@@ -5,8 +5,8 @@ Fan translation project for Room Girl. The translations are applied while the ga
 ## Prerequisites
 
 - BepInEx 6.0 pre.1. Use [BepInEx_UnityIL2CPP_x64_6.0.0-pre.1.zip](https://github.com/BepInEx/BepInEx/releases/tag/v6.0.0-pre.1)
-- XUnity Auto Translator for IL2CPP. Use [XUnity.AutoTranslator-BepInEx-IL2CPP
-](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- XUnity Auto Translator for IL2CPP. Use [XUnity.AutoTranslator-BepInEx-IL2CPP](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+- Room Girl Subtitles. Use [RG_Subtitles_v0.1_Alpha.zip](https://github.com/SpockBauru/SpockPlugins_Illusion/releases/tag/r7)
 
 ## Installation
 
@@ -53,6 +53,25 @@ Coordinate with other translators on the [Illusion Soft Discord server](https://
 ## Text Translations
 
 Texts use the `Text` directory. In this directory the first translation found for a given text is used every time that this same text is found. But sometimes the same word can have different meanings depending on where you are in the game, in this case you can use the "Scope Level" feature to tell which translation should be used in that part of the game.
+
+#### Personalities
+
+#### Character Personalities
+
+| ID | Name                 | English Name         | Source    |
+|:--:|:---------------------|:--------------- -----|:----------|
+| 00 | OL（タイプA）　　　　　| Office Lady (Type A) | Base Game |
+| 01 | OL（タイプB）　　　　　| Office Lady (Type B) | Base Game |
+| 02 | 看護師（タイプA）　　　| Nurse (Type A)       | Base Game |
+| 03 | 看護師（タイプB）　　　| Nurse (Type B)       | Base Game |
+| 04 | 学生（タイプA）　　　　| Student (Type A)     | Base Game |
+| 05 | 学生（タイプB）　　　　| Student (Type B)     | Base Game |
+| 06 | アイドル（タイプA）　　| Idol (Type A)        | Base Game |
+| 07 | アイドル（タイプB）　　| Idol (Type B)        | Base Game |
+| 08 | ディーラー（タイプA）　| Dealer (Type A)      | Base Game |
+| 09 | ディーラー（タイプB）　| Dealer (Type B)      | Base Game |
+| 10 | 無職（タイプA）　　　　| NEET (Type A)        | Base Game |
+| 11 | 無職（タイプB）　　　　| NEET (Type B)        | Base Game |
 
 ### Scope Levels
 

@@ -1,0 +1,7 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+私でよければ……喜んでお付き合いします=If it's okay with me I'll be happy to go out with you.
+私からもお礼を。感謝いたします=Thank you from me as well. Thank you very much.
+……気づかれる心配がないのでしたら、分かりました。お付き合いします=... If you don't have to worry about being noticed, I understand. I'll go out with you.
+……どうやら怪しまれていないようです=... Apparently not suspicious.

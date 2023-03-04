@@ -1,0 +1,13 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+全くもって構わないよ=I don't mind at all.
+ここでしたがるなんて……君も物好きだねぇ=You're a very curious man if you want to do it here.
+……どうしたんだい？　いったい……=What's going on? What the...
+私が起きるまで待てなかったのかな？　困ったもんだ……=Couldn't wait until I woke up? I'm in trouble...
+まあ……求められるのも悪くない。付き合うとするよ=Well... It's not bad to be wanted. I'll go out with you.
+……見ての通り、使用中なんだがね=... Which, as you can see, is in use.
+……仕方ない、手を貸すとしよう=... I don't have a choice, I'll lend a hand.
+……見ての通り、私が使ってるんだがね=... Which, as you can see, I'm using.
+……わかったよ。今回は付き合うとしよう=... Okay. Let's go out this time.
+私は賛成だ=I agree.

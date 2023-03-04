@@ -15,3 +15,10 @@
 ネグリジェ=Negligee
 マリンレジャートップス=Marine Leisure Tops
 スチームパンクトップス=Steampunk Tops
+レッドフードトップスA=Red Hood Tops A
+レッドフードトップスB=Red Hood Tops B
+クイーンドレス=Queen Dress
+黄金トップス=Golden Tops
+ボディリボン=Body Ribbon
+パンクオフショルダー=Punk off-the-shoulder
+ムートンコート=Mouton Coats

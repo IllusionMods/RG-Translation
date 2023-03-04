@@ -1,0 +1,12 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+わかりました。二人で楽しみましょう=I understand. Let's both have fun.
+ここでしたがるとは……変わった趣味をお持ちですね～=You have unusual tastes... That you want to do it here.
+……どうされました？=... What can I do for you?
+……私が起きるまで、どうして待てなかったんですか？=... Why couldn't you wait until I woke up?
+まあそれはともかく、お困りみたいですのでお付き合しましょう=Well, anyway, you seem to be in trouble, so let's go out with you.
+えっ？　使用中なんですが……=What? I'm using...
+……わかりました。お付き合いしましょう=... I understand. Let's go out with you.
+……使用中なんですが=... In use.
+……わかりました、ＯＫしましょう=... Okay, OK, let's do it.

@@ -1,0 +1,12 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+あなたの温もりが欲しいんですが……ダメですか？=I need your warmth... No?
+本当ですか？　嬉しいです……じゃあ、お願いしますね=Really? I'm glad... Then, please do.
+わざわざありがとうございます。それじゃあ……始めますか？=Thank you for taking the time to do this. So... Shall we begin?
+そうは言いますけど、期待していから来たんですよね？　なら、同じ穴の貉ですよ=You say that, but you're here because you expect it, right? Then we're all badgers in the same boat.
+起こしてしまって申し訳ない……その、少し私にお付き合いいただきたくて……ダメでしょうか？=Sorry to wake you up... Well, I was wondering if you could keep me company for a bit... No?
+分かってはいたんですが、我慢が出来なくて……すみません、これから良いですか？=I knew that, but I couldn't resist... I'm sorry, is this a good time?
+すみません、私も一緒に温まりたくなりまして……お願いできませんか？=Excuse me, I'd like to warm up with you... Could you please do that for me?
+三人で一緒に気持ち良くなりませんか？=Why don't the three of us feel better together?
+嬉しいお返事、ありがとうございます。では……よろしくお願いします=Thank you very much for your kind reply. Well then... Please do take care of it.

@@ -7,3 +7,5 @@
 チェインアンクレット右=Chain Anklet Right
 クリアレッグポーチ左=Clear Leg Pouch Left
 クリアレッグポーチ右=Clear Leg Pouch Right
+黄金ミサンガ左=Golden Missanga Left
+黄金ミサンガ右=Golden Missanga Right

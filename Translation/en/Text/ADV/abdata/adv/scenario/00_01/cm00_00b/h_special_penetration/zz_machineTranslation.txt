@@ -1,0 +1,5 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+いいですね……気兼ねなくできそうです=Great... I'll feel free to do it.
+……無事に終われましたね=... You made it to the end without incident.

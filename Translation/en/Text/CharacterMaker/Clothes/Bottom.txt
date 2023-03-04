@@ -10,3 +10,5 @@
 ロングフレアスカート=Long Flared Skirt
 マリンレジャーボトムスA=Marine Leisure Bottoms A
 マリンレジャーボトムスB=Marine Leisure Bottoms B
+黄金ボトムス=Golden Bottoms
+プリッツパンツスカート=Pritts Pants Skirt

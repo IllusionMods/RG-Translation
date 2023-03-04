@@ -5,3 +5,5 @@
 レースチューブトップ=Lace Tube Top
 フリルビスチェ=Frill Bustier
 マリンレジャースイム=Marine Leisure Swimsuit
+クリスマスインナートップ=Christmas Inner Top
+クイーンインナー=Queen Inner

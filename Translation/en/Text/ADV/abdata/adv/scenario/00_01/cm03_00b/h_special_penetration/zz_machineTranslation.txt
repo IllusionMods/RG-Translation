@@ -1,0 +1,5 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+ほう。本当に何でもするんだな？=Oh. You really would do anything, wouldn't you?
+どうやら本気らしいな。まぁいいだろう、色々手は回しておいてやる=Apparently, it is serious. Well, okay, I'll keep my fingers crossed.

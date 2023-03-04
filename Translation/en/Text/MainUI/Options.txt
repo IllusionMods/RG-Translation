@@ -136,6 +136,12 @@ Hシーン設定=H Scene Settings
 男２人目の服=2nd Man Clothes
 男２人目のアクセサリー=2nd Man Accessories
 男２人目の靴=2nd Man Shoes
+男３人目=3rd man
+男３人目の表示=3rd Man Display
+男３人目の男根=3rd Men Penis
+男３人目の服=3rd Man Clothes
+男３人目のアクセサリー=3rd Man Accessories
+男３人目の靴=3rd Man Shoes
 
 男を単色化=Monochrome Man
 男の単色カラー=Monochrome Men Color

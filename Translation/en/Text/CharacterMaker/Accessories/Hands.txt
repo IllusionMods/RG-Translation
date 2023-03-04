@@ -9,3 +9,8 @@
 【FK】クマのぬいぐるみ=[FK] Stuffed Bear
 クマのぬいぐるみ左用=Stuffed Bear Left
 クマのぬいぐるみ右用=Stuffed Bear Right
+バスケット=Basket
+竹扇子=Bamboo Folding Fan
+黄金ブレスレット=Golden Bracelet
+キャンディケイン=Candy Cane
+板チョコ=Bar of Chocolate

@@ -1,0 +1,8 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+では、お言葉に甘えさせて頂きます。ありがとうございます=Well, I will take your word for it. Thank you.
+（ありがたいな。機会があれば、私が奢らせてもらうとしましょう）=(Thanks. Let's say I'll buy you a drink when I get a chance)
+いえ、奢ってもらうのは申し訳ないので、自分の分はきちんと支払います=No, I'm sorry to ask you to buy me a drink, so I'll pay my share.
+はは、そう言われると少し揺らいでしまいますが……やはりここは自分で支払います=Haha, when you say it like that, I'm a little shaken... But after all, I'll pay for it myself here.
+いえ、結構です=No, thank you.

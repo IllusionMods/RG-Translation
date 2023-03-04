@@ -1,0 +1,13 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+ええ、構いませんよ=Yes, that's fine. 
+ここで求めてくるとは……貴方はかなり変わっていますね=You are quite unusual to be asking for it here.
+……何か……ご用ですか？=Can I help you?
+……なるほど、事情は理解しました。私が起きるのを待てない程、緊急の事態だったんですね=... I see, I understand the situation. It was so urgent that you couldn't wait for me to wake up.
+そういう事でしたら、お付き合いしましょう。寝起きの運動にちょうど良さそうですしね=If that's the case, I'll go out with you. And it sounds like a good way to get some exercise in bed.
+いやいや……今はトイレ中ですよ……=No, no, no... Now I'm in the bathroom...
+……その行動力に完敗です。分かりました、お付き合いしましょう=... I am completely defeated by your energy. I understand. Let's go out with you.
+その……使用中です……=Well... In use...
+……分かりました。今回は特別にお付き合いしましょう=... I understand. Let's make a special deal this time.
+是非ご一緒させて下さい=We'd love to have you with us.

@@ -1,0 +1,12 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+恥ずかしながら気分が高揚して……これから、宜しいでしょうか？=I'm ashamed to admit that my mood was uplifted... Now, may I?
+感謝します。それでは、よろしくお願いいたします=Thank you very much. Now, I look forward to working with you.
+ご足労頂き感謝いたします。では、早速始めていきましょうか？=Thank you for your time. Let's get started, shall we?
+何を言われても構いません。もう……いいですよね？=I don't care what they say. I'm... Done... Right?
+起こしてしまい申し訳ございません。その……不躾ですが、少し私の相手をしてもらないでしょうか=I am sorry to have woken you up. I mean... I don't mean to be indelicate, but would you mind keeping me company for a bit?
+それは承知の上でございます。ただこちらにも事情がありまして……至急、お相手頂けませんか？=I am aware of that. However, we have our own circumstances.
+すみません……たまには悪くないかと思いまして……いかがでしょうか？=Sorry... I just thought it wouldn't be a bad idea once in a while... How about it?
+よろしければ、三人でいたしませんか？=If you like, the three of us can do it together.
+ありがとうございます。では、善は急げということで……=Thank you very much. Well then, let's get on with the good part...

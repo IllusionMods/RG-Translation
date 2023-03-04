@@ -1,0 +1,13 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+ええ、構いませんよ。二人で楽しみましょう=Yes, that's fine. We'll both have fun.
+本当にここでするのですか？　そこまで変態だとは……思っていませんでした=Are you sure you want to do it here? I didn't think you were that... Perverted.
+……どうか、しましたか？=... How did you do, sir?
+起き抜けにまさかのご提案ですね……さすがに驚きました=I didn't expect you to suggest it out of the blue... I was indeed surprised.
+ですが、構いませんよ。強く求められて、悪い気はしないですから=But I don't mind. I don't feel bad about being asked so strongly.
+今は使用中です……=Now in use...
+参りましたね……ですがまぁ、貴方の頼みとあれば……=I'm here... But, well, if you ask me to...
+……使用中、なのですが=... In use, but...
+困った人ですね……ですが、今回は特別にお付き合いすることにしましょう=You are a troubled person... But we will make a special arrangement this time.
+光栄なお誘いですね。私は問題ありません=It's an honorable invitation. No problem for me.

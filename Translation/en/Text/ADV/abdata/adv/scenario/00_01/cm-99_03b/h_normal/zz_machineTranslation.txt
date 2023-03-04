@@ -1,0 +1,10 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+そのぉ……これから私と触れ合いませんか？=Would you like to touch me from now on?
+ありがとうございます。では、早速……=Thank you very much. Now, without further ado...
+すみません……では、早速いいですか？=Excuse me... So can we get on with it?
+ここまで来た貴方が言えたことではないですって。ほら、楽しみましょう？=You can't say that you've come this far. Come on, let's have some fun.
+申し訳ないですぅ……どうしても我慢が出来なくなってしまって……お願い出来ませんか？=I'm sorry... I just couldn't resist... Can you please help me?
+すみません、今すぐ温もりが欲しくなって……お願い出来ませんか？=I'm sorry, I just need some warmth right now... Can you do me a favor?
+いやぁ、すみません……わかっていたんですが、我慢が出来なくて……今からお願い出来ませんか？=Oh no, I'm sorry... I knew that... But I couldn't resist... Can you please do it now?

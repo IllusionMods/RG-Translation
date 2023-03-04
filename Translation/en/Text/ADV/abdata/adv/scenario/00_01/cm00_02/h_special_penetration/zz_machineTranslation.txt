@@ -1,0 +1,7 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+嬉しいお誘いですね。もちろんお付き合いしますよ=That's a very nice invitation. Of course I'll go out with you.
+お礼を言いたいのは私の方です。ありがとうございました=I would like to thank you. Thank you very much.
+……分かりました、お付き合いしましょう=... Okay, I'll go out with you.
+……無事終われましたね=... You made it to the end.

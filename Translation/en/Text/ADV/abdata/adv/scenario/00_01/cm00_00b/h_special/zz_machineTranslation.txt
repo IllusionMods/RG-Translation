@@ -1,0 +1,5 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+暫くは会議室に誰も来ないんですが……今からどうでしょうか？=No one is coming to the conference room for a while... How about now?
+これからも、ここを使いましょう=Let's keep using this place!

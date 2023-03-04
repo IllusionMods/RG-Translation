@@ -1,0 +1,7 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+えっ……本当にあれで終わり何でしょうか？=What... Is that really the end?
+もしかして……私、アナタにからかわれたんでしょうか？=Maybe... I'm being made fun of by you?
+えぇと、何もしないで終わるんですか……？=Let's see, do we end up doing nothing?
+最後までするつもりがないのに、私を誘ったんですか……？=Did you ask me out when you didn't intend to finish?

@@ -22,6 +22,9 @@
 タイプ=Type
 適用=Apply
 削除=Delete
+グループ=Group
+ロング=Long
+フリル=Frill
 
 左=Left
 下=Downward

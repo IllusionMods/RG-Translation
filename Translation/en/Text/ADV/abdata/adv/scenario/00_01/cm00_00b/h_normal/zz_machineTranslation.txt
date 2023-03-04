@@ -1,0 +1,10 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+あなたの温もりが欲しいのですが……問題ありませんか？=I need your warmth... Is that a problem?
+嬉しいです。では、早速……=Glad to hear it. Now, without further ado...
+どうもありがとうございます。では、早速いいですか？=Thank you very much. Now, can we get on with it?
+どう思われても構いませんよ。あなたと楽しむことが出来ればそれで……=I don't care what you think. As long as I can have fun with you, that's all that matters...
+起こして申し訳ない……その、今からお付き合いいただけませんか……？=Sorry to wake you up... Well, would you mind keeping me company now?
+すみません、どうしても我慢できなくて……今から良いでしょうか？=I'm sorry, I just couldn't resist... Is now a good time?
+すみません、あなたと温まりたくなりまして……お願いできませんか？=I'm sorry, I just wanted to warm up with you... Could you do that for me please?

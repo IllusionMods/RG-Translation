@@ -16,3 +16,8 @@
 【FK】ウェーブエクステ=[FK] Wavy Hair extension
 【FK】ロング三つ編み=[FK] Long Braid
 【FK】ショート三つ編み=[FK] Short Braid
+クモの巣髪飾り=Spider Web Hair Ornaments
+クモの目髪飾り=Spider Eye Hair Ornaments
+トップスターリボン=Top Star Ribbon
+ポインセチア=Poinsettia
+リボンフラワー=Ribbon Flower

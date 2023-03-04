@@ -1,0 +1,10 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+（……ちょっと悪戯してみたくなってきたな）=(... I'm starting to feel like playing a little prank on you)
+（よし、少しくらいならいいだろう……）=(Okay, a little goes a long way...)
+もう少し声を抑えることを勧めるよ。聞かれたくはないだろ？=I suggest you keep your voice down a little more. You don't want to be heard, do you?
+（……それは流石にマズいか）=(That's not a good idea)
+だが……興奮しただろ？=But... Exciting, isn't it?
+今は会議室に誰も近づいてこない。だから……ここで楽しまないか？=No one is approaching the conference room right now. So... Why don't we have some fun here?
+よし……思った通りだ。これからも、ここを使うとしよう=Okay... Just as I thought. Let's keep using this place from now on.

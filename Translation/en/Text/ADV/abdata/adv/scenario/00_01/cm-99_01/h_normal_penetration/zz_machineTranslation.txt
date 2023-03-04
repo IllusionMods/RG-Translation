@@ -1,0 +1,13 @@
+//***********************************************************************
+//WARNING: This file is only for machine translations! Put manual translations in "translation.txt"
+//***********************************************************************
+貴方となら構いませんよ=I don't mind if it's with you.
+まったく……貴方は中々いい趣味をしていますね=You have very good taste, don't you?
+……何か……御用ですか？=Can I help you?
+あぁそういう……えぇと、少々お待ちくださいね……=Oh, well... Uh, just a moment, please...
+はい、大丈夫ですよ。寝惚けた答えではなくて、しっかり目を覚まして考えた答えですから=Yes, it's okay. It's not a sleepy answer, it's an answer I've thought about with my eyes wide open.
+今は私が使用中ですっ……=I'm using it right now...
+……本当ならお断りする所ですが、分かりました。特別にお相手しましょう=If it were true, I would have declined, but I understand. I'll make a special deal with you.
+……今は私が使用中です=... I'm using it right now.
+……分かりました。今回はお付き合いしましょう=... I understand. Let's keep you company this time.
+とても興味深いですね。是非参加させて頂きたいです=Very interesting. I would love to participate!

@@ -7,3 +7,9 @@
 腰巻シャツチェック柄=Waistcoat Shirt Checked
 ネズミ尻尾=Mouse Tail
 【FK】たこ足=[FK] Octopus Tentacle
+【FK】クモの足左用=[FK] Spider's Left Legs
+【FK】クモの足右用=[FK] Spider's Right Legs
+黄金ベルト=Golden Belt
+【FK】クモの一本足左用=[FK] Single Spider Left Leg
+【FK】クモの一本足右用=[FK] Single Spider Right Leg
+【FK】プリーツスカート=[FK] Pleated Skirt
