@@ -88,6 +88,7 @@ H慣れ=H-Experience
 性友=Sex Friend
 愛人=Paramour
 
+眼中にない=Don't care
 興味ない=Not interested
 いやではない=No strong feelings
 ついつい見てしまう=Can't stop glancing
