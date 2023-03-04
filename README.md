@@ -59,7 +59,7 @@ Texts use the `Text` directory. In this directory the first translation found fo
 #### Character Personalities
 
 | ID | Name                 | English Name         | Source    |
-|:--:|:---------------------|:--------------- -----|:----------|
+|:--:|:---------------------|:---------------------|:----------|
 | 00 | OL（タイプA）　　　　　| Office Lady (Type A) | Base Game |
 | 01 | OL（タイプB）　　　　　| Office Lady (Type B) | Base Game |
 | 02 | 看護師（タイプA）　　　| Nurse (Type A)       | Base Game |
